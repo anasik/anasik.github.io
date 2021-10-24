@@ -1,0 +1,34 @@
+---
+id: 3842
+title: What would it be like to travel at the speed of light?
+date: 2018-06-23T20:20:20+00:00
+author: Anas Ismail Khan
+layout: post
+guid: http://anasismail.com/?p=3842
+permalink: /what-would-it-be-like-to-travel-at-the-speed-of-light
+categories:
+  - Essays
+---
+Imagine an infinitely long flat runway. You are running through it. At the speed of light. Let&#8217;s ignore the effects of relativity and resistance. The visible spectrum is painted on the runway, all the way from the start to the finish, meaning there&#8217;s infinitely many shades of all the 7 colors of the rainbow painted on the runway, each one easily distinguishable from the next. Yes, we are also assuming this is possible. An infinite number of trees are planted along the edges of the runway.
+
+The speed of light is 300 000 000 m/s. Which means that any objects at a distance of 300 000 000 m from you will only be visible for a second after which you&#8217;d already have passed them. Any objects along your path relatively closer to you than the refresh-rate of your brain or your eyes or both, will not be perceptible.
+
+You are standing at the starting point. On both sides of the runway, you can see a row of trees extending as far as the end of the runway, all of them look same age and length and appear to have the same amount of shrubbery. In short, they look identical. Your family and friends came to wish you good luck and are standing right behind you. Along with a whole crowd of people who paid to witness this miraculous feat. You got on your left another in runner, wearing red, who will start exactly one second after you and on your right is a runner, wearing violet, who will start exactly one second before you. All three of you have the same acceleration. All 3 of you are wearing heat and radiation resistant clothing.
+
+The runner on your right has started. You see him become a red streak and disappear. The moment he disappears, you get hit by a wave of heat. Not that you should be looking at him cause after exactly one second you follow. Start running. Immediately after you start running, look at the runner behind you, you&#8217;d see him wearing violet instead of red as you get faster and depending on the shade of the red in his clothes, he may or may not completely disappear. This is due to the Doppler Effect.  You will know you&#8217;ve reached the speed of light when all you see behind you is an abyss of blackness. You might observe a flash of violet before that happens. The light from anything behind you never reaches you. Your field of vision is limited to 180deg from your immediate left to your immediate right. On your right you can see a purple streak extending all the way from slightly less than 260 000 000 m ahead of you to exactly 300 000 000 m ahead of you. That&#8217;s the runner who started before you. That streak is simply multiple images of him running.
+
+If you look down at the painted ground, instead of seeing the colors change smoothly, you&#8217;d see them flickering into each other. Kinda like jumping straight from bright red to yellowish orange, because you are moving faster than the time it takes for the brain to &#8220;refresh&#8221; the image you see. The smaller the angle between your line of sight and the ground, the smoother the transition from one color to the next. Meaning, if you look directly at the ground and then slowly move your eyes upwards, you&#8217;d see the change between colors getting smoother, however the rate of that change would keep on getting smaller, and eventually, you&#8217;ll be able to see each shade for almost a whole second. But you will be looking at the color of the ground 300 000 000 m away from you.
+
+Now look at the trees. They no longer look uniform and similar. The ones farthest from you still look like they did when you started running but the ones closest to you look very different. They look older and yellower and less leafier. The farther you go, the less leaves you see on the trees and more on the ground and the farther you go, the older they get. If you look at the tree farthest from you and keep on looking at it until you reach it, you&#8217;d see it smoothly lose leaves and colors and life.
+
+I forgot to warn you to not look straight ahead. The Doppler&#8217;s effect needs to be taken into account also for objects that you&#8217;re running towards. Remember that radiation proof suit you put on? It was for a reason. The light from the objects that you are running towards has been blueshifted out of the visible spectrum. Any part of the electromagnetic spectrum travelling towards you now carries an infinite amount of energy. Not only would it be impossible for you to _see _it, your eyes would probably burn, if not along with the rest of your body. In truth, as soon as you approach a significant fraction of the speed of light, everything in front of you would turn blue and then eventually violet. But the other parts of the spectrum that you shouldn&#8217;t really be able to see, will now be somewhat visible. First the infrared waves would make an appearance followed by the radio waves. Yes, they&#8217;d look red at first but eventually they might get blueshifted out completely and then there really won&#8217;t be anything left for you to see.
+
+In truth, there really won&#8217;t be much time between when you start running and when you blackout and also get obliterated as a result of the radiation but I wanted to make a post about what you could _see,_ if you could keep on running at the speed of light for a while. That&#8217;s why I didn&#8217;t mention the blueshift until the end. There are better posts than I could ever come up with about the same concept but with relativity taken into effect. My favorite one being [Relativistic Baseball](https://what-if.xkcd.com/1/). Yes I know they set the speed at 0.9c but then again, it&#8217;s because they present actual math and wanted to avoid infinities resulting from using c as the speed. An example of such an infinity would be trying to calculate the blueshift of an object approaching you at the speed of light.
+
+The blueshift equation is as follows:
+
+> F = f * c / (c-v)
+
+The variable v is the relative velocity of the object moving towards you. When moving at the speed of light towards a stationary object, this v is equal to c. Which means the denominator becomes zero which means we cannot determine the new frequency or as some of you would like to conclude, the frequency is infinite, meaning the wavelength becomes zero. Any photon with zero wavelength would have infinite energy which is not possible.
+
+Sorry for wasting your time.
