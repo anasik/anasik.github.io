@@ -16,9 +16,12 @@ $spacing-unit: 30px !default;
 
 $text-color: #111 !default;
 $background-color: #fdfdfd !default;
-$maima-background-first: #844519 !default;
-$maima-background-second: #8c5923 !default;
-$maima-background-third: #6b3d0f !default;
+// $maima-background-first: #844519 !default;
+// $maima-background-second: #8c5923 !default;
+// $maima-background-third: #6b3d0f !default;
+$maima-background-first: #a44800 !default;
+$maima-background-second: #b06611 !default;
+$maima-background-third: #813d00 !default;
 $maima-filter: brightness(1.2) contrast(1.2) !default;
 $maima-background: repeating-linear-gradient(
   90deg,
@@ -103,12 +106,17 @@ $on-laptop: 800px !default;
   padding: 20px 60px;
   margin-bottom: 40px;
   text-shadow: 1px 1px 1px white;
+  filter: drop-shadow(2px 4px 6px black);
+  // box-shadow: 0px 0px 15px #333;
 }
 .post-body {
   color: #333;
 }
-h1.site-title-main {
+h1.site-title-main a {
   font-family: 'None Away';
-  text-align: center;
   font-size: 100px;
+  filter: drop-shadow(2px 4px 6px black);
+}
+.site-header {
+  text-align: center;
 }
