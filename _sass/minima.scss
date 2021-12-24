@@ -115,7 +115,8 @@ $on-laptop: 800px !default;
 h1.site-title-main a {
   font-family: 'None Away';
   font-size: 100px;
-  filter: drop-shadow(2px 4px 6px black);
+  color: 'black';
+//   filter: drop-shadow(2px 4px 6px black);
 }
 .site-header {
   text-align: center;
