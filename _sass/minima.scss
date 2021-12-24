@@ -109,7 +109,7 @@ $on-laptop: 800px !default;
   filter: drop-shadow(2px 4px 6px black);
   // box-shadow: 0px 0px 15px #333;
 }
-.post-body {
+.post-body, article {
   color: #b06611;
 }
 .post-meta {
