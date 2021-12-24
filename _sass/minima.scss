@@ -101,21 +101,24 @@ $on-laptop: 800px !default;
 
 // raw inserts to be sorted later
 .post {
-  background: #eee;
+  background: #200f00;
   border-radius: 10px;
   padding: 20px 60px;
   margin-bottom: 40px;
-  text-shadow: 1px 1px 1px white;
+//   text-shadow: 1px 1px 1px white;
   filter: drop-shadow(2px 4px 6px black);
   // box-shadow: 0px 0px 15px #333;
 }
 .post-body {
-  color: #333;
+  color: #b06611;
+}
+.post-meta {
+  color: #a34601;
 }
 h1.site-title-main a {
   font-family: 'None Away';
   font-size: 100px;
-  color: black;
+  color: #200f00;
 //   filter: drop-shadow(2px 4px 6px black);
 }
 .site-header {
