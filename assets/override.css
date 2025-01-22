@@ -9,7 +9,7 @@ body,h1,h2,h3,h4,h5,h6,p,blockquote,pre,hr,dl,dd,ol,ul,figure {
 }
 
 body {
-    font: 400 16px/1.5 -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";
+    font: 400 16px/1.5 "Inter",-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";
     color: #111;
     /* background:repeating-linear-gradient(90deg, #a44800 51%, #a44800, #a44800, #a44800, #a44800, #a44800, #a44800, #a44800, #a44800, #a44800, #a44800, #a44800, #a44800, #a44800, #a44800, #a44800, #a44800, #a44800, #a44800, #a44800, #a44800, #a44800, #a44800, #a44800, #b06611 63%, #b06611, #b06611, #b06611, #b06611, #b06611, #b06611, #b06611, #b06611, #b06611 71%, #813d00 69%, #813d00, #813d00, #813d00 76% 0); */
     -webkit-text-size-adjust: 100%;
@@ -687,7 +687,6 @@ table td {
 }
 
 h1.site-title-main a {
-    font-family: 'Inter', Arial;
     font-size: 50px;
     color: #200f00;
     text-transform: uppercase;
