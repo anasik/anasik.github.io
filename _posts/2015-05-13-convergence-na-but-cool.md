@@ -8,5 +8,6 @@ guid: http://anasismail.com/?p=1224
 permalink: /convergence-na-but-cool
 categories:
   - Links, Quotes
+published: false
 ---
 [ChillHub | FirstBuild](https://firstbuild.com/mylescaley/chillhub/activity/).
