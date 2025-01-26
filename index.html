@@ -16,7 +16,7 @@ title: Blog
       {%- endif -%}
     </p>
     <h2 class="post-title"><a href="{{ post.url }}">{{ post.title }}</a></h2>
-    <div class="post-body">{{ post.excerpt }}{% if post.content.size > post.excerpt.size %}...<a href="{{ post.url }}">Read More</a>{% endif %}</div>
+    <div class="post-body">{{ post.excerpt }}{% if post.content.size > post.excerpt.size %}<a href="{{ post.url }}">Read More</a>{% endif %}</div>
   </div>
   {% endfor %}
 </div>
