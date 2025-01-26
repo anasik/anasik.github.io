@@ -3,7 +3,6 @@ title: How to work for Microsoft without getting Hired
 date: 2025-01-26T17:12:23+00:00
 author: Anas Ismail Khan
 layout: post
-# permalink: /mystery-behind-the-bug
 categories:
   - Uncategorized
 ---
