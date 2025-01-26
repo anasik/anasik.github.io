@@ -110,13 +110,33 @@ pre>code {
 
 .wrapper {
     max-width: -webkit-calc(800px - (30px * 2));
-    max-width: calc(800px - (30px * 2));
+    max-width: calc(1000px - (30px * 2));
     margin-right: auto;
     margin-left: auto;
     padding-right: 30px;
     padding-left: 30px
 }
 
+@media screen and (min-width: 1000px) { 
+    .wrapper {
+        max-width: 1000px;
+        font-size: 20px;
+        line-height: 2;
+    }
+
+    .post-title {
+        font-size: 48px;
+    }
+
+    h1,h2,h3,h4,h5,h6 {
+        font-weight: 500;
+    }
+
+    h1.site-title-main a {
+        font-weight: 900;
+        font-size: 60px;
+    }
+}
 @media screen and (max-width: 800px) {
     .wrapper {
         max-width:-webkit-calc(800px - (30px));
