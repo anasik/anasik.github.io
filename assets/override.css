@@ -351,7 +351,7 @@ table td {
         padding: 10px 30px !important;
     }
 
-    .post-body {
+    .post-body, .post-content {
         text-align: justify;
     }
 }
