@@ -326,6 +326,11 @@ table td {
         width: -webkit-calc(100% - (30px / 2));
         width: calc(100% - (30px / 2))
     }
+
+    .post {
+        text-align: justify;
+        padding: 10px 30px;
+    }
 }
 
 .page-content {
