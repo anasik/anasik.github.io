@@ -64,7 +64,7 @@ a {
 }
 
 a:hover {
-    color: #a44800
+    color: cadetblue !important;
 }
 
 .social-media-list a:hover {
@@ -717,7 +717,7 @@ table td {
 }
 
 .post-meta {
-    color: #c4b29d;
+    color: steelblue;
 }
 
 h1.site-title-main a {
