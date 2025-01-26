@@ -6,6 +6,7 @@ author: Anas Ismail Khan
 layout: post
 guid: http://anasismail.com/?p=2459
 permalink: /james-mickens-on-javascript
+published: false
 categories:
   - Links, Quotes
   - Web and dev

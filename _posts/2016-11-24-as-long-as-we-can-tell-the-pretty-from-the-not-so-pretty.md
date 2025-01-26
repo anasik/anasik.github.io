@@ -6,6 +6,7 @@ author: Anas Ismail Khan
 layout: post
 guid: http://anasismail.com/?p=2518
 permalink: /as-long-as-we-can-tell-the-pretty-from-the-not-so-pretty
+published: false
 categories:
   - Links, Quotes
 ---
