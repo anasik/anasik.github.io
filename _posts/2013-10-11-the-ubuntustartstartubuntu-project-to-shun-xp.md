@@ -1,6 +1,6 @@
 ---
 id: 747
-title: The UbuntuStart/StartUbuntu Project to shun XP
+title: The UbuntuStart / StartUbuntu Project to shun XP
 date: 2013-10-11T14:55:24+00:00
 author: Anas Ismail Khan
 layout: post
