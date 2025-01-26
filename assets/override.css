@@ -728,7 +728,8 @@ h1.site-title-main a {
 }
 
 .site-header {
-    text-align: center
+    text-align: center;
+    margin: 40px 0;
 }
 
 .poor-mans-menu-button a{
