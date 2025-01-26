@@ -20,7 +20,9 @@ body {
     font-kerning: normal;
     display: flex;
     min-height: 100vh;
-    flex-direction: column
+    flex-direction: column;
+    background: #eee;
+    text-shadow: 2px 2px white;
 }
 
 h1,h2,h3,h4,h5,h6,p,blockquote,pre,ul,ol,dl,figure,.highlight {
@@ -706,8 +708,12 @@ table td {
     /* border: grey 1px solid; */
 }
 
+post-title a {
+    color: #333;
+}
+
 .post-body,article {
-    color: #808080;
+    color: #777;
 }
 
 .post-meta {
@@ -716,7 +722,7 @@ table td {
 
 h1.site-title-main a {
     font-size: 50px;
-    color: #200f00;
+    color: #333;
     text-transform: uppercase;
     font-weight: 800;
     margin: 40px 0;
