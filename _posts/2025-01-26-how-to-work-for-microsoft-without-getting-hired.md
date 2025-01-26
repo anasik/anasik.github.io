@@ -14,8 +14,9 @@ Last May, I started architecting a project in C# which revolved around OData —
 
 It was practically our first day taking that library for a test-drive when a fellow coder showed me a bug. Remember when I said earlier that OData has *powerful querying capabilities*? 
 
-`randomapi.com/Products?$select=ProductID,ProductName,Price,Category&$filter=Price gt 20 and Category eq 'Electronics'&$orderby=Price desc&$top=10&$skip=5&$expand=Supplier&$count=true
-`
+```
+randomapi.com/Products?$select=ProductID,ProductName,Price,Category&$filter=Price gt 20 and Category eq 'Electronics'&$orderby=Price desc&$top=10&$skip=5&$expand=Supplier&$count=true
+```
 
 The above query would fetch the ID, Name, Price and Category of the top 10 Electronic Products whose price exceeds \$20, sorted from highest to lowest price. Notice the part that says `$expand=Supplier`? That's a join with the Suppliers table. Powerful stuff right? 
 
