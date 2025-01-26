@@ -359,7 +359,6 @@ table td {
 }
 
 .page-content {
-    padding: 30px 0;
     flex: 1
 }
 
@@ -725,10 +724,14 @@ h1.site-title-main a {
     color: #000;
     text-transform: uppercase;
     font-weight: 800;
-    margin: 40px 0;
     display: block;
 }
 
 .site-header {
     text-align: center
+}
+
+.poor-mans-menu-button a{
+    background: aliceblue;
+    padding: 20px;
 }
