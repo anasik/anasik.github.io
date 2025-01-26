@@ -1,5 +1,5 @@
 ---
-title: How to work for Microsoft without getting Hired
+title: How to work for Microsoft without getting hired
 author: Anas Ismail Khan
 layout: post
 categories:
