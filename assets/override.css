@@ -328,8 +328,11 @@ table td {
     }
 
     .post {
+        padding: 10px 30px !important;
+    }
+
+    .post-body {
         text-align: justify;
-        padding: 10px 30px;
     }
 }
 
