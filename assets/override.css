@@ -21,8 +21,8 @@ body {
     display: flex;
     min-height: 100vh;
     flex-direction: column;
-    background: #eee;
-    text-shadow: 1px 1px white;
+    /* background: #eee;
+    text-shadow: 1px 1px white; */
 }
 
 h1,h2,h3,h4,h5,h6,p,blockquote,pre,ul,ol,dl,figure,.highlight {
@@ -59,7 +59,7 @@ h1,h2,h3,h4,h5,h6 {
 }
 
 a {
-    color: #000000;
+    color: royalblue;
     text-decoration: none
 }
 
