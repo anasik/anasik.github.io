@@ -84,5 +84,3 @@ categories:
 > Me: He created a clone to fight Savitar. Then after the fight, he told the clone to go to hell. The clone had no purpose or place. Just endless pain. It drove him crazy and turned him into Savitar.
 > 
 > They: This time travel shit is confusing.
-
-&nbsp;
