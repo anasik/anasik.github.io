@@ -22,4 +22,4 @@ You might have to restart your PC after the installation.
 
 anyways, once the installation process has completed, open windows explorer,
 
-goto Menu>View and enable the QTaddressbar.
+go to Menu>View and enable the QTaddressbar.

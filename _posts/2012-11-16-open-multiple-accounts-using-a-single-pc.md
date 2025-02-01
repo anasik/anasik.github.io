@@ -14,4 +14,4 @@ tags:
   - multiple logins on a pc
   - two fb accounts at once
 ---
-It is not exactly anything new or secret but most people have trouble logging into multiple fb, or gmail e.t.c. acconts at once using the same pc. Well theres a way. The best option is to open some other browser, and login using that one. But if u want to use the same browser, just open a private window or tab, and&#8230;.. ENJOY!
+It is not exactly anything new or secret but most people have trouble logging into multiple fb, or gmail e.t.c. acconts at once using the same pc. Well theres a way. The best option is to open some other browser, and login using that one. But if you want to use the same browser, just open a private window or tab, and&#8230;.. ENJOY!

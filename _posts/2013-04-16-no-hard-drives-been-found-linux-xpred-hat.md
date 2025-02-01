@@ -12,7 +12,7 @@ categories:
 An error i faced while trying to install Linux XP 2006 on a VirtualBox VM. The error is known to have been faced while installing Red Hat too, and the reason behind it is that neither of the two OS support SATA hard-drives, i.e.  at least the older versions didn&#8217;t, so I just unmounted the HDD from the SATA controller, and mounted the same HDD on the IDE controller. To do so in VBox,
 
   1. <span style="line-height: 15px;">Power off the machine</span>
-  2. Goto the machine&#8217;s settings>Storage
+  2. Go to the machine&#8217;s settings>Storage
   3. Right-Click on the HDD(under SATA in the storage tree), and click _Remove attachment_
   4. Add a hard-disk to the IDE controller and in the box that pops up, click &#8220;_choose existing disk&#8221; _
   5. Now all you gotta do is browse to the HDD you just unmounted and select it.

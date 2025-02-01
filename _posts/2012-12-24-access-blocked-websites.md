@@ -17,4 +17,4 @@ Now, the thing is that not all of the proxy sites and tools work on Youtube. Abo
 
 If you wanna go for some software, then the best option is to [download and install Hotspot Shield](http://download.cnet.com/hotspot-shield/). It integrates with your browser automatically, just make sure it is connected.
 
-So, the conclusion is that if u wanna use some online tool, go for [Umer Rock&#8217;s Proxy Server](http://bestproxysite.appspot.com), but if u wanna use some software, go for Hostpot.
+So, the conclusion is that if you wanna use some online tool, go for [Umer Rock&#8217;s Proxy Server](http://bestproxysite.appspot.com), but if you wanna use some software, go for Hostpot.

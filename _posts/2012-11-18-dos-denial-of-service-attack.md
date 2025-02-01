@@ -9,7 +9,7 @@ permalink: /dos-denial-of-service-attack
 categories:
   - Web and dev
 ---
-A DOS(stands for denial of service&#8221;) attack is an attempt to make a machine or network resource unavailable to its intended users. One common method of doing so is saturating/overloading the machine with external communications requests, such that it cannot respond does slowly. Such attacks usually lead to a server overload.
+A DOS — stands for denial of service — attack is an attempt to make a machine or network resource unavailable to its intended users. One common method of doing so is saturating/overloading the machine with external communications requests, such that it cannot respond does slowly. Such attacks usually lead to a server overload.
 
 A few years ago, when Pakistan blocked FB, People seized the opportunity and launched their own social networking sites, and started promoting and advertising them. One of them was pakfacebook, the most popular one.
 

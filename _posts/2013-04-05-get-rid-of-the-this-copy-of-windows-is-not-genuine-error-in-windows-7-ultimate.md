@@ -13,7 +13,7 @@ Often when you&#8217;ve got updates on, there comes a time when your desktop ba
 
 So getting rid of the error is quick, simple and clean though a bit annoying as you need to restart twice in a row.
 
-  1. Goto Windows update and click on the link on the bottom left corner, saying &#8220;installed updates.&#8221;
+  1. Go to Windows update and click on the link on the bottom left corner, saying &#8220;installed updates.&#8221;
   2. Look for the update KB971033, and uninstall it (right-click>uninstall,) and reboot.
   3. Run Command Prompt as Administrator. To do so, just press start, type cmd, and on the first link, right-click>Run As Administrator.
   4. In the CMD window, type the following command: _slmgr.vbs -rearm_, and press enter.  At first, nothing would happpen, but this is normal, but after a few _seconds, _a box would pop up, saying that you need to reboot for the changes to take effect. Well, do as it says.

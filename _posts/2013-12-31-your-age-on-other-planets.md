@@ -9,5 +9,5 @@ permalink: /your-age-on-other-planets
 categories:
   - Links, Quotes
 ---
-How old would you be if u were living on another planet?  
+How old would you be if you were living on another planet?  
 [Click here](http://www.exploratorium.edu/ronh/age/) to find out.

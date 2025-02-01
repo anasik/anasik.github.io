@@ -17,4 +17,4 @@ But the thing that makes it unique is.. that&#8217;s right, you&#8217;ve guessed
 
 The idea behind the project being, porting a complete desktop OS into a phone, when docked, the Ubuntu OS will start on your computer, running right _from the phone. _
 
-Well, do check out the video, i.e. if u havent already.
+Well, do check out the video, i.e. if you havent already.

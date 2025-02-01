@@ -9,7 +9,7 @@ permalink: /enabledisable-guestremote-login-accounts-in-ubuntu-13-04-ubuntu
 categories:
   - Linux/unix
 ---
-The guest and the _remote login _accounts are enabled by default, but there are those who want them disabled, and this could be due to privacy concern (though i noticed that u cant do much in the guest account), and as for the remote one, well, maybe they just dont want to see it there.
+The guest and the _remote login _accounts are enabled by default, but there are those who want them disabled, and this could be due to privacy concern (though i noticed that you cant do much in the guest account), and as for the remote one, well, maybe they just dont want to see it there.
 
 Well, to disable them, all you gotta do it fire up a terminal (Ctrl + Alt +T), and paste in the folllowing command:
 

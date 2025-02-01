@@ -9,6 +9,6 @@ permalink: /unsubscriber
 categories:
   - Uncategorized
 ---
-Sick of receiving spam mail, email notifications, newsletters e.t.c. from multiple sites that u have signed up on? Well here’s a Solution.
+Sick of receiving spam mail, email notifications, newsletters e.t.c. from multiple sites that you have signed up on? Well here’s a Solution.
 
-[Unsubscriber](http://www.otherinbox.com/unsubscriber/) is a free addon, that u can install in your email account. It creates a folder named “UNSUBSCRIBE.” All u need to do is to once move the mails u dont want to the unsubscribe folder. Once done, unsubscriber will take care of the rest.
+[Unsubscriber](http://www.otherinbox.com/unsubscriber/) is a free addon, that you can install in your email account. It creates a folder named “UNSUBSCRIBE.” All you need to do is to once move the mails you dont want to the unsubscribe folder. Once done, unsubscriber will take care of the rest.

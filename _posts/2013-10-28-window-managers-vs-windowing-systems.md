@@ -9,7 +9,7 @@ permalink: /window-managers-vs-windowing-systems
 categories:
   - Linux/unix
 ---
-If u happen to be a Linux user, you might, at the very least be familiar with the Desktop environments: GNOME, KDE, LXDE or XFCE. _Also, _you might have come across the names _OpenBox, X Window System _and _Window Maker, _and perhaps an implementation of more than one of these _together, _e.g. &#8216;Gnome/OpenBOX.&#8217;
+If you happen to be a Linux user, you might, at the very least be familiar with the Desktop environments: GNOME, KDE, LXDE or XFCE. _Also, _you might have come across the names _OpenBox, X Window System _and _Window Maker, _and perhaps an implementation of more than one of these _together, _e.g. &#8216;Gnome/OpenBOX.&#8217;
 
 Now the Question is, If they are all UIs, what exactly is the difference? And how can they all be working together at the same time? Because despite how similar they seem, each serves a totally different purpose.
 
