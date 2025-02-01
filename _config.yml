@@ -31,7 +31,7 @@ github_username:  anasik
 theme: jekyll-theme-slate
 plugins:
   - jekyll-feed
-
+  - jekyll-sitemap
 paginate: 10
 paginate_path: "blog/page:num"
 # Exclude from processing.
