@@ -736,3 +736,21 @@ h1.site-title-main a {
     background: aliceblue;
     padding: 20px;
 }
+
+.posts-container{
+    border-left: 5px dashed #aaa;
+}
+.post {
+    position: relative;
+}
+.post::before {
+    content: "";
+    border-radius: 51%;
+    width: 20px;
+    height: 20px;
+    display: block;
+    border: 4px solid royalblue;
+    position: absolute;
+    left: -16px;
+    background: white;
+}
