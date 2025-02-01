@@ -744,7 +744,7 @@ h1.site-title-main a {
     .post {
         position: relative;
     }
-    .post::before {
+    .posts-container .post::before {
         content: "";
         border-radius: 51%;
         width: 20px;
