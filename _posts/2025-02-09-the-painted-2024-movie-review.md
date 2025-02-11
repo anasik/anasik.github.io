@@ -8,6 +8,7 @@ categories:
 ---
 I am not a fan of cinemas. In fact, I'm quite the opposite. I particularly detest going to cinemas. I prefer watching movies in the comfort of my own home, with my own popcorn and unlimited condiments from my fridge for my hotdog. The only times I go to a cinema are when I'm forced into it. 
 
+
 Today was one of those occasions. While movies that I would naturally find more interesting like Mufasa, Sonic 3 and Brave New World were playing, I couldn't buy a ticket to any of them because they belong to a class of movies that me and my sister always watch together. It's sacred. Since she wasn't with me today, it came down to this bunch:
 - The Painted
 - Wolf Man

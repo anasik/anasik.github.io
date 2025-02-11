@@ -6,8 +6,10 @@ permalink: /how-to-work-for-microsoft-without-getting-hired
 categories:
   - Uncategorized
 ---
-I've been a fan of open-source longer than I have been an adult. The moment I first switched to Linux in 2012, I knew it would remain my daily driver until I could afford to buy a Mac. As I, both voluntarily and involuntarily, continued to ditch my usual programs in favor of free and open-source alternatives, the deeper I dove into the world of open-source and the stronger became my desire to contribute to it. <!--more-->
+I've been a fan of open-source longer than I have been an adult. The moment I first switched to Linux in 2012, I knew it would remain my daily driver until I could afford to buy a Mac. As I, both voluntarily and involuntarily, continued to ditch my usual programs in favor of free and open-source alternatives, the deeper I dove into the world of open-source and the stronger became my desire to contribute to it. 
 
+
+<!--more-->
 I didn't have to wait long because between the Septembers of 2014 and 2015, I led the development of Emu-OS — An ubuntu-based distro for retro-gaming. This was a short-lived but two-pronged high because by then, building an operating system had also already been my dream for a couple of years. Sadly, just when Emu-OS started gaining popularity, my team abandoned me and I was too young to know how to continue on my own. Since then, I’ve come a long way, both as a developer and a professional, but Emu-OS remained my sole open-source contribution until just a few months ago. 
 
 Last May, I started architecting a project in C# which revolved around OData — a standard maintained primarily by Microsoft for building RESTful APIs with powerful querying capabilities. In fact, *I particularly chose to build it in C# because of that.* It was the right decision because while there's fairly official OData libraries for both Java and Javascript, they are ridiculously lacking when compared to `Microsoft.AspNetCore.OData`.
