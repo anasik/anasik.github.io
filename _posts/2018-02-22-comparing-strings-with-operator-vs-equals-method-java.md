@@ -15,56 +15,58 @@ As I began my search for the answer, I pinged Vladislav Zorov, my mentor and fri
 
 I wrote a very simple program:
 
-> import java.util.Scanner;  
-> public class HelloWorld {  
-> public static void main(String []args){  
-> // Created two strings using the same literal and an array with the second index set using that literal.  
-> String x = &#8220;abcd&#8221;;  
-> String y = &#8220;abcd&#8221;;  
-> String[] z = {&#8220;asafaf&#8221;,&#8221;abcd&#8221;};
-> 
-> // Printing addresses of all 3.  
-> System.out.println(Integer.toHexString(x.hashCode()));  
-> System.out.println(Integer.toHexString(y.hashCode()));  
-> System.out.println(Integer.toHexString(z[1].hashCode()));
-> 
-> // Checking to see if the equality symbol works on these  
-> if(x == z[1] && x==y && y==z[1])  
-> System.out.println(&#8220;== works on the 3&#8221;);
-> 
-> // Comparing the 3 using the equals method which will, obviously, work.  
-> if(x.equals(z[1]) && x.equals(y) && y.equals(z[1]))  
-> System.out.println(&#8220;equals method works on the 3&#8221;);
-> 
-> // Creating Scanner object to read from stdin.  
-> Scanner input = new Scanner(System.in);
-> 
-> // Taking two strings as input. Will test with  
-> // 1. Two different strings  
-> // 2. Identical strings  
-> // 3. &#8220;abcd&#8221; for both  
-> String j = input.next();  
-> String k = input.next();
-> 
-> //printing their addresses  
-> System.out.println(Integer.toHexString(k.hashCode()));  
-> System.out.println(Integer.toHexString(j.hashCode()));
-> 
-> // Testing both comparisons  
-> if(j==k)  
-> System.out.println(&#8220;== working on input strings&#8221;);  
-> if(k.equals(j))  
-> System.out.println(&#8220;equals working on input strings&#8221;);
-> 
-> // Initializing a string identical to x,y,z[1] but with the new keyword  
-> String a = new String(&#8220;abcd&#8221;);  
-> // Printing its address  
-> System.out.println(Integer.toHexString(a.hashCode()));  
-> if(a==x || a==y || a== z[1])  
-> System.out.println(&#8220;== working with new keyword&#8221;);  
-> if(a.equals(x))  
-> System.out.println(&#8220;equals method working with new keyword&#8221;);  
-> }  
-> }
+```
+import java.util.Scanner;  
+public class HelloWorld {  
+  public static void main(String []args){  
+    // Created two strings using the same literal and an array with the second index set using that literal.  
+    String x = &#8220;abcd&#8221;;  
+    String y = &#8220;abcd&#8221;;  
+    String[] z = {&#8220;asafaf&#8221;,&#8221;abcd&#8221;};
+
+    // Printing addresses of all 3.  
+    System.out.println(Integer.toHexString(x.hashCode()));  
+    System.out.println(Integer.toHexString(y.hashCode()));  
+    System.out.println(Integer.toHexString(z[1].hashCode()));
+
+    // Checking to see if the equality symbol works on these  
+    if(x == z[1] && x==y && y==z[1])  
+      System.out.println(&#8220;== works on the 3&#8221;);
+
+    // Comparing the 3 using the equals method which will, obviously, work.  
+    if(x.equals(z[1]) && x.equals(y) && y.equals(z[1]))  
+      System.out.println(&#8220;equals method works on the 3&#8221;);
+
+    // Creating Scanner object to read from stdin.  
+    Scanner input = new Scanner(System.in);
+
+    // Taking two strings as input. Will test with  
+    // 1. Two different strings  
+    // 2. Identical strings  
+    // 3. &#8220;abcd&#8221; for both  
+    String j = input.next();  
+    String k = input.next();
+
+    //printing their addresses  
+    System.out.println(Integer.toHexString(k.hashCode()));  
+    System.out.println(Integer.toHexString(j.hashCode()));
+
+    // Testing both comparisons  
+    if(j==k)  
+      System.out.println(&#8220;== working on input strings&#8221;);  
+    if(k.equals(j))  
+      System.out.println(&#8220;equals working on input strings&#8221;);
+
+    // Initializing a string identical to x,y,z[1] but with the new keyword  
+    String a = new String(&#8220;abcd&#8221;);  
+    // Printing its address  
+    System.out.println(Integer.toHexString(a.hashCode()));  
+    if(a==x || a==y || a== z[1])  
+      System.out.println(&#8220;== working with new keyword&#8221;);  
+    if(a.equals(x))  
+      System.out.println(&#8220;equals method working with new keyword&#8221;);  
+  }  
+}
+```
 
 If you run it, you&#8217;ll see that its output shows that all strings that have the same value point to the same address regardless of how they&#8217;re initialized. But the equality symbol only works when two strings have been created with the same literal. The fact that we&#8217;ve now proven that identical strings in Java do have the same memory address does perhaps imply that comparison is done simply by comparing addresses but then what about the equality symbol? Well, I&#8217;ll update this post when I find out.

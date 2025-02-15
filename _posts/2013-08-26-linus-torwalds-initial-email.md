@@ -11,6 +11,7 @@ categories:
 ---
 The one that started it all, where Torwalds asked the people for suggestions and stuff that they&#8217;d like to see in the minix OS.
 
+```
 From: mailto: <a href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=torvalds@klaava.Helsinki.Fi" target="_blank">torvalds@klaava.Helsinki.Fi</a> (Linus Benedict Torvalds)
 
 <p style="text-align: justify; padding-left: 30px;">
@@ -32,6 +33,7 @@ From: mailto: <a href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=torv
 <p style="text-align: justify; padding-left: 30px;">
   PS. Yes — it’s free of any minix code, and it has a multi-threaded fs.<br /> It is NOT protable (uses 386 task switching etc), and it probably<br /> never will support anything other than AT-harddisks, as that’s all I<br /> have :-(.
 </p>
+```
 
 > **Credits: _[www.linux.com/news/software/linux-kernel/734956-linuss-famous-email](https://www.linux.com/news/software/linux-kernel/734956-linuss-famous-email)_  
 >**
