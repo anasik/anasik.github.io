@@ -39,6 +39,7 @@ $page = $page ? $page : &#8220;home&#8221;; ?>
 
 Add this PHP at the very top of the header file.. before _everything, _and then, anywhere below below the nav markup, add this JS script:
 
+```
 <script>  
 nav = document.getElementsByClassName(&#8220;nav&#8221;)[0];  
 nav = nav.getElementsByTagName(&#8220;a&#8221;);  
@@ -47,5 +48,6 @@ if(nav[i].getAttribute(&#8220;title&#8221;).toLowerCase() == &#8220;<?php echo s
 nav[i].setAttribute(&#8220;class&#8221;,&#8221;current&#8221;);  
 }}  
 </script>
+```
 
 You might have noticed that this only works if the container of the nav has a &#8220;_.nav_&#8220;_ _class to it. Even if it doesn&#8217;t that can simply be added, and if there&#8217;s a different class name you are inclined to use, then simply use it, or if there&#8217;s an id, replace the &#8220;_getElementsByClassName_&#8221; with_  &#8220;getElementById.&#8221; _But that wasn&#8217;t just it. Another prerequisite for it to work is for the _a _tags in the nav to have _title _attributes. So yeah maybe I&#8217;m just wasting my time posting this. But _hey! _Whatever works, works.
