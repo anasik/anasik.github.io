@@ -737,6 +737,22 @@ h1.site-title-main a {
     padding: 20px;
 }
 
+.read-more {
+    display: block;
+    position: relative;
+    text-align: center;
+    padding: 20px;
+    /* border: 1px solid; */
+    /* border-radius: 5px; */
+    color: aliceblue;
+    background: royalblue;
+    box-shadow: -1px -20px 20px 12px #ffffff;
+    transition: background 0.3ms ease-in;
+}
+.read-more:hover {
+    background: cadetblue;
+}
+
 @media screen and (min-width: 800px) {
     .posts-container{
         border-left: 5px dashed #aaa;
