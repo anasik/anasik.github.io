@@ -712,6 +712,10 @@ table td {
     color: #000;
 }
 
+.post-body a {
+    word-break: break-all;
+}
+
 .post-body,article {
     color: #555;
 }
