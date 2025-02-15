@@ -13,7 +13,7 @@ I was doing some math when I, for reasons I can&#8217;t recall, remembered that 
 
 When I looked at the pictures again, however, I realized that the calculator wasn&#8217;t the only interesting artifact among Parker&#8217;s possessions. My eyes fell on this thing here and with a jolt I realized that I happen to own one of them.
 
-<img class="alignnone size-full wp-image-3339" src="https://anasismail.com/wp-content/uploads/2017/03/asd.png" alt="asd.png" width="604" height="453" srcset="http://anasismail.com/wp-content/uploads/2017/03/asd.png 604w, http://anasismail.com/wp-content/uploads/2017/03/asd-300x225.png 300w" sizes="(max-width: 604px) 100vw, 604px" /> 
+<img class="alignnone size-full wp-image-3339" src="https://anasismail.com/wp-content/uploads/2017/03/asd.png" alt="asd.png" width="604" height="453" srcset="https://anasismail.com/wp-content/uploads/2017/03/asd.png 604w, https://anasismail.com/wp-content/uploads/2017/03/asd-300x225.png 300w" sizes="(max-width: 604px) 100vw, 604px" /> 
 
 This thing, which Lucas Allen &#8212; the author of that post &#8212;  took to be a Palm PDA, is actually an Ericsson Chatboard CHA-01, a small portable QWERTY keyboard that allowed for some decent and fast typing in the old days. Back then, everyone wanted to have one of these. Richard Parker, being a scientist and doing some really sick work probably had to type long emails and messages and this would have been one of his essentials while travelling.
 
