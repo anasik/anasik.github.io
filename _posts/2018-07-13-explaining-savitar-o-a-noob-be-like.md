@@ -31,7 +31,7 @@ categories:
 > 
 > Me: Flash.
 > 
-> <!--more-->They: Why does he control him?
+> They: Why does he control him?
 > 
 > Me: To create evil metahumans.
 > 
