@@ -12,7 +12,7 @@ categories:
 You may be familiar with the 2014 film titled &#8220;Predestination,&#8221; that involves the most mind-blowing time-loop. While watching it, I didn&#8217;t fail to notice this:
 
 <div id="attachment_2862" style="width: 622px" class="wp-caption alignnone">
-  <img class="alignnone size-full wp-image-2862" src="http://anasismail.com/wp-content/uploads/2017/02/97d8c-11137604_805401089515710_1303419438_n.jpg" alt="97d8c-11137604_805401089515710_1303419438_n.jpg" width="612" height="612" srcset="http://localhost/wp-content/uploads/2017/02/97d8c-11137604_805401089515710_1303419438_n.jpg 612w, http://localhost/wp-content/uploads/2017/02/97d8c-11137604_805401089515710_1303419438_n-150x150.jpg 150w, http://localhost/wp-content/uploads/2017/02/97d8c-11137604_805401089515710_1303419438_n-300x300.jpg 300w" sizes="(max-width: 612px) 100vw, 612px" />
+  <img class="alignnone size-full wp-image-2862" src="http://anasismail.com/wp-content/uploads/2017/02/97d8c-11137604_805401089515710_1303419438_n.jpg" />
   
   <p class="wp-caption-text">
     &#8220;Never do yesterday what should be done tomorrow.&#8221;
