@@ -2,6 +2,7 @@
 title: How to work for Microsoft without getting hired
 author: Anas Ismail Khan
 layout: post
+excerpt_separator: <!--more-->
 permalink: /how-to-work-for-microsoft-without-getting-hired
 categories:
   - Uncategorized
