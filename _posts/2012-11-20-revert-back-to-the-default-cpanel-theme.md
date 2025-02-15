@@ -18,7 +18,9 @@ Once while going through the cpanel of my site i came across a tool cause RVSkin
 
 Well, just copy and paste this link into your address bar:
 
+```
 [http://**_domain.com_**:2082/cpsess6507594894/frontend/x3/style/switchstyle.html?brandingpkg](http://anasismail.com:2082/cpsess6507594894/frontend/x3/style/switchstyle.html?brandingpkg)=
+```
 
 > Note: Replace **_domain.com_** with your own domain, PLUS, this will only work when you are logged into your cpanel.
 
