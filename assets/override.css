@@ -747,7 +747,7 @@ h1.site-title-main a {
     /* border-radius: 5px; */
     color: aliceblue;
     background: royalblue;
-    box-shadow: -1px -20px 20px 12px #ffffff;
+    box-shadow: -1px -20px 20px 15px #ffffff;
 }
 .read-more:hover {
     background: cadetblue;
