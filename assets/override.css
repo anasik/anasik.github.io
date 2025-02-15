@@ -751,6 +751,7 @@ h1.site-title-main a {
 }
 .read-more:hover {
     background: cadetblue;
+    color: aliceblue;
 }
 
 @media screen and (min-width: 800px) {
