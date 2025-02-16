@@ -5,7 +5,7 @@ date: 2014-01-03T07:35:39+00:00
 author: Anas Ismail Khan
 layout: post
 guid: http://anasismail.com/?p=967
-permalink: /printing-2014-using-a-js-code-free-from-numerals-explanation
+permalink: /printing-2014-using-a-js-code-free-from-numerals-explanation/
 categories:
   - Web and dev
 ---

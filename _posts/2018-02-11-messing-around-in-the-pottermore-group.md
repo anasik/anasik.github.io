@@ -5,7 +5,7 @@ date: 2018-02-11T06:05:09+00:00
 author: Anas Ismail Khan
 layout: post
 guid: http://anasismail.com/?p=3792
-permalink: /messing-around-in-the-pottermore-group
+permalink: /messing-around-in-the-pottermore-group/
 image: /wp-content/uploads/2018/02/Untitled.png
 categories:
   - Uncategorized

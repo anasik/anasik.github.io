@@ -5,7 +5,7 @@ date: 2014-01-20T12:37:26+00:00
 author: Anas Ismail Khan
 layout: post
 guid: http://anasismail.com/?p=1000
-permalink: /chromeos-ported-to-windows-8
+permalink: /chromeos-ported-to-windows-8/
 categories:
   - Google
   - Software, Devices, Reviews

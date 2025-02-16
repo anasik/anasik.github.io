@@ -5,7 +5,7 @@ date: 2013-06-30T14:24:38+00:00
 author: Anas Ismail Khan
 layout: post
 guid: http://anasismail.com/?p=587
-permalink: /macbuntu-messed-up-the-global-menu-ubuntu
+permalink: /macbuntu-messed-up-the-global-menu-ubuntu/
 categories:
   - Linux/unix
 ---

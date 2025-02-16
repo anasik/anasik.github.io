@@ -5,7 +5,7 @@ date: 2012-12-22T08:57:24+00:00
 author: Anas Ismail Khan
 layout: post
 guid: http://anasismail.com/?p=180
-permalink: /fb-privacy-update
+permalink: /fb-privacy-update/
 categories:
   - Uncategorized
 ---

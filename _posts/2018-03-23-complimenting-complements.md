@@ -5,7 +5,7 @@ date: 2018-03-23T08:41:18+00:00
 author: Anas Ismail Khan
 layout: post
 guid: http://anasismail.com/?p=3657
-permalink: /complimenting-complements
+permalink: /complimenting-complements/
 categories:
   - Essays
 ---

@@ -5,7 +5,7 @@ date: 2013-01-30T15:22:23+00:00
 author: Anas Ismail Khan
 layout: post
 guid: http://anasismail.com/?p=264
-permalink: /google-driverless-car
+permalink: /google-driverless-car/
 categories:
   - Google
 ---

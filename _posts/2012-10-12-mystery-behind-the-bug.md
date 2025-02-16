@@ -5,7 +5,7 @@ date: 2012-10-12T17:11:23+00:00
 author: Anas Ismail Khan
 layout: post
 guid: http://anasismail.com/?p=3
-permalink: /mystery-behind-the-bug
+permalink: /mystery-behind-the-bug/
 categories:
   - Uncategorized
 ---

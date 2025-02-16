@@ -5,7 +5,7 @@ date: 2014-04-27T21:16:32+00:00
 author: Anas Ismail Khan
 layout: post
 guid: http://anasismail.com/?p=1089
-permalink: /7-minutes-well-spent
+permalink: /7-minutes-well-spent/
 categories:
   - Uncategorized
 ---

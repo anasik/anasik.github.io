@@ -5,7 +5,7 @@ date: 2013-09-04T15:15:30+00:00
 author: Anas Ismail Khan
 layout: post
 guid: http://anasismail.com/?p=734
-permalink: /microsoft-acquires-nokia
+permalink: /microsoft-acquires-nokia/
 categories:
   - News
   - Software, Devices, Reviews

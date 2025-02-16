@@ -5,7 +5,7 @@ date: 2018-07-22T23:09:10+00:00
 author: Anas Ismail Khan
 layout: post
 guid: http://anasismail.com/?p=3868
-permalink: /on-the-sleeper-awakes-h-g-wells
+permalink: /on-the-sleeper-awakes-h-g-wells/
 categories:
   - Essays
 ---

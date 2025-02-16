@@ -5,7 +5,7 @@ date: 2013-04-21T08:04:54+00:00
 author: Anas Ismail Khan
 layout: post
 guid: http://anasismail.com/?p=424
-permalink: /torrents-vs-magnetic-links
+permalink: /torrents-vs-magnetic-links/
 categories:
   - Software, Devices, Reviews
 ---

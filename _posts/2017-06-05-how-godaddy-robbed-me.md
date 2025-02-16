@@ -5,7 +5,7 @@ date: 2017-06-05T13:34:57+00:00
 author: Anas Ismail Khan
 layout: post
 guid: http://anasismail.com/?p=3566
-permalink: /how-godaddy-robbed-me
+permalink: /how-godaddy-robbed-me/
 categories:
   - Essays
   - Software, Devices, Reviews

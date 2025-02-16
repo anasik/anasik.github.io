@@ -5,7 +5,7 @@ date: 2014-04-10T09:18:13+00:00
 author: Anas Ismail Khan
 layout: post
 guid: http://anasismail.com/?p=1062
-permalink: /scientists-claim-that-the-quantum-theory-proves-that-conciousness-is-moved-to-another-universe-on-death
+permalink: /scientists-claim-that-the-quantum-theory-proves-that-conciousness-is-moved-to-another-universe-on-death/
 categories:
   - Uncategorized
 ---

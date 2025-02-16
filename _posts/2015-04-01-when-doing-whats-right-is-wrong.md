@@ -5,7 +5,7 @@ date: 2015-04-01T13:58:20+00:00
 author: Anas Ismail Khan
 layout: post
 guid: http://anasismail.com/?p=1191
-permalink: /when-doing-whats-right-is-wrong
+permalink: /when-doing-whats-right-is-wrong/
 categories:
   - Links, Quotes
   - Uncategorized

@@ -5,7 +5,7 @@ date: 2015-02-28T04:17:30+00:00
 author: Anas Ismail Khan
 layout: post
 guid: http://anasismail.com/?p=1185
-permalink: /the-miracle-is-this
+permalink: /the-miracle-is-this/
 categories:
   - Links, Quotes
 ---

@@ -5,7 +5,7 @@ date: 2013-12-13T10:32:02+00:00
 author: Anas Ismail Khan
 layout: post
 guid: http://anasismail.com/?p=896
-permalink: /chrome-apps-launched-for-android
+permalink: /chrome-apps-launched-for-android/
 categories:
   - Google
   - Linux/unix

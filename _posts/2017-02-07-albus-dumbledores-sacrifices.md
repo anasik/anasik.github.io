@@ -5,7 +5,7 @@ date: 2017-02-07T15:08:37+00:00
 author: Anas Ismail Khan
 layout: post
 guid: http://anasismail.com/?p=2851
-permalink: /albus-dumbledores-sacrifices
+permalink: /albus-dumbledores-sacrifices/
 categories:
   - Essays
 ---

@@ -5,7 +5,7 @@ date: 2016-04-25T20:39:58+00:00
 author: Anas Ismail Khan
 layout: post
 guid: http://anasismail.com/?p=1267
-permalink: /hands-on-with-ubuntu-16-04-xenial-xerus
+permalink: /hands-on-with-ubuntu-16-04-xenial-xerus/
 categories:
   - Linux/unix
   - Software, Devices, Reviews

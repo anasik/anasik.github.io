@@ -5,7 +5,7 @@ date: 2012-11-11T15:01:06+00:00
 author: Anas Ismail Khan
 layout: post
 guid: http://anasismail.com/?p=84
-permalink: /breadcrumb-address-bar-in-xp
+permalink: /breadcrumb-address-bar-in-xp/
 categories:
   - Software, Devices, Reviews
 tags:

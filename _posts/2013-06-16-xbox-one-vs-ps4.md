@@ -5,7 +5,7 @@ date: 2013-06-16T16:20:05+00:00
 author: Mohammad Ali
 layout: post
 guid: http://anasismail.com/?p=528
-permalink: /xbox-one-vs-ps4
+permalink: /xbox-one-vs-ps4/
 categories:
   - Games
 ---

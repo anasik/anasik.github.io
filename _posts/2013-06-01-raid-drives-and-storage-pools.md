@@ -5,7 +5,7 @@ date: 2013-06-01T13:59:23+00:00
 author: Anas Ismail Khan
 layout: post
 guid: http://anasismail.com/?p=444
-permalink: /raid-drives-and-storage-pools
+permalink: /raid-drives-and-storage-pools/
 categories:
   - News
   - Software, Devices, Reviews

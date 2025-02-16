@@ -5,7 +5,7 @@ date: 2013-01-26T15:37:30+00:00
 author: Anas Ismail Khan
 layout: post
 guid: http://anasismail.com/?p=254
-permalink: /hide-folders-in-your-phone-without-using-any-tool-or-software
+permalink: /hide-folders-in-your-phone-without-using-any-tool-or-software/
 categories:
   - Uncategorized
 ---

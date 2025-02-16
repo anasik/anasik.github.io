@@ -5,7 +5,7 @@ date: 2017-03-17T17:41:53+00:00
 author: Anas Ismail Khan
 layout: post
 guid: http://anasismail.com/?p=3362
-permalink: /what-coulumb-said-to-newton
+permalink: /what-coulumb-said-to-newton/
 categories:
   - Links, Quotes
 ---

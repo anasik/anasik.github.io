@@ -5,7 +5,7 @@ date: 2013-03-17T07:22:30+00:00
 author: Anas Ismail Khan
 layout: post
 guid: http://anasismail.com/?p=312
-permalink: /no-root-specified-error-during-ubuntu-installation
+permalink: /no-root-specified-error-during-ubuntu-installation/
 categories:
   - Linux/unix
 ---

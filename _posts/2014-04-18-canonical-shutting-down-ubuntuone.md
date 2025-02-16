@@ -5,7 +5,7 @@ date: 2014-04-18T17:19:54+00:00
 author: Anas Ismail Khan
 layout: post
 guid: http://anasismail.com/?p=1078
-permalink: /canonical-shutting-down-ubuntuone
+permalink: /canonical-shutting-down-ubuntuone/
 categories:
   - Linux/unix
 ---

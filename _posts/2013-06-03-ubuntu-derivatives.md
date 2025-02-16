@@ -5,7 +5,7 @@ date: 2013-06-03T16:48:41+00:00
 author: Anas Ismail Khan
 layout: post
 guid: http://anasismail.com/?p=453
-permalink: /ubuntu-derivatives
+permalink: /ubuntu-derivatives/
 categories:
   - Linux/unix
   - Software, Devices, Reviews

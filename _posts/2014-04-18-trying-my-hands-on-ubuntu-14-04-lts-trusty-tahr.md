@@ -5,7 +5,7 @@ date: 2014-04-18T16:48:17+00:00
 author: Anas Ismail Khan
 layout: post
 guid: http://anasismail.com/?p=1072
-permalink: /trying-my-hands-on-ubuntu-14-04-lts-trusty-tahr
+permalink: /trying-my-hands-on-ubuntu-14-04-lts-trusty-tahr/
 categories:
   - Linux/unix
 ---

@@ -5,7 +5,7 @@ date: 2016-06-15T18:54:09+00:00
 author: Anas Ismail Khan
 layout: post
 guid: http://anasismail.com/?p=1664
-permalink: /on-being-the-right-size-j-b-s-haldane
+permalink: /on-being-the-right-size-j-b-s-haldane/
 categories:
   - Links, Quotes
 ---

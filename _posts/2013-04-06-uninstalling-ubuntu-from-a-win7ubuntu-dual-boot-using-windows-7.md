@@ -5,7 +5,7 @@ date: 2013-04-06T16:33:57+00:00
 author: Anas Ismail Khan
 layout: post
 guid: http://anasismail.com/?p=391
-permalink: /uninstalling-ubuntu-from-a-win7ubuntu-dual-boot-using-windows-7
+permalink: /uninstalling-ubuntu-from-a-win7ubuntu-dual-boot-using-windows-7/
 categories:
   - Linux/unix
   - Windows

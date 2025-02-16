@@ -5,7 +5,7 @@ date: 2013-08-10T12:37:35+00:00
 author: Anas Ismail Khan
 layout: post
 guid: http://anasismail.com/?p=714
-permalink: /gta-vc-back-to-the-future-hill-valley-mod
+permalink: /gta-vc-back-to-the-future-hill-valley-mod/
 categories:
   - Games
   - GTA

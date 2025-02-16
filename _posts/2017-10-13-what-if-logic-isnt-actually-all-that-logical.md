@@ -5,7 +5,7 @@ date: 2017-10-13T18:11:04+00:00
 author: Anas Ismail Khan
 layout: post
 guid: http://anasismail.com/?p=3667
-permalink: /what-if-logic-isnt-actually-all-that-logical
+permalink: /what-if-logic-isnt-actually-all-that-logical/
 categories:
   - Essays
 ---

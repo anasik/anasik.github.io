@@ -5,7 +5,7 @@ date: 2014-06-06T14:53:57+00:00
 author: Anas Ismail Khan
 layout: post
 guid: http://anasismail.com/?p=1126
-permalink: /ubuntu-12-04-precise-pangolin
+permalink: /ubuntu-12-04-precise-pangolin/
 categories:
   - Linux/unix
   - Uncategorized

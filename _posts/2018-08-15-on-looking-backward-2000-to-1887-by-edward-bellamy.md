@@ -5,7 +5,7 @@ date: 2018-08-15T21:00:58+00:00
 author: Anas Ismail Khan
 layout: post
 guid: http://anasismail.com/?p=3875
-permalink: /on-looking-backward-2000-to-1887-by-edward-bellamy
+permalink: /on-looking-backward-2000-to-1887-by-edward-bellamy/
 categories:
   - Essays
 ---

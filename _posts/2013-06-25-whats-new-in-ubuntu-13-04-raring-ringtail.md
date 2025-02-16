@@ -5,7 +5,7 @@ date: 2013-06-25T07:45:19+00:00
 author: Anas Ismail Khan
 layout: post
 guid: http://anasismail.com/?p=554
-permalink: /whats-new-in-ubuntu-13-04-raring-ringtail
+permalink: /whats-new-in-ubuntu-13-04-raring-ringtail/
 categories:
   - Linux/unix
   - Software, Devices, Reviews

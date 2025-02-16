@@ -5,7 +5,7 @@ date: 2016-12-08T14:59:58+00:00
 author: Anas Ismail Khan
 layout: post
 guid: http://anasismail.com/?p=2515
-permalink: /batmen-analysis
+permalink: /batmen-analysis/
 categories:
   - Essays
 ---

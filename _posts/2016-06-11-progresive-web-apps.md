@@ -5,7 +5,7 @@ date: 2016-06-11T20:32:18+00:00
 author: Anas Ismail Khan
 layout: post
 guid: http://anasismail.com/?p=1312
-permalink: /progresive-web-apps
+permalink: /progresive-web-apps/
 categories:
   - Essays
   - Web and dev

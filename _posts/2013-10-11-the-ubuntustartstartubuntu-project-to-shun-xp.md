@@ -5,7 +5,7 @@ date: 2013-10-11T14:55:24+00:00
 author: Anas Ismail Khan
 layout: post
 guid: http://anasismail.com/?p=747
-permalink: /the-ubuntustartstartubuntu-project-to-shun-xp
+permalink: /the-ubuntustartstartubuntu-project-to-shun-xp/
 categories:
   - Linux/unix
   - News

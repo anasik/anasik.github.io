@@ -5,7 +5,7 @@ date: 2013-11-13T14:50:32+00:00
 author: Anas Ismail Khan
 layout: post
 guid: http://anasismail.com/?p=785
-permalink: /wordo-the-only-truly-free-dictionary-on-the-web
+permalink: /wordo-the-only-truly-free-dictionary-on-the-web/
 categories:
   - Software, Devices, Reviews
   - Web and dev

@@ -5,7 +5,7 @@ date: 2013-12-28T14:13:58+00:00
 author: Anas Ismail Khan
 layout: post
 guid: http://anasismail.com/?p=946
-permalink: /git-cheatsheet
+permalink: /git-cheatsheet/
 categories:
   - Uncategorized
 ---

@@ -5,7 +5,7 @@ date: 2013-10-16T11:40:03+00:00
 author: Anas Ismail Khan
 layout: post
 guid: http://anasismail.com/?p=773
-permalink: /microsoft-surface-2-and-surface-pro-2
+permalink: /microsoft-surface-2-and-surface-pro-2/
 categories:
   - News
   - Software, Devices, Reviews

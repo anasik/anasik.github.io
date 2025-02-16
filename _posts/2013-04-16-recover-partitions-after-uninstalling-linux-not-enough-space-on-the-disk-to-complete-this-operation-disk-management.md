@@ -5,7 +5,7 @@ date: 2013-04-16T12:28:28+00:00
 author: Anas Ismail Khan
 layout: post
 guid: http://anasismail.com/?p=398
-permalink: /recover-partitions-after-uninstalling-linux-not-enough-space-on-the-disk-to-complete-this-operation-disk-management
+permalink: /recover-partitions-after-uninstalling-linux-not-enough-space-on-the-disk-to-complete-this-operation-disk-management/
 categories:
   - Linux/unix
   - Windows

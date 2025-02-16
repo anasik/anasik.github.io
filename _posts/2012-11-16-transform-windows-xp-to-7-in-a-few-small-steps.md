@@ -5,7 +5,7 @@ date: 2012-11-16T13:10:36+00:00
 author: Anas Ismail Khan
 layout: post
 guid: http://anasismail.com/?p=107
-permalink: /transform-windows-xp-to-7-in-a-few-small-steps
+permalink: /transform-windows-xp-to-7-in-a-few-small-steps/
 categories:
   - Software, Devices, Reviews
 tags:

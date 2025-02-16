@@ -5,7 +5,7 @@ date: 2018-08-14T16:40:01+00:00
 author: Anas Ismail Khan
 layout: post
 guid: http://anasismail.com/?p=3872
-permalink: /entropy-of-life
+permalink: /entropy-of-life/
 categories:
   - Essays
 ---

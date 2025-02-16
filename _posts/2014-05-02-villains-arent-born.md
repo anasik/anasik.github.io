@@ -5,7 +5,7 @@ date: 2014-05-02T14:13:20+00:00
 author: Anas Ismail Khan
 layout: post
 guid: http://anasismail.com/?p=1091
-permalink: /villains-arent-born
+permalink: /villains-arent-born/
 categories:
   - Links, Quotes
 ---

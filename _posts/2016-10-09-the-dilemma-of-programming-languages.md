@@ -5,7 +5,7 @@ date: 2016-10-09T08:01:28+00:00
 author: Anas Ismail Khan
 layout: post
 guid: http://anasismail.com/?p=2388
-permalink: /the-dilemma-of-programming-languages
+permalink: /the-dilemma-of-programming-languages/
 categories:
   - Web and dev
 ---

@@ -5,7 +5,7 @@ date: 2013-06-20T08:17:06+00:00
 author: Anas Ismail Khan
 layout: post
 guid: http://anasismail.com/?p=542
-permalink: /the-new-facebook-graph-search-feature
+permalink: /the-new-facebook-graph-search-feature/
 categories:
   - Web and dev
 ---

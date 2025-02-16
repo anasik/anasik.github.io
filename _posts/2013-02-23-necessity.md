@@ -6,7 +6,7 @@ author: Anas Ismail Khan
 layout: post
 guid: http://anasismail.com/?p=273
 published: false
-permalink: /necessity
+permalink: /necessity/
 categories:
   - Uncategorized
 ---

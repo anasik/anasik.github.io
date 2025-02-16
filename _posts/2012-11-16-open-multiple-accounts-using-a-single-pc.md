@@ -5,7 +5,7 @@ date: 2012-11-16T13:05:39+00:00
 author: Anas Ismail Khan
 layout: post
 guid: http://anasismail.com/?p=105
-permalink: /open-multiple-accounts-using-a-single-pc
+permalink: /open-multiple-accounts-using-a-single-pc/
 categories:
   - Uncategorized
 tags:

@@ -5,7 +5,7 @@ date: 2013-12-24T08:56:30+00:00
 author: Anas Ismail Khan
 layout: post
 guid: http://anasismail.com/?p=918
-permalink: /mb-vs-mb-vs-mibit-vs-mib
+permalink: /mb-vs-mb-vs-mibit-vs-mib/
 categories:
   - Uncategorized
 ---

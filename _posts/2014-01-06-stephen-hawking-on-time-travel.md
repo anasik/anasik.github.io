@@ -5,7 +5,7 @@ date: 2014-01-06T11:32:02+00:00
 author: Anas Ismail Khan
 layout: post
 guid: http://anasismail.com/?p=979
-permalink: /stephen-hawking-on-time-travel
+permalink: /stephen-hawking-on-time-travel/
 categories:
   - Uncategorized
 ---

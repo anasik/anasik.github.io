@@ -5,7 +5,7 @@ date: 2018-07-10T00:43:09+00:00
 author: Anas Ismail Khan
 layout: post
 guid: http://anasismail.com/?p=3789
-permalink: /toggls-building-a-horse-with-programming-comic-explained
+permalink: /toggls-building-a-horse-with-programming-comic-explained/
 categories:
   - Essays
   - Software, Devices, Reviews

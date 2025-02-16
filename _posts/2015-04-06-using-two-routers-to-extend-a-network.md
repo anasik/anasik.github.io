@@ -5,7 +5,7 @@ date: 2015-04-06T08:53:06+00:00
 author: Anas Ismail Khan
 layout: post
 guid: http://anasismail.com/?p=1194
-permalink: /using-two-routers-to-extend-a-network
+permalink: /using-two-routers-to-extend-a-network/
 categories:
   - Software, Devices, Reviews
   - Uncategorized

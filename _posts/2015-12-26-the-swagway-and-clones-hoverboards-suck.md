@@ -5,7 +5,7 @@ date: 2015-12-26T14:28:47+00:00
 author: Anas Ismail Khan
 layout: post
 guid: http://anasismail.com/?p=1238
-permalink: /the-swagway-and-clones-hoverboards-suck
+permalink: /the-swagway-and-clones-hoverboards-suck/
 categories:
   - Essays
 ---

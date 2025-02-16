@@ -5,7 +5,7 @@ date: 2013-06-22T14:43:15+00:00
 author: Anas Ismail Khan
 layout: post
 guid: http://anasismail.com/?p=551
-permalink: /the-java-based-windows-8-explorer-for-mobile-devices
+permalink: /the-java-based-windows-8-explorer-for-mobile-devices/
 categories:
   - Software, Devices, Reviews
 ---

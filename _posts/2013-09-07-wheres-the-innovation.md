@@ -5,7 +5,7 @@ date: 2013-09-07T13:11:25+00:00
 author: Anas Ismail Khan
 layout: post
 guid: http://anasismail.com/?p=739
-permalink: /wheres-the-innovation
+permalink: /wheres-the-innovation/
 categories:
   - Essays
   - Google

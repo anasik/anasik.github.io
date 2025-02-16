@@ -5,7 +5,7 @@ date: 2013-03-28T16:16:49+00:00
 author: Anas Ismail Khan
 layout: post
 guid: http://anasismail.com/?p=378
-permalink: /confessions-trend-on-fb
+permalink: /confessions-trend-on-fb/
 categories:
   - News
   - Web and dev

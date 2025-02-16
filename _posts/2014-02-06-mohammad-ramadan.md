@@ -5,7 +5,7 @@ date: 2014-02-06T15:15:06+00:00
 author: Anas Ismail Khan
 layout: post
 guid: http://anasismail.com/?p=1018
-permalink: /mohammad-ramadan
+permalink: /mohammad-ramadan/
 categories:
   - Uncategorized
 ---

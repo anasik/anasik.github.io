@@ -5,7 +5,7 @@ date: 2013-12-29T06:11:35+00:00
 author: Anas Ismail Khan
 layout: post
 guid: http://anasismail.com/?p=954
-permalink: /gates-to-jobs-when-accused-of-theft
+permalink: /gates-to-jobs-when-accused-of-theft/
 categories:
   - Uncategorized
 ---

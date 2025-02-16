@@ -5,7 +5,7 @@ date: 2016-11-24T12:21:21+00:00
 author: Anas Ismail Khan
 layout: post
 guid: http://anasismail.com/?p=2518
-permalink: /as-long-as-we-can-tell-the-pretty-from-the-not-so-pretty
+permalink: /as-long-as-we-can-tell-the-pretty-from-the-not-so-pretty/
 published: false
 categories:
   - Links, Quotes

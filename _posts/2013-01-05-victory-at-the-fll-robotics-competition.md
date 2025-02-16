@@ -5,7 +5,7 @@ date: 2013-01-05T16:36:28+00:00
 author: Anas Ismail Khan
 layout: post
 guid: http://anasismail.com/?p=217
-permalink: /victory-at-the-fll-robotics-competition
+permalink: /victory-at-the-fll-robotics-competition/
 categories:
   - Uncategorized
 ---

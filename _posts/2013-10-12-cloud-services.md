@@ -5,7 +5,7 @@ date: 2013-10-12T16:46:53+00:00
 author: Anas Ismail Khan
 layout: post
 guid: http://anasismail.com/?p=764
-permalink: /cloud-services
+permalink: /cloud-services/
 categories:
   - Google
   - Linux/unix

@@ -5,7 +5,7 @@ date: 2014-03-29T16:16:52+00:00
 author: Anas Ismail Khan
 layout: post
 guid: http://anasismail.com/?p=1053
-permalink: /trying-out-dslinux
+permalink: /trying-out-dslinux/
 categories:
   - Uncategorized
 ---

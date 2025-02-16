@@ -5,7 +5,7 @@ date: 2014-05-24T09:54:10+00:00
 author: Anas Ismail Khan
 layout: post
 guid: http://anasismail.com/?p=1103
-permalink: /animating-vegeta-the-power-of-css3-and-sprites
+permalink: /animating-vegeta-the-power-of-css3-and-sprites/
 categories:
   - Essays
   - Games

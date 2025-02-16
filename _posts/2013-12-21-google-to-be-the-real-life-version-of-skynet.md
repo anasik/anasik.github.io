@@ -5,7 +5,7 @@ date: 2013-12-21T15:59:39+00:00
 author: Anas Ismail Khan
 layout: post
 guid: http://anasismail.com/?p=904
-permalink: /google-to-be-the-real-life-version-of-skynet
+permalink: /google-to-be-the-real-life-version-of-skynet/
 categories:
   - Essays
   - Google

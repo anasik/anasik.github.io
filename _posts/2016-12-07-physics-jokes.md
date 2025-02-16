@@ -5,7 +5,7 @@ date: 2016-12-07T16:30:08+00:00
 author: Anas Ismail Khan
 layout: post
 guid: http://anasismail.com/?p=2682
-permalink: /physics-jokes
+permalink: /physics-jokes/
 categories:
   - Essays
 ---

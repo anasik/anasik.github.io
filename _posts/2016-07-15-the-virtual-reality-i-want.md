@@ -5,7 +5,7 @@ date: 2016-07-15T10:53:22+00:00
 author: Anas Ismail Khan
 layout: post
 guid: http://anasismail.com/?p=1882
-permalink: /the-virtual-reality-i-want
+permalink: /the-virtual-reality-i-want/
 categories:
   - Essays
   - Software, Devices, Reviews

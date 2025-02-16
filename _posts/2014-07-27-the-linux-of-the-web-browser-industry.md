@@ -5,7 +5,7 @@ date: 2014-07-27T22:02:54+00:00
 author: Anas Ismail Khan
 layout: post
 guid: http://anasismail.com/?p=1140
-permalink: /the-linux-of-the-web-browser-industry
+permalink: /the-linux-of-the-web-browser-industry/
 categories:
   - Links, Quotes
   - Software, Devices, Reviews

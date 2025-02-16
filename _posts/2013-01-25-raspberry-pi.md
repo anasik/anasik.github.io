@@ -5,7 +5,7 @@ date: 2013-01-25T05:54:02+00:00
 author: Anas Ismail Khan
 layout: post
 guid: http://anasismail.com/?p=251
-permalink: /raspberry-pi
+permalink: /raspberry-pi/
 categories:
   - Software, Devices, Reviews
 ---

@@ -5,7 +5,7 @@ date: 2016-06-13T17:13:51+00:00
 author: Anas Ismail Khan
 layout: post
 guid: http://anasismail.com/?p=1598
-permalink: /contextmenus-js
+permalink: /contextmenus-js/
 categories:
   - Software, Devices, Reviews
   - Web and dev

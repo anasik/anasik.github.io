@@ -5,7 +5,7 @@ date: 2013-12-10T06:28:08+00:00
 author: Anas Ismail Khan
 layout: post
 guid: http://anasismail.com/?p=878
-permalink: /jquery-mobile
+permalink: /jquery-mobile/
 categories:
   - Links, Quotes
   - Web and dev

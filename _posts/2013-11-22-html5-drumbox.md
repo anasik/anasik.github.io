@@ -5,7 +5,7 @@ date: 2013-11-22T15:48:44+00:00
 author: Anas Ismail Khan
 layout: post
 guid: http://anasismail.com/?p=794
-permalink: /html5-drumbox
+permalink: /html5-drumbox/
 categories:
   - Links, Quotes
   - Web and dev

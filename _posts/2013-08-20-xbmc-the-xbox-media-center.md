@@ -5,7 +5,7 @@ date: 2013-08-20T16:32:42+00:00
 author: Anas Ismail Khan
 layout: post
 guid: http://anasismail.com/?p=725
-permalink: /xbmc-the-xbox-media-center
+permalink: /xbmc-the-xbox-media-center/
 categories:
   - Linux/unix
   - Software, Devices, Reviews

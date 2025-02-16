@@ -5,7 +5,7 @@ date: 2012-12-30T16:02:46+00:00
 author: Anas Ismail Khan
 layout: post
 guid: http://anasismail.com/?p=200
-permalink: /magnificent-computer-graphics-impossible-objects
+permalink: /magnificent-computer-graphics-impossible-objects/
 categories:
   - Uncategorized
 ---

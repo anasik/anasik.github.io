@@ -5,7 +5,7 @@ date: 2014-01-27T18:23:28+00:00
 author: Anas Ismail Khan
 layout: post
 guid: http://anasismail.com/?p=1006
-permalink: /the-compass-can-point-true-north
+permalink: /the-compass-can-point-true-north/
 categories:
   - Uncategorized
 ---

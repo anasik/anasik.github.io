@@ -5,7 +5,7 @@ date: 2017-03-27T21:23:43+00:00
 author: Anas Ismail Khan
 layout: post
 guid: http://anasismail.com/?p=3370
-permalink: /did-nokia-really-not-do-anything-wrong-they-did
+permalink: /did-nokia-really-not-do-anything-wrong-they-did/
 categories:
   - Essays
   - Software, Devices, Reviews

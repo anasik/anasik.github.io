@@ -5,7 +5,7 @@ date: 2013-06-03T15:30:31+00:00
 author: Anas Ismail Khan
 layout: post
 guid: http://anasismail.com/?p=449
-permalink: /bootdisk-com
+permalink: /bootdisk-com/
 categories:
   - Windows
 ---

@@ -5,7 +5,7 @@ date: 2013-08-26T16:04:39+00:00
 author: Anas Ismail Khan
 layout: post
 guid: http://anasismail.com/?p=729
-permalink: /linus-torwalds-initial-email
+permalink: /linus-torwalds-initial-email/
 categories:
   - Linux/unix
 ---

@@ -5,7 +5,7 @@ date: 2017-12-12T19:20:42+00:00
 author: Anas Ismail Khan
 layout: post
 guid: http://anasismail.com/?p=3786
-permalink: /die-verwandlung
+permalink: /die-verwandlung/
 categories:
   - Essays
   - Software, Devices, Reviews

@@ -5,7 +5,7 @@ date: 2013-06-10T16:43:26+00:00
 author: Anas Ismail Khan
 layout: post
 guid: http://anasismail.com/?p=479
-permalink: /unetbootin
+permalink: /unetbootin/
 categories:
   - Linux/unix
   - Software, Devices, Reviews

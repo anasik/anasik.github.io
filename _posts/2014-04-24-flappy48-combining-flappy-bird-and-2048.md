@@ -5,7 +5,7 @@ date: 2014-04-24T16:55:34+00:00
 author: Anas Ismail Khan
 layout: post
 guid: http://anasismail.com/?p=1082
-permalink: /flappy48-combining-flappy-bird-and-2048
+permalink: /flappy48-combining-flappy-bird-and-2048/
 categories:
   - News
   - Software, Devices, Reviews

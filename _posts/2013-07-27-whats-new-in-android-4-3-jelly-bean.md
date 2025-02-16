@@ -5,7 +5,7 @@ date: 2013-07-27T15:55:31+00:00
 author: Anas Ismail Khan
 layout: post
 guid: http://anasismail.com/?p=692
-permalink: /whats-new-in-android-4-3-jelly-bean
+permalink: /whats-new-in-android-4-3-jelly-bean/
 categories:
   - Linux/unix
   - News

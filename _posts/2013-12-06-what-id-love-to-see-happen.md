@@ -5,7 +5,7 @@ date: 2013-12-06T06:24:11+00:00
 author: Anas Ismail Khan
 layout: post
 guid: http://anasismail.com/?p=857
-permalink: /what-id-love-to-see-happen
+permalink: /what-id-love-to-see-happen/
 categories:
   - Google
 ---

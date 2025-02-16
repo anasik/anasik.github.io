@@ -5,7 +5,7 @@ date: 2012-10-13T10:04:21+00:00
 author: Anas Ismail Khan
 layout: post
 guid: http://anasismail.com/?p=52
-permalink: /android-or-windows-phone-7
+permalink: /android-or-windows-phone-7/
 categories:
   - Software, Devices, Reviews
 tags:

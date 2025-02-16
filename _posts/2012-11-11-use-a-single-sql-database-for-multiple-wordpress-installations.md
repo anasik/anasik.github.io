@@ -5,7 +5,7 @@ date: 2012-11-11T16:03:03+00:00
 author: Anas Ismail Khan
 layout: post
 guid: http://anasismail.com/?p=100
-permalink: /use-a-single-sql-database-for-multiple-wordpress-installations
+permalink: /use-a-single-sql-database-for-multiple-wordpress-installations/
 categories:
   - Web and dev
 tags:

@@ -5,7 +5,7 @@ date: 2018-06-23T20:39:44+00:00
 author: Anas Ismail Khan
 layout: post
 guid: http://anasismail.com/?p=3847
-permalink: /who-are-you
+permalink: /who-are-you/
 categories:
   - Essays
 ---

@@ -5,7 +5,7 @@ date: 2014-04-27T20:58:33+00:00
 author: Anas Ismail Khan
 layout: post
 guid: http://anasismail.com/?p=1086
-permalink: /w-duplicate-sources-list-entry-fixed-ubuntu
+permalink: /w-duplicate-sources-list-entry-fixed-ubuntu/
 categories:
   - Linux/unix
 ---

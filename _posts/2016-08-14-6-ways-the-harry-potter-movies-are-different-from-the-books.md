@@ -5,7 +5,7 @@ date: 2016-08-14T06:59:17+00:00
 author: Anas Ismail Khan
 layout: post
 guid: http://anasismail.com/?p=2155
-permalink: /6-ways-the-harry-potter-movies-are-different-from-the-books
+permalink: /6-ways-the-harry-potter-movies-are-different-from-the-books/
 categories:
   - Links, Quotes
 ---

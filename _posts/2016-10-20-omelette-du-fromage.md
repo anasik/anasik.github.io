@@ -5,7 +5,7 @@ date: 2016-10-20T12:17:36+00:00
 author: Anas Ismail Khan
 layout: post
 guid: http://anasismail.com/?p=2461
-permalink: /omelette-du-fromage
+permalink: /omelette-du-fromage/
 categories:
   - Essays
   - Links, Quotes

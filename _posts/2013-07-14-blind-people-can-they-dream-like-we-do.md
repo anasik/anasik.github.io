@@ -5,7 +5,7 @@ date: 2013-07-14T08:33:50+00:00
 author: Anas Ismail Khan
 layout: post
 guid: http://anasismail.com/?p=632
-permalink: /blind-people-can-they-dream-like-we-do
+permalink: /blind-people-can-they-dream-like-we-do/
 categories:
   - Uncategorized
 ---

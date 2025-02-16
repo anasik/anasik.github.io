@@ -5,7 +5,7 @@ date: 2015-02-18T14:37:45+00:00
 author: Anas Ismail Khan
 layout: post
 guid: http://anasismail.com/?p=1171
-permalink: /code-names-of-debians-releases
+permalink: /code-names-of-debians-releases/
 categories:
   - Linux/unix
 ---

@@ -5,7 +5,7 @@ date: 2013-12-05T13:13:14+00:00
 author: Anas Ismail Khan
 layout: post
 guid: http://anasismail.com/?p=853
-permalink: /chromecast
+permalink: /chromecast/
 categories:
   - Google
   - Linux/unix

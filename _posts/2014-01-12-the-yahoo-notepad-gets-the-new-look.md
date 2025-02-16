@@ -5,7 +5,7 @@ date: 2014-01-12T04:07:30+00:00
 author: Anas Ismail Khan
 layout: post
 guid: http://anasismail.com/?p=991
-permalink: /the-yahoo-notepad-gets-the-new-look
+permalink: /the-yahoo-notepad-gets-the-new-look/
 categories:
   - Uncategorized
 ---

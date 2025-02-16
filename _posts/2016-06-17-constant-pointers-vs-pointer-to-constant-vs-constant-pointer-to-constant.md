@@ -5,7 +5,7 @@ date: 2016-06-17T15:49:54+00:00
 author: Anas Ismail Khan
 layout: post
 guid: http://anasismail.com/?p=1672
-permalink: /constant-pointers-vs-pointer-to-constant-vs-constant-pointer-to-constant
+permalink: /constant-pointers-vs-pointer-to-constant-vs-constant-pointer-to-constant/
 categories:
   - Links, Quotes
 ---

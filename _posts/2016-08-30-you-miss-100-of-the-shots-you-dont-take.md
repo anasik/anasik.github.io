@@ -5,7 +5,7 @@ date: 2016-08-30T16:43:16+00:00
 author: Anas Ismail Khan
 layout: post
 guid: http://anasismail.com/?p=2243
-permalink: /you-miss-100-of-the-shots-you-dont-take
+permalink: /you-miss-100-of-the-shots-you-dont-take/
 categories:
   - Links, Quotes
 ---

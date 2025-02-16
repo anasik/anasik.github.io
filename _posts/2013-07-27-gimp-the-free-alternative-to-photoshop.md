@@ -5,7 +5,7 @@ date: 2013-07-27T14:39:59+00:00
 author: Anas Ismail Khan
 layout: post
 guid: http://anasismail.com/?p=684
-permalink: /gimp-the-free-alternative-to-photoshop
+permalink: /gimp-the-free-alternative-to-photoshop/
 categories:
   - Linux/unix
   - Software, Devices, Reviews

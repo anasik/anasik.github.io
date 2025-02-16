@@ -5,7 +5,7 @@ date: 2014-05-19T20:40:11+00:00
 author: Anas Ismail Khan
 layout: post
 guid: http://anasismail.com/?p=1101
-permalink: /real-life-transformer
+permalink: /real-life-transformer/
 categories:
   - News
 ---

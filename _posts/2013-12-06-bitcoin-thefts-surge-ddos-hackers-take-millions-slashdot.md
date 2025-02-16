@@ -5,7 +5,7 @@ date: 2013-12-06T06:10:54+00:00
 author: Anas Ismail Khan
 layout: post
 guid: http://anasismail.com/?p=855
-permalink: /bitcoin-thefts-surge-ddos-hackers-take-millions-slashdot
+permalink: /bitcoin-thefts-surge-ddos-hackers-take-millions-slashdot/
 categories:
   - News
   - Software, Devices, Reviews

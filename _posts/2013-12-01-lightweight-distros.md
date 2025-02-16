@@ -5,7 +5,7 @@ date: 2013-12-01T03:23:54+00:00
 author: Anas Ismail Khan
 layout: post
 guid: http://anasismail.com/?p=839
-permalink: /lightweight-distros
+permalink: /lightweight-distros/
 categories:
   - Linux/unix
 ---

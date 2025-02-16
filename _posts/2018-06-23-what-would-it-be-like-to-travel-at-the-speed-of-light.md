@@ -5,7 +5,7 @@ date: 2018-06-23T20:20:20+00:00
 author: Anas Ismail Khan
 layout: post
 guid: http://anasismail.com/?p=3842
-permalink: /what-would-it-be-like-to-travel-at-the-speed-of-light
+permalink: /what-would-it-be-like-to-travel-at-the-speed-of-light/
 categories:
   - Essays
 ---

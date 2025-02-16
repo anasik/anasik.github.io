@@ -5,7 +5,7 @@ date: 2013-03-12T13:25:37+00:00
 author: Anas Ismail Khan
 layout: post
 guid: http://anasismail.com/?p=286
-permalink: /romo-the-smartphone-robot
+permalink: /romo-the-smartphone-robot/
 categories:
   - Software, Devices, Reviews
 ---

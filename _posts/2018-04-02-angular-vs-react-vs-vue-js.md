@@ -5,7 +5,7 @@ date: 2018-04-02T18:08:02+00:00
 author: Anas Ismail Khan
 layout: post
 guid: http://anasismail.com/?p=3824
-permalink: /angular-vs-react-vs-vue-js
+permalink: /angular-vs-react-vs-vue-js/
 categories:
   - Essays
   - Google

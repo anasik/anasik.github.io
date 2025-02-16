@@ -5,7 +5,7 @@ date: 2013-11-30T08:17:26+00:00
 author: Anas Ismail Khan
 layout: post
 guid: http://anasismail.com/?p=836
-permalink: /camera-free-iphones-2
+permalink: /camera-free-iphones-2/
 categories:
   - Software, Devices, Reviews
 ---

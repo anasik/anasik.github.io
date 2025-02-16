@@ -5,7 +5,7 @@ date: 2018-03-11T03:35:56+00:00
 author: Anas Ismail Khan
 layout: post
 guid: http://anasismail.com/?p=2517
-permalink: /sybill-trelawney
+permalink: /sybill-trelawney/
 categories:
   - Essays
 ---

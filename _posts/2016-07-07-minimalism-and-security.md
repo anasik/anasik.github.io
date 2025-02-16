@@ -5,7 +5,7 @@ date: 2016-07-07T15:46:41+00:00
 author: Anas Ismail Khan
 layout: post
 guid: http://anasismail.com/?p=1688
-permalink: /minimalism-and-security
+permalink: /minimalism-and-security/
 categories:
   - Essays
   - Software, Devices, Reviews

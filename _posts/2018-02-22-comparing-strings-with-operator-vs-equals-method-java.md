@@ -5,7 +5,7 @@ date: 2018-02-22T14:09:19+00:00
 author: Anas Ismail Khan
 layout: post
 guid: http://anasismail.com/?p=3805
-permalink: /comparing-strings-with-operator-vs-equals-method-java
+permalink: /comparing-strings-with-operator-vs-equals-method-java/
 categories:
   - Web and dev
 ---

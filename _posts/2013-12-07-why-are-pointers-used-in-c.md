@@ -5,7 +5,7 @@ date: 2013-12-07T11:08:04+00:00
 author: Anas Ismail Khan
 layout: post
 guid: http://anasismail.com/?p=870
-permalink: /why-are-pointers-used-in-c
+permalink: /why-are-pointers-used-in-c/
 categories:
   - Web and dev
 ---

@@ -5,7 +5,7 @@ date: 2014-02-26T16:45:58+00:00
 author: Anas Ismail Khan
 layout: post
 guid: http://anasismail.com/?p=1042
-permalink: /eletelephony
+permalink: /eletelephony/
 categories:
   - Uncategorized
 ---

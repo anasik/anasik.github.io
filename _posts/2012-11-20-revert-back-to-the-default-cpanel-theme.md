@@ -5,7 +5,7 @@ date: 2012-11-20T16:44:20+00:00
 author: Anas Ismail Khan
 layout: post
 guid: http://anasismail.com/?p=119
-permalink: /revert-back-to-the-default-cpanel-theme
+permalink: /revert-back-to-the-default-cpanel-theme/
 categories:
   - Web and dev
 tags:

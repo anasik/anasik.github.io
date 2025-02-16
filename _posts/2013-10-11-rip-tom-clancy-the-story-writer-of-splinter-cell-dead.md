@@ -5,7 +5,7 @@ date: 2013-10-11T15:17:16+00:00
 author: Anas Ismail Khan
 layout: post
 guid: http://anasismail.com/?p=750
-permalink: /rip-tom-clancy-the-story-writer-of-splinter-cell-dead
+permalink: /rip-tom-clancy-the-story-writer-of-splinter-cell-dead/
 categories:
   - Games
   - News

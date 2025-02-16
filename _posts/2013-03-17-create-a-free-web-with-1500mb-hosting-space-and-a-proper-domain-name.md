@@ -5,7 +5,7 @@ date: 2013-03-17T07:13:21+00:00
 author: Anas Ismail Khan
 layout: post
 guid: http://anasismail.com/?p=309
-permalink: /create-a-free-web-with-1500mb-hosting-space-and-a-proper-domain-name
+permalink: /create-a-free-web-with-1500mb-hosting-space-and-a-proper-domain-name/
 categories:
   - Web and dev
 ---

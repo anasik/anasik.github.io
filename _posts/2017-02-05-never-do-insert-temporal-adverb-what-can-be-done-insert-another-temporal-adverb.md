@@ -5,7 +5,7 @@ date: 2017-02-05T11:38:52+00:00
 author: Anas Ismail Khan
 layout: post
 guid: http://anasismail.com/?p=2855
-permalink: /never-do-insert-temporal-adverb-what-can-be-done-insert-another-temporal-adverb
+permalink: /never-do-insert-temporal-adverb-what-can-be-done-insert-another-temporal-adverb/
 categories:
   - Essays
 ---

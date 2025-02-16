@@ -5,7 +5,7 @@ date: 2013-12-08T05:31:17+00:00
 author: Anas Ismail Khan
 layout: post
 guid: http://anasismail.com/?p=771
-permalink: /the-cyborg-r-a-t-9-gaming-mouse
+permalink: /the-cyborg-r-a-t-9-gaming-mouse/
 categories:
   - Software, Devices, Reviews
 ---

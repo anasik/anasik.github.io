@@ -5,7 +5,7 @@ date: 2013-06-25T07:45:30+00:00
 author: Anas Ismail Khan
 layout: post
 guid: http://anasismail.com/?p=556
-permalink: /enabling-workspaces-in-ubuntu-13-04-raring-ringtail
+permalink: /enabling-workspaces-in-ubuntu-13-04-raring-ringtail/
 categories:
   - Linux/unix
 ---

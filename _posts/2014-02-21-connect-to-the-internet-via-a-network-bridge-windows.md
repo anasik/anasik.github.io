@@ -5,7 +5,7 @@ date: 2014-02-21T17:04:59+00:00
 author: Anas Ismail Khan
 layout: post
 guid: http://anasismail.com/?p=1037
-permalink: /connect-to-the-internet-via-a-network-bridge-windows
+permalink: /connect-to-the-internet-via-a-network-bridge-windows/
 categories:
   - Web and dev
   - Windows

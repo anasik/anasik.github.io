@@ -5,7 +5,7 @@ date: 2016-05-09T11:03:37+00:00
 author: Anas Ismail Khan
 layout: post
 guid: http://anasismail.com/?p=1274
-permalink: /fixing-the-brightness-issue-on-ubuntu-16-04
+permalink: /fixing-the-brightness-issue-on-ubuntu-16-04/
 categories:
   - Essays
   - Linux/unix

@@ -5,7 +5,7 @@ date: 2013-07-11T16:41:10+00:00
 author: Anas Ismail Khan
 layout: post
 guid: http://anasismail.com/?p=597
-permalink: /nokia-lumia-1020-the-first-such-smartphone-to-go-41mp
+permalink: /nokia-lumia-1020-the-first-such-smartphone-to-go-41mp/
 categories:
   - News
   - Software, Devices, Reviews

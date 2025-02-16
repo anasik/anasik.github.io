@@ -5,7 +5,7 @@ date: 2013-12-21T16:55:03+00:00
 author: Anas Ismail Khan
 layout: post
 guid: http://anasismail.com/?p=914
-permalink: /creating-user-accounts-via-terminal-ubuntu
+permalink: /creating-user-accounts-via-terminal-ubuntu/
 categories:
   - Linux/unix
 ---

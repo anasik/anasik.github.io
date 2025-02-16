@@ -5,7 +5,7 @@ date: 2018-07-13T22:17:10+00:00
 author: Anas Ismail Khan
 layout: post
 guid: http://anasismail.com/?p=3862
-permalink: /explaining-savitar-o-a-noob-be-like
+permalink: /explaining-savitar-o-a-noob-be-like/
 categories:
   - Uncategorized
 ---

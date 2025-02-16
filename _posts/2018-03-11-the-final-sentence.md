@@ -5,7 +5,7 @@ date: 2018-03-11T02:51:07+00:00
 author: Anas Ismail Khan
 layout: post
 guid: http://anasismail.com/?p=2841
-permalink: /the-final-sentence
+permalink: /the-final-sentence/
 categories:
   - Links, Quotes
 ---

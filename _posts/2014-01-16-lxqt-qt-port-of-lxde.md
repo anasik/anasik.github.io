@@ -5,7 +5,7 @@ date: 2014-01-16T18:16:00+00:00
 author: Anas Ismail Khan
 layout: post
 guid: http://anasismail.com/?p=1129
-permalink: /lxqt-qt-port-of-lxde
+permalink: /lxqt-qt-port-of-lxde/
 categories:
   - Linux/unix
 ---

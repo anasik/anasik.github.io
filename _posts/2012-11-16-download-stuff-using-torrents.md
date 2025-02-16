@@ -5,7 +5,7 @@ date: 2012-11-16T16:30:03+00:00
 author: Anas Ismail Khan
 layout: post
 guid: http://anasismail.com/?p=111
-permalink: /download-stuff-using-torrents
+permalink: /download-stuff-using-torrents/
 categories:
   - Software, Devices, Reviews
 ---

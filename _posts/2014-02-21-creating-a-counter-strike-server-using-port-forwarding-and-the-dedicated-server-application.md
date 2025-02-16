@@ -5,7 +5,7 @@ date: 2014-02-21T16:06:38+00:00
 author: Anas Ismail Khan
 layout: post
 guid: http://anasismail.com/?p=1030
-permalink: /creating-a-counter-strike-server-using-port-forwarding-and-the-dedicated-server-application
+permalink: /creating-a-counter-strike-server-using-port-forwarding-and-the-dedicated-server-application/
 categories:
   - Software, Devices, Reviews
   - Windows

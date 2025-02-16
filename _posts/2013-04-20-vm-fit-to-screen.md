@@ -5,7 +5,7 @@ date: 2013-04-20T16:43:23+00:00
 author: Anas Ismail Khan
 layout: post
 guid: http://anasismail.com/?p=421
-permalink: /vm-fit-to-screen
+permalink: /vm-fit-to-screen/
 categories:
   - Software, Devices, Reviews
 ---

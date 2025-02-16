@@ -5,7 +5,7 @@ date: 2014-03-29T14:37:24+00:00
 author: Anas Ismail Khan
 layout: post
 guid: http://anasismail.com/?p=1050
-permalink: /a-ring-system-around-an-asteroid
+permalink: /a-ring-system-around-an-asteroid/
 categories:
   - News
 ---

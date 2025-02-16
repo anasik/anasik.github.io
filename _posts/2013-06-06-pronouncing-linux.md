@@ -5,7 +5,7 @@ date: 2013-06-06T17:36:21+00:00
 author: Anas Ismail Khan
 layout: post
 guid: http://anasismail.com/?p=462
-permalink: /pronouncing-linux
+permalink: /pronouncing-linux/
 enclosure:
   - |
     http://www.paul.sladen.org/pronunciation/torvalds-says-linux.mp3

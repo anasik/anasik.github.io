@@ -5,7 +5,7 @@ date: 2013-06-30T14:13:48+00:00
 author: Anas Ismail Khan
 layout: post
 guid: http://anasismail.com/?p=584
-permalink: /installing-wine-messed-up-fonts-ubuntu
+permalink: /installing-wine-messed-up-fonts-ubuntu/
 categories:
   - Linux/unix
 ---

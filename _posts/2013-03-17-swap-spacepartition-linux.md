@@ -5,7 +5,7 @@ date: 2013-03-17T07:28:38+00:00
 author: Anas Ismail Khan
 layout: post
 guid: http://anasismail.com/?p=316
-permalink: /swap-spacepartition-linux
+permalink: /swap-spacepartition-linux/
 categories:
   - Linux/unix
 ---

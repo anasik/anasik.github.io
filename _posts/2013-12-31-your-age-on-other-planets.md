@@ -5,7 +5,7 @@ date: 2013-12-31T20:02:06+00:00
 author: Anas Ismail Khan
 layout: post
 guid: http://anasismail.com/?p=961
-permalink: /your-age-on-other-planets
+permalink: /your-age-on-other-planets/
 categories:
   - Links, Quotes
 ---

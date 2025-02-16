@@ -5,7 +5,7 @@ date: 2015-04-28T17:47:51+00:00
 author: Anas Ismail Khan
 layout: post
 guid: http://anasismail.com/?p=1204
-permalink: /shared-cricket-stadium-for-pakistan-and-india
+permalink: /shared-cricket-stadium-for-pakistan-and-india/
 categories:
   - Essays
 ---

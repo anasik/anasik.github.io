@@ -5,7 +5,7 @@ date: 2012-11-18T14:40:23+00:00
 author: Anas Ismail Khan
 layout: post
 guid: http://anasismail.com/?p=121
-permalink: /windows-rt-and-windows-8-pro
+permalink: /windows-rt-and-windows-8-pro/
 categories:
   - Software, Devices, Reviews
 tags:

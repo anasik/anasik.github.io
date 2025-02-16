@@ -5,7 +5,7 @@ date: 2014-02-09T15:45:42+00:00
 author: Anas Ismail Khan
 layout: post
 guid: http://anasismail.com/?p=1023
-permalink: /sonys-micro-usb-flash-drive
+permalink: /sonys-micro-usb-flash-drive/
 categories:
   - Uncategorized
 ---

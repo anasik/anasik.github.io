@@ -5,7 +5,7 @@ date: 2013-12-24T09:08:50+00:00
 author: Anas Ismail Khan
 layout: post
 guid: http://anasismail.com/?p=920
-permalink: /10-must-have-android-apps-for-general-consumers
+permalink: /10-must-have-android-apps-for-general-consumers/
 categories:
   - Google
   - Linux/unix

@@ -5,7 +5,7 @@ date: 2013-06-01T12:50:24+00:00
 author: Anas Ismail Khan
 layout: post
 guid: http://anasismail.com/?p=440
-permalink: /windows-8-setup-failing-after-reboot-solved
+permalink: /windows-8-setup-failing-after-reboot-solved/
 categories:
   - Windows
 ---

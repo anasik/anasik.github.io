@@ -5,7 +5,7 @@ date: 2013-07-21T10:38:27+00:00
 author: Anas Ismail Khan
 layout: post
 guid: http://anasismail.com/?p=667
-permalink: /security-breach-on-the-ubuntu-forums
+permalink: /security-breach-on-the-ubuntu-forums/
 categories:
   - Linux/unix
   - News

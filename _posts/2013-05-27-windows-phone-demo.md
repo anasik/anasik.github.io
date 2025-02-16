@@ -5,7 +5,7 @@ date: 2013-05-27T10:06:41+00:00
 author: Anas Ismail Khan
 layout: post
 guid: http://anasismail.com/?p=434
-permalink: /windows-phone-demo
+permalink: /windows-phone-demo/
 categories:
   - Software, Devices, Reviews
 ---

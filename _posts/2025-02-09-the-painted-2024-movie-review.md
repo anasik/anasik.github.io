@@ -2,7 +2,7 @@
 title: The Painted (2024) - Movie Review
 author: Anas Ismail Khan
 layout: post
-permalink: /the-painted-2024-movie-review
+permalink: /the-painted-2024-movie-review/
 categories:
   - Movie Reviews
 ---

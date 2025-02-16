@@ -6,7 +6,7 @@ author: Anas Ismail Khan
 layout: post
 guid: http://anasismail.com/?p=223
 published: false
-permalink: /trust-god-fully
+permalink: /trust-god-fully/
 categories:
   - Uncategorized
 ---

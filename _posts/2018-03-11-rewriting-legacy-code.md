@@ -5,7 +5,7 @@ date: 2018-03-11T02:37:16+00:00
 author: Anas Ismail Khan
 layout: post
 guid: http://anasismail.com/?p=3808
-permalink: /rewriting-legacy-code
+permalink: /rewriting-legacy-code/
 categories:
   - Essays
   - Web and dev

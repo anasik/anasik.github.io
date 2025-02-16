@@ -5,7 +5,7 @@ date: 2013-10-12T15:53:55+00:00
 author: Anas Ismail Khan
 layout: post
 guid: http://anasismail.com/?p=761
-permalink: /otheros-playstation3
+permalink: /otheros-playstation3/
 categories:
   - Linux/unix
   - Software, Devices, Reviews

@@ -5,7 +5,7 @@ date: 2013-08-10T07:20:39+00:00
 author: Anas Ismail Khan
 layout: post
 guid: http://anasismail.com/?p=700
-permalink: /the-moto-xs-specifications
+permalink: /the-moto-xs-specifications/
 categories:
   - Google
   - Software, Devices, Reviews

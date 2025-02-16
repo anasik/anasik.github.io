@@ -5,7 +5,7 @@ date: 2016-09-15T08:02:14+00:00
 author: Anas Ismail Khan
 layout: post
 guid: http://anasismail.com/?p=2247
-permalink: /harry-potter-and-the-cursed-child-a-cursed-sequel
+permalink: /harry-potter-and-the-cursed-child-a-cursed-sequel/
 categories:
   - Essays
   - Software, Devices, Reviews

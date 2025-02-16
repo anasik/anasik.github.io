@@ -5,7 +5,7 @@ date: 2013-05-29T09:53:15+00:00
 author: Anas Ismail Khan
 layout: post
 guid: http://anasismail.com/?p=437
-permalink: /matt-writes-a-letter-to-wordpres
+permalink: /matt-writes-a-letter-to-wordpres/
 categories:
   - News
   - Software, Devices, Reviews

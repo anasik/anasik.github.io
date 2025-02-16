@@ -5,7 +5,7 @@ date: 2016-06-17T15:51:40+00:00
 author: Anas Ismail Khan
 layout: post
 guid: http://anasismail.com/?p=1675
-permalink: /const-vs-let-vs-var-javascript
+permalink: /const-vs-let-vs-var-javascript/
 categories:
   - Links, Quotes
 ---

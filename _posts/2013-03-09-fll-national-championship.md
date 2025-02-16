@@ -5,7 +5,7 @@ date: 2013-03-09T16:39:58+00:00
 author: Anas Ismail Khan
 layout: post
 guid: http://anasismail.com/?p=278
-permalink: /fll-national-championship
+permalink: /fll-national-championship/
 categories:
   - Uncategorized
 ---

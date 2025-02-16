@@ -5,7 +5,7 @@ date: 2013-07-05T08:02:15+00:00
 author: Anas Ismail Khan
 layout: post
 guid: http://anasismail.com/?p=590
-permalink: /unable-to-mount-windows-partition-on-ubuntuwindows-dual-boot-ubuntu
+permalink: /unable-to-mount-windows-partition-on-ubuntuwindows-dual-boot-ubuntu/
 categories:
   - Linux/unix
 ---

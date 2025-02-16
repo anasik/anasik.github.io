@@ -5,7 +5,7 @@ date: 2013-08-02T12:55:39+00:00
 author: Anas Ismail Khan
 layout: post
 guid: http://anasismail.com/?p=696
-permalink: /the-moto-x-another-release-that-redefines-smartphones
+permalink: /the-moto-x-another-release-that-redefines-smartphones/
 categories:
   - Google
   - Linux/unix

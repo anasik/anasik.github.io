@@ -5,7 +5,7 @@ date: 2012-11-18T14:56:54+00:00
 author: Anas Ismail Khan
 layout: post
 guid: http://anasismail.com/?p=125
-permalink: /dos-denial-of-service-attack
+permalink: /dos-denial-of-service-attack/
 categories:
   - Web and dev
 ---

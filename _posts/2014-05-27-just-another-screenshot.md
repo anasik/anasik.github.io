@@ -5,7 +5,7 @@ date: 2014-05-27T06:14:40+00:00
 author: Anas Ismail Khan
 layout: post
 guid: http://anasismail.com/?p=1108
-permalink: /just-another-screenshot
+permalink: /just-another-screenshot/
 categories:
   - Linux/unix
   - News

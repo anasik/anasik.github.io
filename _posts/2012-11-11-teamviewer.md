@@ -5,7 +5,7 @@ date: 2012-11-11T15:38:28+00:00
 author: Anas Ismail Khan
 layout: post
 guid: http://anasismail.com/?p=89
-permalink: /teamviewer
+permalink: /teamviewer/
 categories:
   - Software, Devices, Reviews
 tags:

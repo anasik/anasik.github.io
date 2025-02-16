@@ -5,7 +5,7 @@ date: 2012-12-21T15:52:41+00:00
 author: Anas Ismail Khan
 layout: post
 guid: http://anasismail.com/?p=174
-permalink: /chrome-web-developer-extension
+permalink: /chrome-web-developer-extension/
 categories:
   - Google
 ---

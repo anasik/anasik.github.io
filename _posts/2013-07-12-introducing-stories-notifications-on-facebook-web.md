@@ -5,7 +5,7 @@ date: 2013-07-12T15:21:53+00:00
 author: Anas Ismail Khan
 layout: post
 guid: http://anasismail.com/?p=607
-permalink: /introducing-stories-notifications-on-facebook-web
+permalink: /introducing-stories-notifications-on-facebook-web/
 categories:
   - News
   - Web and dev

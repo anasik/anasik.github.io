@@ -5,7 +5,7 @@ date: 2013-12-10T08:00:34+00:00
 author: Anas Ismail Khan
 layout: post
 guid: http://anasismail.com/?p=885
-permalink: /my-first-website
+permalink: /my-first-website/
 categories:
   - Links, Quotes
   - Web and dev

@@ -5,7 +5,7 @@ date: 2013-12-12T10:30:31+00:00
 author: Anas Ismail Khan
 layout: post
 guid: http://anasismail.com/?p=893
-permalink: /ah-just-merge-the-two
+permalink: /ah-just-merge-the-two/
 categories:
   - Google
   - Links, Quotes

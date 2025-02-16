@@ -5,7 +5,7 @@ date: 2013-04-05T17:02:18+00:00
 author: Anas Ismail Khan
 layout: post
 guid: http://anasismail.com/?p=388
-permalink: /get-rid-of-the-this-copy-of-windows-is-not-genuine-error-in-windows-7-ultimate
+permalink: /get-rid-of-the-this-copy-of-windows-is-not-genuine-error-in-windows-7-ultimate/
 categories:
   - Windows
 ---

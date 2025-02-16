@@ -5,7 +5,7 @@ date: 2013-01-24T08:58:42+00:00
 author: Anas Ismail Khan
 layout: post
 guid: http://anasismail.com/?p=235
-permalink: /blogger-hired-woman-to-slap-him-whenever-he-logged-into-any-social-networking-site
+permalink: /blogger-hired-woman-to-slap-him-whenever-he-logged-into-any-social-networking-site/
 categories:
   - Web and dev
 ---

@@ -5,7 +5,7 @@ date: 2013-06-30T13:53:44+00:00
 author: Anas Ismail Khan
 layout: post
 guid: http://anasismail.com/?p=574
-permalink: /working-with-models-in-gta
+permalink: /working-with-models-in-gta/
 categories:
   - Games
   - GTA

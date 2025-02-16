@@ -5,7 +5,7 @@ date: 2013-04-16T12:48:22+00:00
 author: Anas Ismail Khan
 layout: post
 guid: http://anasismail.com/?p=401
-permalink: /no-hard-drives-been-found-linux-xpred-hat
+permalink: /no-hard-drives-been-found-linux-xpred-hat/
 categories:
   - Linux/unix
 ---

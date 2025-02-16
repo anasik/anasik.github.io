@@ -5,7 +5,7 @@ date: 2014-06-05T04:30:55+00:00
 author: Anas Ismail Khan
 layout: post
 guid: http://anasismail.com/?p=1122
-permalink: /google-maps-street-views-time-travel-feature
+permalink: /google-maps-street-views-time-travel-feature/
 categories:
   - Google
   - News

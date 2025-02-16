@@ -5,7 +5,7 @@ date: 2013-06-11T16:55:18+00:00
 author: Anas Ismail Khan
 layout: post
 guid: http://anasismail.com/?p=488
-permalink: /los-santos-san-andreas-in-gta-v
+permalink: /los-santos-san-andreas-in-gta-v/
 categories:
   - GTA
 ---

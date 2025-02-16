@@ -5,7 +5,7 @@ date: 2019-01-13T10:49:21+00:00
 author: Anas Ismail Khan
 layout: post
 guid: http://anasismail.com/?p=3886
-permalink: /i-made-a-mips-simulator
+permalink: /i-made-a-mips-simulator/
 categories:
   - Software, Devices, Reviews
   - Web and dev

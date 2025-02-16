@@ -5,7 +5,7 @@ date: 2016-11-15T14:07:51+00:00
 author: Anas Ismail Khan
 layout: post
 guid: http://anasismail.com/?p=2523
-permalink: /kaspersky-os
+permalink: /kaspersky-os/
 categories:
   - Linux/unix
   - News

@@ -5,7 +5,7 @@ date: 2013-11-15T13:13:19+00:00
 author: Anas Ismail Khan
 layout: post
 guid: http://anasismail.com/?p=790
-permalink: /the-facebook-messengermobile-gets-a-new-look
+permalink: /the-facebook-messengermobile-gets-a-new-look/
 categories:
   - Uncategorized
 ---

@@ -5,7 +5,7 @@ date: 2018-07-03T21:28:44+00:00
 author: Anas Ismail Khan
 layout: post
 guid: http://anasismail.com/?p=3854
-permalink: /sql-server-screwups-and-how-to-fix-them
+permalink: /sql-server-screwups-and-how-to-fix-them/
 categories:
   - Web and dev
   - Windows

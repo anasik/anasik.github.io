@@ -5,7 +5,7 @@ date: 2015-02-18T12:50:38+00:00
 author: Anas Ismail Khan
 layout: post
 guid: http://anasismail.com/?p=1162
-permalink: /spend-a-day-without-x
+permalink: /spend-a-day-without-x/
 categories:
   - Links, Quotes
   - Uncategorized

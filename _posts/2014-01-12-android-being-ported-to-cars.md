@@ -5,7 +5,7 @@ date: 2014-01-12T14:58:55+00:00
 author: Anas Ismail Khan
 layout: post
 guid: http://anasismail.com/?p=995
-permalink: /android-being-ported-to-cars
+permalink: /android-being-ported-to-cars/
 categories:
   - Google
   - Links, Quotes

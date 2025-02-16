@@ -5,7 +5,7 @@ date: 2018-06-21T10:03:41+00:00
 author: Anas Ismail Khan
 layout: post
 guid: http://anasismail.com/?p=3838
-permalink: /men-in-black-2-the-locker-and-the-marble
+permalink: /men-in-black-2-the-locker-and-the-marble/
 categories:
   - Uncategorized
 ---

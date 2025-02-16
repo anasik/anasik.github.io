@@ -5,7 +5,7 @@ date: 2017-02-10T13:31:33+00:00
 author: Anas Ismail Khan
 layout: post
 guid: http://anasismail.com/?p=3065
-permalink: /monolingual-autism
+permalink: /monolingual-autism/
 categories:
   - Essays
 ---

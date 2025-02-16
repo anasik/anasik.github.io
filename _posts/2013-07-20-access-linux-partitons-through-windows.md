@@ -5,7 +5,7 @@ date: 2013-07-20T11:48:02+00:00
 author: Anas Ismail Khan
 layout: post
 guid: http://anasismail.com/?p=665
-permalink: /access-linux-partitons-through-windows
+permalink: /access-linux-partitons-through-windows/
 categories:
   - Linux/unix
   - Software, Devices, Reviews

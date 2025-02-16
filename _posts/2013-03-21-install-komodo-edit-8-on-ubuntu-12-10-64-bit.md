@@ -5,7 +5,7 @@ date: 2013-03-21T15:22:46+00:00
 author: Anas Ismail Khan
 layout: post
 guid: http://anasismail.com/?p=368
-permalink: /install-komodo-edit-8-on-ubuntu-12-10-64-bit
+permalink: /install-komodo-edit-8-on-ubuntu-12-10-64-bit/
 categories:
   - Linux/unix
 ---

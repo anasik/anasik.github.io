@@ -5,7 +5,7 @@ date: 2012-12-24T17:27:55+00:00
 author: Anas Ismail Khan
 layout: post
 guid: http://anasismail.com/?p=188
-permalink: /access-blocked-websites
+permalink: /access-blocked-websites/
 categories:
   - Web and dev
 ---

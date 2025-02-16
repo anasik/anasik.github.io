@@ -5,7 +5,7 @@ date: 2013-12-06T07:26:01+00:00
 author: Anas Ismail Khan
 layout: post
 guid: http://anasismail.com/?p=859
-permalink: /the-time-you-enjoy-wasting-is-not-wasted-time-bertrand-russel-or-john-lennon
+permalink: /the-time-you-enjoy-wasting-is-not-wasted-time-bertrand-russel-or-john-lennon/
 categories:
   - Links, Quotes
 ---

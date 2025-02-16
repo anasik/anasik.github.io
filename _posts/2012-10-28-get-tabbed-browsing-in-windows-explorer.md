@@ -5,7 +5,7 @@ date: 2012-10-28T07:09:42+00:00
 author: Anas Ismail Khan
 layout: post
 guid: http://anasismail.com/?p=73
-permalink: /get-tabbed-browsing-in-windows-explorer
+permalink: /get-tabbed-browsing-in-windows-explorer/
 categories:
   - Software, Devices, Reviews
 tags:

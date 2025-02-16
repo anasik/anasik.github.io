@@ -5,7 +5,7 @@ date: 2018-02-08T13:26:34+00:00
 author: Anas Ismail Khan
 layout: post
 guid: http://anasismail.com/?p=3790
-permalink: /david-carson-on-js
+permalink: /david-carson-on-js/
 categories:
   - Links, Quotes
 ---

@@ -5,7 +5,7 @@ date: 2017-05-03T19:34:33+00:00
 author: Anas Ismail Khan
 layout: post
 guid: http://anasismail.com/?p=3527
-permalink: /what-the-hell
+permalink: /what-the-hell/
 categories:
   - Web and dev
 ---

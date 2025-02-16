@@ -5,7 +5,7 @@ date: 2013-07-23T08:00:47+00:00
 author: Anas Ismail Khan
 layout: post
 guid: http://anasismail.com/?p=676
-permalink: /ubuntu-edge
+permalink: /ubuntu-edge/
 categories:
   - Linux/unix
   - News

@@ -5,7 +5,7 @@ date: 2013-03-28T16:28:11+00:00
 author: Anas Ismail Khan
 layout: post
 guid: http://anasismail.com/?p=380
-permalink: /fault-in-some-undersea-cable-slows-down-internet-by-60-in-several-countries-including-pakistan
+permalink: /fault-in-some-undersea-cable-slows-down-internet-by-60-in-several-countries-including-pakistan/
 categories:
   - News
 ---

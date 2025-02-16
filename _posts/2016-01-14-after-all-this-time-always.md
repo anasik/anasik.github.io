@@ -5,7 +5,7 @@ date: 2016-01-14T18:41:16+00:00
 author: Anas Ismail Khan
 layout: post
 guid: http://anasismail.com/?p=1251
-permalink: /after-all-this-time-always
+permalink: /after-all-this-time-always/
 categories:
   - Uncategorized
 ---

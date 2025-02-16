@@ -5,7 +5,7 @@ date: 2014-04-18T13:48:07+00:00
 author: Anas Ismail Khan
 layout: post
 guid: http://anasismail.com/?p=1069
-permalink: /upgrading-from-ubuntu-13-04-to-14-04-lts
+permalink: /upgrading-from-ubuntu-13-04-to-14-04-lts/
 categories:
   - Uncategorized
 ---

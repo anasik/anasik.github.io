@@ -5,7 +5,7 @@ date: 2016-07-08T12:27:26+00:00
 author: Anas Ismail Khan
 layout: post
 guid: http://anasismail.com/?p=1723
-permalink: /interstellar-vs-2001-a-space-odyssey
+permalink: /interstellar-vs-2001-a-space-odyssey/
 categories:
   - Essays
 ---

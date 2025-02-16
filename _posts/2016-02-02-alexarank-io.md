@@ -5,7 +5,7 @@ date: 2016-02-02T16:58:59+00:00
 author: Anas Ismail Khan
 layout: post
 guid: http://anasismail.com/?p=1261
-permalink: /alexarank-io
+permalink: /alexarank-io/
 categories:
   - Essays
   - Links, Quotes

@@ -5,7 +5,7 @@ date: 2014-06-05T19:28:14+00:00
 author: Anas Ismail Khan
 layout: post
 guid: http://anasismail.com/?p=1124
-permalink: /explaining-the-debian-family-distros-like-a-boss
+permalink: /explaining-the-debian-family-distros-like-a-boss/
 categories:
   - Linux/unix
 ---

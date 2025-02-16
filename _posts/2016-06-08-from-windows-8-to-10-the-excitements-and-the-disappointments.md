@@ -5,7 +5,7 @@ date: 2016-06-08T11:23:59+00:00
 author: Anas Ismail Khan
 layout: post
 guid: http://anasismail.com/?p=1308
-permalink: /from-windows-8-to-10-the-excitements-and-the-disappointments
+permalink: /from-windows-8-to-10-the-excitements-and-the-disappointments/
 categories:
   - Essays
   - Software, Devices, Reviews

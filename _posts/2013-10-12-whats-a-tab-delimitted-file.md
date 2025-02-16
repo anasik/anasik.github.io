@@ -5,7 +5,7 @@ date: 2013-10-12T09:44:28+00:00
 author: Anas Ismail Khan
 layout: post
 guid: http://anasismail.com/?p=754
-permalink: /whats-a-tab-delimitted-file
+permalink: /whats-a-tab-delimitted-file/
 categories:
   - Software, Devices, Reviews
 ---

@@ -5,7 +5,7 @@ date: 2016-06-06T10:01:36+00:00
 author: Anas Ismail Khan
 layout: post
 guid: http://anasismail.com/?p=1301
-permalink: /can-machines-think
+permalink: /can-machines-think/
 categories:
   - Essays
   - Links, Quotes

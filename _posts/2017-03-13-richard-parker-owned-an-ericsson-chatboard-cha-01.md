@@ -5,7 +5,7 @@ date: 2017-03-13T10:05:25+00:00
 author: Anas Ismail Khan
 layout: post
 guid: http://anasismail.com/?p=3323
-permalink: /richard-parker-owned-an-ericsson-chatboard-cha-01
+permalink: /richard-parker-owned-an-ericsson-chatboard-cha-01/
 categories:
   - Uncategorized
 ---

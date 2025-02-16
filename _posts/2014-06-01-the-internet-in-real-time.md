@@ -6,7 +6,7 @@ author: Anas Ismail Khan
 layout: post
 guid: http://anasismail.com/?p=1116
 published: false
-permalink: /the-internet-in-real-time
+permalink: /the-internet-in-real-time/
 categories:
   - Links, Quotes
   - Uncategorized

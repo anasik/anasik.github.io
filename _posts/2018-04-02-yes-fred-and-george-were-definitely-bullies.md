@@ -5,7 +5,7 @@ date: 2018-04-02T19:02:15+00:00
 author: Anas Ismail Khan
 layout: post
 guid: http://anasismail.com/?p=3828
-permalink: /yes-fred-and-george-were-definitely-bullies
+permalink: /yes-fred-and-george-were-definitely-bullies/
 categories:
   - Links, Quotes
 ---

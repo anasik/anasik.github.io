@@ -5,7 +5,7 @@ date: 2012-11-28T18:05:28+00:00
 author: Anas Ismail Khan
 layout: post
 guid: http://anasismail.com/?p=143
-permalink: /run-google-chromium-os-on-virtualbox
+permalink: /run-google-chromium-os-on-virtualbox/
 categories:
   - Linux/unix
 ---

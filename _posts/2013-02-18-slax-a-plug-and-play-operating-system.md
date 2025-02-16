@@ -5,7 +5,7 @@ date: 2013-02-18T16:05:27+00:00
 author: Anas Ismail Khan
 layout: post
 guid: http://anasismail.com/?p=270
-permalink: /slax-a-plug-and-play-operating-system
+permalink: /slax-a-plug-and-play-operating-system/
 categories:
   - Linux/unix
 ---

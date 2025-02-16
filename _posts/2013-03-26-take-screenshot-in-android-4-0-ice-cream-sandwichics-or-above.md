@@ -5,7 +5,7 @@ date: 2013-03-26T16:09:10+00:00
 author: Anas Ismail Khan
 layout: post
 guid: http://anasismail.com/?p=375
-permalink: /take-screenshot-in-android-4-0-ice-cream-sandwichics-or-above
+permalink: /take-screenshot-in-android-4-0-ice-cream-sandwichics-or-above/
 categories:
   - Google
   - Linux/unix

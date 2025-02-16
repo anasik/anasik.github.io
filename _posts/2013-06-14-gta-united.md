@@ -5,7 +5,7 @@ date: 2013-06-14T10:41:52+00:00
 author: Anas Ismail Khan
 layout: post
 guid: http://anasismail.com/?p=500
-permalink: /gta-united
+permalink: /gta-united/
 categories:
   - GTA
 ---

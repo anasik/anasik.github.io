@@ -5,7 +5,7 @@ date: 2012-10-28T07:50:08+00:00
 author: Anas Ismail Khan
 layout: post
 guid: http://anasismail.com/?p=81
-permalink: /hidden-ftp-client-in-windowsmac-and-linux
+permalink: /hidden-ftp-client-in-windowsmac-and-linux/
 categories:
   - Software, Devices, Reviews
 ---

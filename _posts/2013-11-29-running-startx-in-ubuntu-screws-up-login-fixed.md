@@ -5,7 +5,7 @@ date: 2013-11-29T12:05:24+00:00
 author: Anas Ismail Khan
 layout: post
 guid: http://anasismail.com/?p=808
-permalink: /running-startx-in-ubuntu-screws-up-login-fixed
+permalink: /running-startx-in-ubuntu-screws-up-login-fixed/
 categories:
   - Linux/unix
 ---

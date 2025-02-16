@@ -5,7 +5,7 @@ date: 2014-01-02T10:23:10+00:00
 author: Anas Ismail Khan
 layout: post
 guid: http://anasismail.com/?p=965
-permalink: /freebsd-install-fails-on-virtualbox-fixed
+permalink: /freebsd-install-fails-on-virtualbox-fixed/
 categories:
   - Software, Devices, Reviews
 ---

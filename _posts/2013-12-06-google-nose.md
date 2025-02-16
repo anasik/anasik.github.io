@@ -5,7 +5,7 @@ date: 2013-12-06T09:46:11+00:00
 author: Anas Ismail Khan
 layout: post
 guid: http://anasismail.com/?p=863
-permalink: /google-nose
+permalink: /google-nose/
 categories:
   - Google
   - Software, Devices, Reviews

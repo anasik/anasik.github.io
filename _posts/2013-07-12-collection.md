@@ -5,7 +5,7 @@ date: 2013-07-12T15:43:12+00:00
 author: Anas Ismail Khan
 layout: post
 guid: http://anasismail.com/?p=614
-permalink: /collection
+permalink: /collection/
 categories:
   - Linux/unix
   - Windows

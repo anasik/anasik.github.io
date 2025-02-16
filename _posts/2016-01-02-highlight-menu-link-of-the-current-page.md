@@ -5,7 +5,7 @@ date: 2016-01-02T14:50:41+00:00
 author: Anas Ismail Khan
 layout: post
 guid: http://anasismail.com/?p=1241
-permalink: /highlight-menu-link-of-the-current-page
+permalink: /highlight-menu-link-of-the-current-page/
 categories:
   - Web and dev
 tags:

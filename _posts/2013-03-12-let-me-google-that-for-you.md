@@ -5,7 +5,7 @@ date: 2013-03-12T14:11:08+00:00
 author: Anas Ismail Khan
 layout: post
 guid: http://anasismail.com/?p=288
-permalink: /let-me-google-that-for-you
+permalink: /let-me-google-that-for-you/
 categories:
   - Google
 ---

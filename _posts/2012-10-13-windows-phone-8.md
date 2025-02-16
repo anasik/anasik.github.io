@@ -5,7 +5,7 @@ date: 2012-10-13T10:02:29+00:00
 author: Anas Ismail Khan
 layout: post
 guid: http://anasismail.com/?p=40
-permalink: /windows-phone-8
+permalink: /windows-phone-8/
 categories:
   - Software, Devices, Reviews
 tags:

@@ -5,7 +5,7 @@ date: 2013-08-07T13:04:05+00:00
 author: Anas Ismail Khan
 layout: post
 guid: http://anasismail.com/?p=707
-permalink: /enabledisable-guestremote-login-accounts-in-ubuntu-13-04-ubuntu
+permalink: /enabledisable-guestremote-login-accounts-in-ubuntu-13-04-ubuntu/
 categories:
   - Linux/unix
 ---

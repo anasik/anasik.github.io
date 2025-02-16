@@ -5,7 +5,7 @@ date: 2012-10-13T15:19:02+00:00
 author: Anas Ismail Khan
 layout: post
 guid: http://anasismail.com/?p=51
-permalink: /unsubscriber
+permalink: /unsubscriber/
 categories:
   - Uncategorized
 ---

@@ -5,7 +5,7 @@ date: 2016-01-08T09:04:07+00:00
 author: Anas Ismail Khan
 layout: post
 guid: http://anasismail.com/?p=1248
-permalink: /remix-os-what-google-needs-to-ditch-chrome-os-for
+permalink: /remix-os-what-google-needs-to-ditch-chrome-os-for/
 categories:
   - Links, Quotes
   - Linux/unix

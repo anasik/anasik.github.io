@@ -5,7 +5,7 @@ date: 2014-11-16T09:51:29+00:00
 author: Anas Ismail Khan
 layout: post
 guid: http://anasismail.com/?p=1148
-permalink: /lxde-fans-be-like
+permalink: /lxde-fans-be-like/
 categories:
   - Linux/unix
 ---

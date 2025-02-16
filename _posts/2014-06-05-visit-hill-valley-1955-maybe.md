@@ -5,7 +5,7 @@ date: 2014-06-05T03:40:27+00:00
 author: Anas Ismail Khan
 layout: post
 guid: http://anasismail.com/?p=1118
-permalink: /visit-hill-valley-1955-maybe
+permalink: /visit-hill-valley-1955-maybe/
 categories:
   - News
 ---

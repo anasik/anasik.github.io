@@ -5,7 +5,7 @@ date: 2013-03-14T18:28:58+00:00
 author: Anas Ismail Khan
 layout: post
 guid: http://anasismail.com/?p=298
-permalink: /booting-up-slax
+permalink: /booting-up-slax/
 categories:
   - Linux/unix
 ---
