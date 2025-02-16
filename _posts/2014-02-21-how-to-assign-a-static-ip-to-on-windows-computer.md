@@ -5,7 +5,7 @@ date: 2014-02-21T16:33:50+00:00
 author: Anas Ismail Khan
 layout: post
 guid: http://anasismail.com/?p=1034
-permalink: /how-to-assign-a-static-ip-to-on-windows-computer
+permalink: /how-to-assign-a-static-ip-to-on-windows-computer/
 categories:
   - Web and dev
   - Windows
