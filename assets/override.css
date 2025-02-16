@@ -757,6 +757,12 @@ h1.site-title-main a {
     background: cadetblue;
     color: aliceblue !important;
 }
+.pagination {
+    text-align: center;
+    color: lightsteelblue;
+    padding: 20px;
+    border-top: 2px dashed lightsteelblue;
+}
 
 @media screen and (min-width: 800px) {
     .posts-container{
