@@ -3,13 +3,28 @@
     src: url("../assets/NoneAwayFromTheMoon-OjK3.ttf") format("truetype")
 }
 
-body,h1,h2,h3,h4,h5,h6,p,blockquote,pre,hr,dl,dd,ol,ul,figure {
+body,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+blockquote,
+pre,
+hr,
+dl,
+dd,
+ol,
+ul,
+figure {
     margin: 0;
     padding: 0
 }
 
 body {
-    font: 400 16px/1.5 "Inter",-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";
+    font: 400 16px/1.5 "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
     color: #111;
     /* background:repeating-linear-gradient(90deg, #a44800 51%, #a44800, #a44800, #a44800, #a44800, #a44800, #a44800, #a44800, #a44800, #a44800, #a44800, #a44800, #a44800, #a44800, #a44800, #a44800, #a44800, #a44800, #a44800, #a44800, #a44800, #a44800, #a44800, #a44800, #b06611 63%, #b06611, #b06611, #b06611, #b06611, #b06611, #b06611, #b06611, #b06611, #b06611 71%, #813d00 69%, #813d00, #813d00, #813d00 76% 0); */
     -webkit-text-size-adjust: 100%;
@@ -25,7 +40,20 @@ body {
     text-shadow: 1px 1px white; */
 }
 
-h1,h2,h3,h4,h5,h6,p,blockquote,pre,ul,ol,dl,figure,.highlight {
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+blockquote,
+pre,
+ul,
+ol,
+dl,
+figure,
+.highlight {
     margin-bottom: 15px
 }
 
@@ -46,15 +74,22 @@ figcaption {
     font-size: 14px
 }
 
-ul,ol {
+ul,
+ol {
     margin-left: 30px
 }
 
-li>ul,li>ol {
+li>ul,
+li>ol {
     margin-bottom: 0
 }
 
-h1,h2,h3,h4,h5,h6 {
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
     font-weight: 400;
 }
 
@@ -89,7 +124,8 @@ blockquote>:last-child {
     margin-bottom: 0
 }
 
-pre,code {
+pre,
+code {
     font-size: 15px;
     border: 1px solid #e8e8e8;
     border-radius: 3px;
@@ -120,7 +156,7 @@ pre>code {
     padding-left: 30px
 }
 
-@media screen and (min-width: 1000px) { 
+@media screen and (min-width: 1000px) {
     .wrapper {
         max-width: 1000px;
         font-size: 20px;
@@ -131,7 +167,12 @@ pre>code {
         font-size: 48px;
     }
 
-    h1,h2,h3,h4,h5,h6 {
+    h1,
+    h2,
+    h3,
+    h4,
+    h5,
+    h6 {
         font-weight: 500;
     }
 
@@ -140,16 +181,18 @@ pre>code {
         font-size: 60px !important;
     }
 }
+
 @media screen and (max-width: 800px) {
     .wrapper {
-        max-width:-webkit-calc(800px - (30px));
+        max-width: -webkit-calc(800px - (30px));
         max-width: calc(800px - (30px));
         padding-right: 15px;
         padding-left: 15px
     }
 }
 
-.wrapper:after,.footer-col-wrapper:after {
+.wrapper:after,
+.footer-col-wrapper:after {
     content: "";
     display: table;
     clear: both
@@ -181,7 +224,8 @@ table tr:nth-child(even) {
     background-color: #f7f7f7
 }
 
-table th,table td {
+table th,
+table td {
     padding: 10px 15px
 }
 
@@ -208,7 +252,8 @@ table td {
     float: left
 }
 
-.site-title,.site-title:visited {
+.site-title,
+.site-title:visited {
     color: #424242
 }
 
@@ -236,7 +281,7 @@ table td {
 
 @media screen and (max-width: 600px) {
     .site-nav {
-        position:absolute;
+        position: absolute;
         top: 9px;
         right: 15px;
         background: repeating-linear-gradient(90deg, #a44800 51%, #a44800, #a44800, #a44800, #a44800, #a44800, #a44800, #a44800, #a44800, #a44800, #a44800, #a44800, #a44800, #a44800, #a44800, #a44800, #a44800, #a44800, #a44800, #a44800, #a44800, #a44800, #a44800, #a44800, #b06611 63%, #b06611, #b06611, #b06611, #b06611, #b06611, #b06611, #b06611, #b06611, #b06611 71%, #813d00 69%, #813d00, #813d00, #813d00 76% 0);
@@ -268,12 +313,12 @@ table td {
         fill: #424242
     }
 
-    .site-nav input ~ .trigger {
+    .site-nav input~.trigger {
         clear: both;
         display: none
     }
 
-    .site-nav input:checked ~ .trigger {
+    .site-nav input:checked~.trigger {
         display: block;
         padding-bottom: 5px
     }
@@ -299,7 +344,8 @@ table td {
     margin-bottom: 15px
 }
 
-.contact-list,.social-media-list {
+.contact-list,
+.social-media-list {
     list-style: none;
     margin-left: 0
 }
@@ -332,8 +378,10 @@ table td {
 }
 
 @media screen and (max-width: 800px) {
-    .footer-col-1,.footer-col-2 {
-        width:-webkit-calc(50% - (30px / 2));
+
+    .footer-col-1,
+    .footer-col-2 {
+        width: -webkit-calc(50% - (30px / 2));
         width: calc(50% - (30px / 2))
     }
 
@@ -345,7 +393,7 @@ table td {
 
 @media screen and (max-width: 600px) {
     .footer-col {
-        float:none;
+        float: none;
         width: -webkit-calc(100% - (30px / 2));
         width: calc(100% - (30px / 2))
     }
@@ -354,7 +402,8 @@ table td {
         padding: 10px 30px !important;
     }
 
-    .post-body, .post-content {
+    .post-body,
+    .post-content {
         text-align: justify;
     }
 }
@@ -402,7 +451,7 @@ table td {
 
 @media screen and (max-width: 800px) {
     .post-title {
-        font-size:36px
+        font-size: 36px
     }
 }
 
@@ -416,7 +465,7 @@ table td {
 
 @media screen and (max-width: 800px) {
     .post-content h2 {
-        font-size:28px
+        font-size: 28px
     }
 }
 
@@ -426,7 +475,7 @@ table td {
 
 @media screen and (max-width: 800px) {
     .post-content h3 {
-        font-size:22px
+        font-size: 22px
     }
 }
 
@@ -436,7 +485,7 @@ table td {
 
 @media screen and (max-width: 800px) {
     .post-content h4 {
-        font-size:18px
+        font-size: 18px
     }
 }
 
@@ -716,7 +765,8 @@ table td {
     word-break: break-all;
 }
 
-.post-body,article {
+.post-body,
+article {
     color: #555;
 }
 
@@ -737,7 +787,7 @@ h1.site-title-main a {
     margin: 40px 0;
 }
 
-.poor-mans-menu-button a{
+.poor-mans-menu-button a {
     background: aliceblue;
     padding: 20px;
 }
@@ -753,24 +803,29 @@ h1.site-title-main a {
     background: royalblue;
     box-shadow: -1px -20px 20px 15px #ffffff;
 }
+
 .read-more:hover {
     background: cadetblue;
     color: aliceblue !important;
 }
+
 .pagination {
-    text-align: center;
     color: lightsteelblue;
     padding: 20px;
-    border-top: 2px dashed lightsteelblue;
+    background: aliceblue;
+    width: fit-content;
+    margin: 21px auto;
 }
 
 @media screen and (min-width: 800px) {
-    .posts-container{
+    .posts-container {
         border-left: 5px dashed #aaa;
     }
+
     .post {
         position: relative;
     }
+
     .posts-container .post::before {
         content: "";
         border-radius: 51%;
