@@ -28,7 +28,9 @@ Now let's talk about the bug. My teammate noticed that if you try to `$select` a
 I decided to clone the repo for `Microsoft.AspNetCore.OData`, use a package reference in my project and debug through its lines. As early as the first run, I was able to isolate the problematic part of the code because a quick glance at the variables in the debugger showed me exactly the kind of LINQ that was part of the error message. Long story short, here's what was happening:
 While collections were handled separately there was absolutely no discrimination in terms of base types. The same code was powering collections of navigations, complex and primitives. For each element of the collection it was performing a nested select like this:
 
-`collection.Select(field => field.Select(d=> d))`
+```
+collection.Select(field => field.Select(d=> d))
+```
 
  While this makes perfect sense for navigations and complex types, for primitives it meant absolutely nothing and theoretically couldn't even be executed. ~~What's weird to me is that on SQL Server, integers could handle this when strings couldn't despite the fact that on a spectrum of scalar to collection, strings lean towards the collection side.~~ I grabbed a list of all the primitive types as defined in the release notes for EF Core 8 and added a condition where if the underlying type in the collection was any of those, it should proceed without the nested select. Worked like a charm. 
 
