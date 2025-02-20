@@ -5,6 +5,16 @@ layout: post
 permalink: /the-painted-2024-movie-review/
 categories:
   - Movie Reviews
+tags: 
+  - Movie Review
+  - The Painted
+  - Horror
+  - Cinema
+  - Sasha Sibley
+  - Film Critique
+  - 2024 Movies
+  - Movie Experience
+  - Film Analysis
 ---
 I am not a fan of cinemas. In fact, I'm quite the opposite. I particularly detest going to cinemas. I prefer watching movies in the comfort of my own home, with my own popcorn and unlimited condiments from my fridge for my hotdog. The only times I go to a cinema are when I'm forced into it. 
 
