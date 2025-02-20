@@ -38,7 +38,7 @@ and
 queryOptions.IfNoneMatch.ApplyTo(IQueryable query)
 ```
 
-The `ApplyTo` method, which exists on the `ETag` class, has a `foreach` loop that iterates over all the concurrency properties and compares them one by one with the values on the actual record. As you might have already guessed, for each field, it was performing a simple equality comparison. Well and good, until you introduce array fields like 90% of the users like to. Meaning, the `IfMatch` and `IfNoneMatch` headers were definitely not having the intended effect.
+The `ApplyTo` method, which exists on the `ETag` class, has a `foreach` loop that iterates over all the concurrency properties and compares them one by one with the values on the actual record. As you might have already guessed, for each field, it was performing a simple equality comparison. Well and good, until you introduce array fields like 90% of the users like to. Meaning, the `IfMatch` and `IfNoneMatch` headers were definitely not having the intended effect for what was undoubtedly the most popular use-case.
 
 Initially, I thought it was just me and that I had configured something incorrectly. To make sure, I decided to take a look at the existing E2E tests for the ETag class. Sure enough, not a single field in the model for the test was of the type `byte[]`. I proceeded to add one and sure enough, the test failed immediately. I went back to the `ETag.ApplyTo` method and added a check inside the loop for array types. I added some code to handle the array condition and guess what? The tests passed.
 
