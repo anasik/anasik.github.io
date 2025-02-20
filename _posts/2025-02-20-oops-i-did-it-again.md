@@ -2,7 +2,7 @@
 title: Oops, I did it again
 author: Anas Ismail Khan
 layout: post
-permalink: /oops-i-did-it-again     
+permalink: /oops-i-did-it-again/    
 categories:
   - Uncategorized
 tags: 
