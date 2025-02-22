@@ -1,16 +1,22 @@
 ---
 id: 2939
-title: About
+title: Who am I?
 date: 2017-02-05T12:16:22+00:00
 author: Anas Ismail Khan
 layout: page
 guid: http://anasismail.com/?page_id=2939
 ---
-I go by many names: Solutions Architect, Full-Stack Developer, Software Engineer, Technology Consultant. With over ten years of experience — I got my start early — and a degree in computer-science, I help businesses and individuals turn their ideas into reality.
+I go by many names: 
+- Solutions Architect
+- Full-Stack Developer
+- Software Engineer 
+- Technology Consultant. 
+
+With over ten years of experience — I got my start early — and a degree in computer-science, I help businesses and individuals turn their ideas into reality.
 
 I specialize in end-to-end software development, blending technical expertise with creative solutions to bring ideas to life. Whether it’s designing robust architectures, optimizing code for performance, or building seamless user experiences, I thrive on delivering impactful results.
 
-If you’re looking for someone who’s hands-on, dependable, and ready to dig deep into the details, [let’s talk](mailto:anasismailkhan@duck.com) — I’d love to see how I can help.
+If you’re looking for someone who’s hands-on, dependable, and ready to dig deep into the details, [let’s talk](mailto:contact@anasismail.com) — I’d love to see how I can help.
 
 <!-- I&#8217;m a lazy nerd with a keen interest in almost everything interesting out there. I love Computer-Science, Electronics, Automobile Engineering and Physics. Sometimes I&#8217;m a programmer and sometimes I&#8217;m a physicist, and if I didn&#8217;t have other interests, I wouldn&#8217;t have minded being a mathematician. I&#8217;d make a great psychologist.
 
