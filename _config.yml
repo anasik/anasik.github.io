@@ -28,6 +28,7 @@ twitter_username: thenameiskh4n
 github_username:  anasik
 linkedin_username: anas-ismail-khan
 facebook_username: AnasIsmailKhansBlog
+rss: true
 # Build settings
 theme: minima
 plugins:

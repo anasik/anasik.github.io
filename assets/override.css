@@ -783,13 +783,16 @@ h1.site-title-main a {
 }
 
 .site-header {
-    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
     margin: 40px 0;
 }
 
 .poor-mans-menu-button a {
     background: aliceblue;
     padding: 20px;
+    display: block;
 }
 
 .read-more {
@@ -815,6 +818,14 @@ h1.site-title-main a {
     background: aliceblue;
     width: fit-content;
     margin: 21px auto;
+}
+
+header .social-media-list li {
+    display: inline;
+}
+
+header .social-media-list li .username {
+    display: none;
 }
 
 @media screen and (min-width: 800px) {
