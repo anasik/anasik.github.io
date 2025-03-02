@@ -27,6 +27,7 @@ url: "https://anasismail.com" # the base hostname & protocol for your site, e.g.
 twitter_username: thenameiskh4n
 github_username:  anasik
 linkedin_username: anas-ismail-khan
+facebook_username: AnasIsmailKhansBlog
 # Build settings
 theme: minima
 plugins:
