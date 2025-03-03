@@ -9,7 +9,7 @@ tags:
   - Op
   - Mi
 ---
-My last post was a movie review at the end of which I talked about having written a Wikipedia article for for because it didn't already exist. This post will go a bit into the details of that experience and what it led to. 
+My last post was a movie review at the end of which I talked about having written a Wikipedia article for it because it didn't already exist. This post will go a bit into the details of that experience and what it led to. 
 
 "The Painted (2024)" didn't have a Wikipedia article because it was low-budget, wasn't marketed much and there weren't a lot of people talking about it. The review I wrote before this post is actually one of the first few articles, if not the first, on the web about it. This also means that it was hard for me to find basic information about the movie. I was solely at the disposal of IMDB and Letterboxd, both of which aren't even considered strong sources for references since they're community maintained. I had to try different combinations of keywords and go as far as the last page of search results on google so as to make sure I don't miss anything. I also visited Wikipedia articles for other movies to find any non-indexed but standard credible sources that might have information for this movie also. I found a couple of those. After all of that, I submitted my draft and requested a review. 
 
