@@ -29,4 +29,6 @@ Suddenly had a newfound appreciation and love for the movie I had so brutally po
 
 > [...]I am very flattered -- and that was a nice, accurate if not glowing review [...] I'm happy to hop on a call if you want any more info or an interview[...]
 
-That's right. I reviewed a movie and the director of the movie read my review. I took him up on his interview offer. I watched his first movie, The Box and took notes while watching so I could ask him questions about it later. Then I noted down some questions I wanted to ask him about The Painted and also some about himself. Then I excitedly waited for that call which turned out to be an absolute pleasure, of course. Sasha Sibley was a delight and one of the nicest and most humble people I have ever met. We talked a lot, about his background, inspiration, work, and even budgets. That information, however, deserves a post of its own that I will post shortly. For now, all I can say is: I'm glad I spent all that time writing that Wikipedia article.
+That's right. I reviewed a movie and the director of the movie read my review. 
+
+I took him up on that interview offer and excitedly waited for the call which turned out to be an absolute pleasure, of course. Sasha Sibley was a delight and one of the nicest and most humble people I have ever met. We talked a lot, about his background, inspiration, work, and even budgets. That information, however, deserves a post of its own that I will post shortly. For now, all I can say is: I'm glad I spent all that time writing that Wikipedia article.
