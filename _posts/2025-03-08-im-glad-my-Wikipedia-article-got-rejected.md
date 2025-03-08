@@ -18,7 +18,7 @@ tags:
   - Director
   - Interview
 ---
-My previous post was a review of The Painted (2024), a low-budget film lacking a Wikipedia article due to limited marketing and visibility. As one of the first people to write about it, I also ended up creating its Wikipedia page—my first-ever contribution—which, despite being doomed to perpetual draft status, led to some interesting experiences that I'll share in this post.
+My second last post was a review of The Painted (2024), a low-budget film lacking a Wikipedia article due to limited marketing and visibility. As one of the first people to write about it, I also ended up creating its Wikipedia page—my first-ever contribution—which, despite being doomed to perpetual draft status, led to some interesting experiences that I'll share in this post.
 
 The draft had gotten rejected for having too few references and having low *notability*. It was hard to find even basic information about the movie outside of IMDB and Letterboxd, both of which, being community maintained, aren't considered strong sources for references.
 - I tried different combinations of keywords and went as far as the last page of google's search results to make sure I didn't miss anything. 
