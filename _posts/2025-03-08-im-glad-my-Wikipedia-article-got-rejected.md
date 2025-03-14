@@ -2,7 +2,7 @@
 title: I'm glad my Wikipedia article got rejected
 author: Anas Ismail Khan
 layout: post
-permalink: /im-glad-my-Wikipedia-article-got-rejected/
+permalink: /im-glad-my-wikipedia-article-got-rejected/
 categories:
   - Interviews
 tags: 
