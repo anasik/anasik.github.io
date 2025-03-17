@@ -1,5 +1,5 @@
 ---
-title: Why did Anders Hejlsberg choose Go for typescript instead of C# or Rust?
+title: Why did Anders Hejlsberg choose Go for Typescript instead of C# or Rust?
 author: Anas Ismail Khan
 layout: post
 permalink: /why-did-anders-hejlsberg-choose-go-for-typescript-instead-of-csharp-or-rust?/
@@ -17,6 +17,8 @@ tags:
   - Microsoft
   - C#
   - low-level language
+  - compiler
+  - transpiler
 ---
 Ever since Anders Hejlsberg made the announcement for Project Corsa, aka Strada, aka typescript-go, there's been a lot of unrest surrounding their decision to use Go. 
 
