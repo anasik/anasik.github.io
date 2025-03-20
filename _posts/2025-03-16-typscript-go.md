@@ -2,7 +2,7 @@
 title: Why did Anders Hejlsberg choose Go for Typescript instead of C# or Rust?
 author: Anas Ismail Khan
 layout: post
-permalink: /why-did-anders-hejlsberg-choose-go-for-typescript-instead-of-csharp-or-rust?/
+permalink: /why-did-anders-hejlsberg-choose-go-for-typescript-instead-of-csharp-or-rust/
 categories:
   - Uncategorized
 tags: 
