@@ -105,21 +105,10 @@ It could be, yeah; it would have to be hopefully something that hasn't been done
 I'd do Spider-Man, why not? Spider-Man's great!
 
 **Who's your inspiration? Like filmmakers or directors?**  
-There’s a lot. I mean, the big list that always comes to mind is James Cameron, Steven Spielberg, David Fincher… I’d say Ridley Scott — I love those filmmakers. I aspire to make those bigger movies, obviously. I haven’t necessarily had that opportunity, but yeah, there’s a lot. Oh, adn Stanley Kubrick!
+There’s a lot. I mean, the big list that always comes to mind is James Cameron, Steven Spielberg, David Fincher… I’d say Ridley Scott — I love those filmmakers. I aspire to make those bigger movies, obviously. I haven’t necessarily had that opportunity, but yeah, there’s a lot. Oh, and Stanley Kubrick!
 
-**You're actively working with Underscore Talent, right? Or maybe you own it.**  
-I definitely don't own it. If I owned it, I'd fund my own movies. But yeah…
-
-**What's a day in your work life?**  
-I do totally different stuff, but I work with influencers, I work with brands, and I'd say it's a great company. I have no complaints. I enjoy the job — and in a word, I coordinate and get projects done for influencers and brands to make sure we’re putting out content on YouTube specifically.
-
-**So, it's more like a modeling agency?**  
-No, it’s content. So I work for Shorthand Studios, which is a subsidiary of Underscore. Underscore handles actual brand management — they’re talent managers. I’m more focused on content creation. So I’m using a lot of the skills I have in editing and things like that, but I’m not necessarily an editor.
-
-I frankly didn’t want to be an editor after editing for so long on _The Painted_. I don’t want to do any VFX or editing. I mean, I applaud the people who can do all that stuff.
-
-**So would you say you've paused the screenwriting and filmmaking for a while?**  
-I do it on the side. I still write, and I still have some scripts, and I pitch them — I do what I can in the Hollywood sort of sphere.
+**So, are you editing or writing these days?**  
+I frankly didn’t want to be an editor after editing for so long on _The Painted_. I don’t want to do any VFX or editing. I mean, I applaud the people who can do all that stuff. Yes, I still write, and I still have some scripts, and I pitch them — I do what I can in the Hollywood sort of sphere.
 
 **Waiting for your big break?**  
 Potentially. Yeah.
