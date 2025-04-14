@@ -16,6 +16,12 @@ tags:
   - Movie Experience
   - Film Analysis
 ---
+> This post is the first in a series of posts about Sasha Sibley and his works. If you're curious, here's the order they appeared in:
+> 1. [The Painted - Movie Review](https://anasismail.com/the-painted-2024-movie-review/) (You're here.)
+> 2. [I'm glad my Wikipedia article got rejected](https://anasismail.com/im-glad-my-wikipedia-article-got-rejected/)
+> 3. [The Box - Movie Review](https://anasismail.com/the-box-2021-movie-review/) 
+> 4. [I interviewed Sasha Sibley, a Filmmaker](https://anasismail.com/i-interviewed-sasha-sibley-a-filmmaker/) 
+
 I am not a fan of cinemas. In fact, I'm quite the opposite. I particularly detest going to cinemas. I prefer watching movies in the comfort of my own home, with my own popcorn and unlimited condiments from my fridge for my hotdog. The only times I go to a cinema are when I'm forced into it. 
 
 

@@ -18,6 +18,12 @@ tags:
   - Director
   - Interview
 ---
+> This post is the second in a series of posts about Sasha Sibley and his works. If you're curious, here's the order they appeared in:
+> 1. [The Painted - Movie Review](https://anasismail.com/the-painted-2024-movie-review/) 
+> 2. [I'm glad my Wikipedia article got rejected](https://anasismail.com/im-glad-my-wikipedia-article-got-rejected/) (You're here.)
+> 3. [The Box - Movie Review](https://anasismail.com/the-box-2021-movie-review/) 
+> 4. [I interviewed Sasha Sibley, a Filmmaker](https://anasismail.com/i-interviewed-sasha-sibley-a-filmmaker/) 
+
 My second last post was a review of The Painted (2024), a low-budget film lacking a Wikipedia article due to limited marketing and visibility. As one of the first people to write about it, I also ended up creating its Wikipedia page—my first-ever contribution—which, despite being doomed to perpetual draft status, led to some interesting experiences that I'll share in this post.
 
 The draft had gotten rejected for having too few references and having low *notability*. It was hard to find even basic information about the movie outside of IMDB and Letterboxd, both of which, being community maintained, aren't considered strong sources for references.

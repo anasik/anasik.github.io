@@ -3,7 +3,6 @@ title: I interviewed Sasha Sibley, a Filmmaker
 author: Anas Ismail Khan
 layout: post
 permalink: /i-interviewed-sasha-sibley-a-filmmaker/
-published: false
 categories:
   - Movie Reviews
   - Interviews
@@ -17,7 +16,13 @@ tags:
   - Film Critique
   - Movie Experience
 ---
-On 26th February 2025, I interviewed Sasha Sibley, the talented 27 year-old filmmaker from Los Angeles who made his feature-film debut in 2021 with "The Box" and his theatrical debut in 2024 with "The Painted." After watching the latter at a local cinema, blogging about it and then failing to create a Wikipedia article for it, I decided to reach out to Sasha and be the first one to ask him the real questions. 
+> This post is the last (for now) in a series of posts about Sasha Sibley and his works. If you're curious, here's the order they appeared in:
+> 1. [The Painted - Movie Review](https://anasismail.com/the-painted-2024-movie-review/) 
+> 2. [I'm glad my Wikipedia article got rejected](https://anasismail.com/im-glad-my-wikipedia-article-got-rejected/)
+> 3. [The Box - Movie Review](https://anasismail.com/the-box-2021-movie-review/) 
+> 4. [I interviewed Sasha Sibley, a Filmmaker](https://anasismail.com/i-interviewed-sasha-sibley-a-filmmaker/) (You're here.)
+
+On 26th February 2025, I interviewed Sasha Sibley, the talented 27 year-old filmmaker from Los Angeles who made his feature-film debut in 2021 with "The Box" and his theatrical debut in 2024 with "The Painted." The story of how and why this came to happen is scattered across the other 3 blogposts but in short: after watching "The Painted" at a local cinema, blogging about it and then failing to create a Wikipedia article for it, and learning that it was produced, directed, and written by someone who was about my age, I decided to reach out to him and be one of the first one to ask him the real questions. I emailed him, we set up a call and the rest will one day be history. 
 
 **Tell me about yourself. Where did you grow up?**  
 I grew up in the DC area, Maryland, Rockville, but I always just say DC. Just kind of simple, suburban life. My parents were divorced, and I jumped around a bit between their houses, but didn't move around too much.
@@ -40,7 +45,7 @@ You can't ignore it. It's definitely taking over. I am already playing with some
 **I think you're pretty good at the editing part. I would assume that you edited the short film yourself but hired professionals for the feature-film?**  
 No, I still edited the feature as well. 
 
-**From the sound of it, you never wanted to be an actor. Why did you rule out acting so early on?**  
+**From the sound of it, you never wanted to be an actor. Why did you rule out acting so early on?**  <!--more-->
 I did my fair share of acting and cameos in the early days when I was a kid. But — I’m not sure why — I just didn’t really see myself on screen as much. I think I get a lot of joy from being behind the camera and putting something together. Performing in front of the camera is a different skill, and it draws people in in a different way.
 
 **About The Box: Was any of that based on yourself, or your life? Was Tyler based on you?**  

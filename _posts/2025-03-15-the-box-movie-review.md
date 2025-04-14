@@ -16,6 +16,12 @@ tags:
   - Movie Experience
   - Film Analysis
 ---
+> This post is the third in a series of posts about Sasha Sibley and his works. If you're curious, here's the order they appeared in:
+> 1. [The Painted - Movie Review](https://anasismail.com/the-painted-2024-movie-review/) 
+> 2. [I'm glad my Wikipedia article got rejected](https://anasismail.com/im-glad-my-wikipedia-article-got-rejected/)
+> 3. [The Box - Movie Review](https://anasismail.com/the-box-2021-movie-review/) (You're here.)
+> 4. [I interviewed Sasha Sibley, a Filmmaker](https://anasismail.com/i-interviewed-sasha-sibley-a-filmmaker/) 
+
 This is neither my first nor last post concerning Sasha Sibley, the aspiring filmmaker from Los Angeles, scarcely older than myself, whom I recently had the pleasure of interviewing after being fortunate enough to watch his second feature film, The Painted (2024), at a local cinema. Right after getting home from said cinema, I'd discovered Sasha's first feature film: The Box.
 
 In his response to my initial email, Sasha had, matter-of-factly, described it as "ULB" (stands, obviously, for ultra-low-budget) and that he'd made it while he was still in college. Naturally, that had made me all the more excited to watch it. I had already seen the trailer and loved it. It was intriguing, sufficiently cryptic, and deceptive, conveying just the right amount of information and leaving the viewer wanting more. It was well-edited and had aroused my curiosity. No complaints there. 
