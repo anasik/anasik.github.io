@@ -127,7 +127,7 @@ I love that! I saw Qatar and UAE but I didn’t know it was in Pakistan, but tha
 **Thank you. This was really fun.**  
 Hopefully this interview reaches people. It was fun doing at least one interview for _The Painted_, so I’m happy.
 
-**This is the first. I’ve read one before — it was in a box. It said _The Talented Mr. Sibley._ I loved that title.**  
+**This is the first? I think I’ve read one before — Nevermind, it was about The Box. It said _The Talented Mr. Sibley._ I love that title.**  
 Yeah, that was very flattering. Thank you again. I hope it’s not too late in Pakistan right now — I wasn’t sure what time it is there.
 
 **Anything for my favorite director. I hope we talk again soon. I don’t know under what circumstances. Maybe I’ll make up an excuse to interview you again?**  
