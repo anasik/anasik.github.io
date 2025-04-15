@@ -1,0 +1,64 @@
+---
+layout: default
+title: Blog
+---
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{{ page.title }}</title>
+  <style>
+    body { font-family: sans-serif; display: flex; margin: 0; padding: 0; }
+    .sidebar { width: 300px; padding: 1rem; border-right: 1px solid #ccc; height: 100vh; overflow-y: auto; }
+    .content { flex-grow: 1; padding: 1rem; }
+    .folder { cursor: pointer; font-weight: bold; margin-top: 1rem; }
+    .post-list { margin-left: 1rem; display: none; }
+    .post-list.open { display: block; }
+    a { text-decoration: none; color: black; display: block; margin: 0.2rem 0; }
+  </style>
+</head>
+<body>
+
+<div class="sidebar">
+  <h3>Post Categories</h3>
+  {% assign cat_map = {} %}
+  {% for post in site.posts %}
+    {% for cat in post.categories %}
+      {% assign cat_key = cat | strip %}
+      {% if cat_map[cat_key] == nil %}
+        {% assign cat_map = cat_map | merge: { cat_key: [post] } %}
+      {% else %}
+        {% assign cat_map = cat_map | merge: { cat_key: cat_map[cat_key] | push: post } %}
+      {% endif %}
+    {% endfor %}
+  {% endfor %}
+
+  {% for category in cat_map %}
+    <div>
+      <div class="folder" onclick="toggleFolder(this)">
+        📁 {{ category[0] }}
+      </div>
+      <div class="post-list">
+        {% assign posts = category[1] | uniq %}
+        {% for post in posts %}
+          <a href="{{ post.url }}">{{ post.title }}</a>
+        {% endfor %}
+      </div>
+    </div>
+  {% endfor %}
+</div>
+
+<div class="content">
+  {{ content }}
+</div>
+
+<script>
+  function toggleFolder(el) {
+    el.nextElementSibling.classList.toggle('open');
+  }
+</script>
+
+</body>
+</html>
