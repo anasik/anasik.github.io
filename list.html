@@ -4,7 +4,7 @@ title: All Posts
 ---
 <div class="posts-container">
     {% for post in site.posts %}
-    <div class="post">
+    <div class="post head-only">
         <p class="post-meta">
             <time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
                 {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}

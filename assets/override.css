@@ -757,6 +757,11 @@ table td {
     /* border: grey 1px solid; */
 }
 
+.head-only {
+    margin-bottom: 0 !important;
+    padding-bottom: 0 !important;
+}
+
 .post-title a {
     color: #000;
 }
