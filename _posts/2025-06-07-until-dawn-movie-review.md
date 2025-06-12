@@ -24,7 +24,9 @@ Enough backstory, let's attack the movie itself. Five minutes in, I was already 
 That being said, if "never let them know your next move" was a movie, it would be this one. First it's a slasher. Then there's possession. Then there's literally a giant for a second. There's a witch, there's exploding humans, friendly fire. Oh wait, it's sci-fi and there's zombie-like creatures and a mad scientist. Wait, the creatures are being rendered by one of the characters' imagination. 
 
 You know how people put literally every topping and sauce on their Subway sandwich just cause it's free? It was kind of like that. Or to quote my wife:
+
 ![Joey Tribbiani saying: "What's not to like? Custard? Good. Jam? Good. Meat? Gooooood!"](/assets/joey.gif)
+
 Of course, in a way, you could also appreciate this. I mean, aren't such movies supposed to be as unexpected as possible. But idk why it felt very hacked together. I could have sworn the script was ai generated. It just felt like a joke and made me lose interest and respect early on. 
 
 Some other complaints I have: the music, screaming and other sound effects were extremely loud to the point that it was more irritating than scary. The whole sister thing was poorly explored and felt unnecessary and forced. The character tropes felt lame and under-utilized. The clairvoyant character was unnecessary, unexplained and poorly done. The whole sci-fi element should have simply been left out if they weren't planning on explaining it. 
