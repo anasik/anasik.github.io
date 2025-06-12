@@ -13,7 +13,7 @@ tags:
   - Film Critique
   - Movie Experience
 ---
-After the overwhelming success of my last movie review, and the rabbit hole I went down that ultimately led to an audience with the director of the movie himself, I couldn't refuse my wife when she asked me if we could go to the cinema again. However, I had one condition: that we would only go to see a low-budget cheap horror movie that I could come back and write about. She said she wouldn't have it any other way herself. 
+After the overwhelming success of my last movie review, and the rabbit hole I went down that ultimately led to an [audience with the director of the movie himself]({% post_url i-interviewed-sasha-sibley-a-filmmaker %}), I couldn't refuse my wife when she asked me if we could go to the cinema again. However, I had one condition: that we would only go to see a low-budget cheap horror movie that I could come back and write about. She said she wouldn't have it any other way herself. 
 
 Of course, it's evident that she chose poorly but I didn't realize that until much later. When she showed me the google card for the movie, I took a quick glance at the name, thumbnail and cast and incorrectly assumed that it was a good match.<!--more--> I had completely forgotten that a game by the same name existed. I think I even noticed that it said PlayStation studios but was too busy to realize what it meant. In my defense, I was just too busy to look the movie up or process the information I had already laid eyes on, despite having already noticed that it was directed by David Sandberg who'd also directed Annabelle: Creation and the Shazam movies. Somehow, I also didn't notice Michael Cimino in the cast either otherwise that would have definitely rung a bell. 
 
