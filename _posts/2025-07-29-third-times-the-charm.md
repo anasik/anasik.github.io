@@ -22,7 +22,7 @@ It's no secret that now I'm a contributor to open-source and that the fruit of m
 
 I must admit though, that this bug was a lot subtler and less detrimental to the primary function of the library. In fact, viewing strictly by the OData standard, it cannot be called a bug at all. However, the library offers a feature or two that deviates from the standard. And it was one of those features that was broken.
 
-The OData specification defines dollar-prefixed query options e.g. `$top`, `$skip`, whereas the `Microsoft.AspNetCore.Odata` library generously offers a configuration flag, enabled by default too, called `EnableNoDollarQueryOptions` that allows you to use non-dollar-prefixed query options like `?top=10&skip=10` instead of `$top=10&$skip=10`. 
+The OData specification defines dollar-prefixed query options e.g. `$top`, `$skip`, whereas the `Microsoft.AspNetCore.Odata` library generously offers a configuration flag, enabled by default too, called `EnableNoDollarQueryOptions` that allows you to use non-dollar-prefixed query options like `?top=10&skip=10` instead of `$top=10&$skip=10`.<!--more-->
 
 Of course, it's no coincidence that I used `top` and `skip` as examples just now. The neat thing about these two options is that they're designed to work together for what's aptly termed *client-driven pagination*. The `top` option tells the API how many records to fetch and the `skip` option sets the offset. So if you want to fetch the first 10 records, you do `?top=10&skip=0` or simply `?top=10` but then to get the next page of records, you'd do `?top=10&skip=10` and so on. In most cases, your top would stay pretty constant while your skip increment each time. 
 
