@@ -18,6 +18,10 @@ tags:
   - Programming
   - Contribution
 ---
+> Also check out:
+> 1. [How to work for Microsoft without getting hired](https://anasismail.com/how-to-work-for-microsoft-without-getting-hired/)
+> 2. [Third time's the charm](https://anasismail.com/third-times-the-charm/)
+
 A month ago, I wrote about my first contribution to an open-source, Microsoft-maintained, project, from June 2024, that got merged by November 2024. What I didn't mention at that time was that *that* wasn't my only contribution to that project. Shortly after that pull request got merged, I opened a second one. Once again, I created an issue, to report a bug, and a pull request, to solve the bug, back to back. However, this time I made them in the correct order. 
 
 The same project from the last article required me to enable ETags on the OData API that I was working on. An ETag is an HTTP header that's used for cache-invalidation and concurrency control. It's basically like a hash representing the state of the resource/data at said endpoint. The client may use it as a cache key and the server can use it for concurrency control when multiple requests attempt to update the resource at the same time. ETag values are based on a special field/column on the resource record that changes every time the record is updated. 

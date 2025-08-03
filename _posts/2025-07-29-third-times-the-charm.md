@@ -18,6 +18,10 @@ tags:
   - Programming
   - Contribution
 ---
+> Also check out:
+> 1. [How to work for Microsoft without getting hired](https://anasismail.com/how-to-work-for-microsoft-without-getting-hired/)
+> 2. [Oops, I did it again](https://anasismail.com/oops-i-did-it-again/)
+
 It's no secret that now I'm a contributor to open-source and that the fruit of my Pull Requests is being distributed by none other than Microsoft themselves. Earlier this year, I posted twice about bug fixes I'd made to `Microsoft.AspNetCore.Odata`, and I'm pleased to inform you that as of today, I have achieved a hat trick.
 
 I must admit though, that this bug was a lot subtler and less detrimental to the primary function of the library. In fact, viewing strictly by the OData standard, it cannot be called a bug at all. However, the library offers a feature or two that deviates from the standard. And it was one of those features that was broken.

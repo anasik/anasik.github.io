@@ -19,6 +19,10 @@ tags:
   - Programming
   - Contribution
 ---
+> Also check out:
+> 1. [Oops, I did it again](https://anasismail.com/oops-i-did-it-again/)
+> 2. [Third time's the charm](https://anasismail.com/third-times-the-charm/)
+
 I've been a fan of open-source longer than I have been an adult. The moment I first switched to Linux in 2012, I knew it would remain my daily driver until I could afford to buy a Mac. As I, both voluntarily and involuntarily, continued to ditch my usual programs in favor of free and open-source alternatives, the deeper I dove into the world of open-source and the stronger became my desire to contribute to it. 
 
 
