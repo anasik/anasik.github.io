@@ -47,7 +47,7 @@ You can't ignore it. It's definitely taking over. I am already playing with some
 No, I still edited the feature as well. 
 
 **From the sound of it, you never wanted to be an actor. Why did you rule out acting so early on?**  <!--more-->
-I did my fair share of acting and cameos in the early days when I was a kid. But — I’m not sure why — I just didn’t really see myself on screen as much. I think I get a lot of joy from being behind the camera and putting something together. Performing in front of the camera is a different skill, and it draws people in in a different way.
+I did my fair share of acting and cameos in the early days when I was a kid. But — I’m not sure why — I just didn’t really see myself on screen as much. I think I get a lot of joy from being behind the camera and putting something together. Performing in front of the camera is a different skill, and it draws people in a different way.
 
 **About The Box: Was any of that based on yourself, or your life? Was Tyler based on you?**  
 It wasn't based on me but I wrote about some of the things that I felt in LA. The frustrations. I was never an actor and I was never auditioning so I sort of extrapolated what the LA experience would be like when you're stuck in that cycle and not getting anywhere. I wouldn't say I've experienced the level of success that Tyler experiences at the end so I cannot tell you if you end up feeling empty or what. 
