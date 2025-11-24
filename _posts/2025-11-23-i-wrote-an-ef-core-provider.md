@@ -2,6 +2,7 @@
 title: I wrote an EF Core Provider
 author: Anas Ismail Khan
 layout: post
+permalink: /i-wrote-an-ef-core-provider/    
 categories:
   - dotnet
   - csharp

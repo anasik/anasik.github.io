@@ -2,6 +2,7 @@
 title: Ambition & Ingratitude
 author: Anas Ismail Khan
 layout: post
+permalink: /ambition-and-ingratitude/    
 categories:
   - Essays
   - Poetry
