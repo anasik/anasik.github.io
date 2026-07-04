@@ -2,7 +2,6 @@
 title: How Tanenbaum (AST) and Distributed Systems Changed The World
 author: Anas Ismail Khan
 layout: post
-published: false
 permalink: /how-tanenbaum-and-distributed-systems-changed-the-world/    
 categories:
   - Essays
