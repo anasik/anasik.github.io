@@ -4,6 +4,7 @@ title: Facebook acquires skype
 date: 2014-04-02T11:35:33+00:00
 author: Anas Ismail Khan
 layout: post
+published: false
 guid: http://anasismail.com/?p=1060
 permalink: /facebook-acquires-skype/
 categories:

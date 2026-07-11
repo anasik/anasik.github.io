@@ -4,6 +4,7 @@ title: Entrepreunership is hard, but you cant die
 date: 2013-12-13T13:55:00+00:00
 author: Anas Ismail Khan
 layout: post
+published: false
 guid: http://anasismail.com/?p=898
 permalink: /entrepreunership-is-hard-but-u-cant-die/
 categories:

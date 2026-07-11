@@ -4,6 +4,7 @@ title: Cardboard Wi-Fi Router
 date: 2013-03-30T07:20:27+00:00
 author: Anas Ismail Khan
 layout: post
+published: false
 guid: http://anasismail.com/?p=386
 permalink: /cardboard-wi-fi-router/
 categories:

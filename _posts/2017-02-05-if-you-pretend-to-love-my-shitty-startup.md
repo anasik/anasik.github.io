@@ -4,6 +4,7 @@ title: If you pretend to love my shitty startup,
 date: 2017-02-05T10:08:08+00:00
 author: Anas Ismail Khan
 layout: post
+published: false
 guid: http://anasismail.com/?p=2853
 permalink: /if-you-pretend-to-love-my-shitty-startup/
 categories:

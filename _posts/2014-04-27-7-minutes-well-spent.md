@@ -4,6 +4,7 @@ title: 7 minutes well spent
 date: 2014-04-27T21:16:32+00:00
 author: Anas Ismail Khan
 layout: post
+published: false
 guid: http://anasismail.com/?p=1089
 permalink: /7-minutes-well-spent/
 categories:

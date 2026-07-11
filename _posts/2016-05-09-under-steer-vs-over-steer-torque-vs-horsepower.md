@@ -4,6 +4,7 @@ title: 'Under-steer vs Over-steer &#038; Torque vs Horsepower'
 date: 2016-05-09T10:43:21+00:00
 author: Anas Ismail Khan
 layout: post
+published: false
 guid: http://anasismail.com/?p=1272
 permalink: /under-steer-vs-over-steer-torque-vs-horsepower/
 categories:

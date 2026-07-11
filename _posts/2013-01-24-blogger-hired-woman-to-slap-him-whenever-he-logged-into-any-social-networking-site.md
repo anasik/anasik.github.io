@@ -4,6 +4,7 @@ title: Blogger Hired Woman to Slap him whenever he logged into any social networ
 date: 2013-01-24T08:58:42+00:00
 author: Anas Ismail Khan
 layout: post
+published: false
 guid: http://anasismail.com/?p=235
 permalink: /blogger-hired-woman-to-slap-him-whenever-he-logged-into-any-social-networking-site/
 categories:

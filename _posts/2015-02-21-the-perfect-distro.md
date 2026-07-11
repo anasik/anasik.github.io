@@ -4,6 +4,7 @@ title: The perfect distro
 date: 2015-02-21T16:08:04+00:00
 author: Anas Ismail Khan
 layout: post
+published: false
 guid: http://anasismail.com/?p=1180
 permalink: /the-perfect-distro/
 categories:

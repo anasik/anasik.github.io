@@ -4,6 +4,7 @@ title: 'Rikomagic&#8217;s Quad-core, Android v4.2, Mini-PC'
 date: 2013-06-06T18:00:42+00:00
 author: Anas Ismail Khan
 layout: post
+published: false
 guid: http://anasismail.com/?p=469
 permalink: /rikomagics-quad-core-android-v4-2-mini-pc/
 categories:

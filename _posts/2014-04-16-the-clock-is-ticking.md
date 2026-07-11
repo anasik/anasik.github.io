@@ -4,6 +4,7 @@ title: The clock is ticking
 date: 2014-04-16T19:22:48+00:00
 author: Anas Ismail Khan
 layout: post
+published: false
 guid: http://anasismail.com/?p=1065
 permalink: /the-clock-is-ticking/
 categories:

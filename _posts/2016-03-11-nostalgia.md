@@ -4,6 +4,7 @@ title: Nostalgia
 date: 2016-03-11T04:17:36+00:00
 author: Anas Ismail Khan
 layout: post
+published: false
 guid: http://anasismail.com/?p=1264
 permalink: /nostalgia/
 categories:

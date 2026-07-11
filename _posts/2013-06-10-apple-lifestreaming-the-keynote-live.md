@@ -4,6 +4,7 @@ title: Apple Lifestreaming the Keynote LIVE
 date: 2013-06-10T17:14:48+00:00
 author: Anas Ismail Khan
 layout: post
+published: false
 guid: http://anasismail.com/?p=486
 permalink: /apple-lifestreaming-the-keynote-live/
 categories:

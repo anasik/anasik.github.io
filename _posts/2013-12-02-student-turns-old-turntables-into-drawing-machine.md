@@ -4,6 +4,7 @@ title: Student turns old turntables into drawing machine
 date: 2013-12-02T15:56:18+00:00
 author: Anas Ismail Khan
 layout: post
+published: false
 guid: http://anasismail.com/?p=849
 permalink: /student-turns-old-turntables-into-drawing-machine/
 categories:

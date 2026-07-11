@@ -4,6 +4,7 @@ title: 'Lenovo&#8217;s All-in-one android PC'
 date: 2014-01-30T14:28:40+00:00
 author: Anas Ismail Khan
 layout: post
+published: false
 guid: http://anasismail.com/?p=1008
 permalink: /lenovos-all-in-one-android-pc/
 categories:

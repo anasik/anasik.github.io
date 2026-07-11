@@ -4,6 +4,7 @@ title: osdisc.com
 date: 2013-06-10T16:46:22+00:00
 author: Anas Ismail Khan
 layout: post
+published: false
 guid: http://anasismail.com/?p=481
 permalink: /osdisc-com/
 categories:

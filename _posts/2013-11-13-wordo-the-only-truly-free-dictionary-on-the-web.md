@@ -4,6 +4,7 @@ title: 'Wordo &#8211; The Only Truly Free Dictionary on the Web'
 date: 2013-11-13T14:50:32+00:00
 author: Anas Ismail Khan
 layout: post
+published: false
 guid: http://anasismail.com/?p=785
 permalink: /wordo-the-only-truly-free-dictionary-on-the-web/
 categories:

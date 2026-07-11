@@ -4,6 +4,7 @@ title: Windows Phone 8
 date: 2012-10-13T10:02:29+00:00
 author: Anas Ismail Khan
 layout: post
+published: false
 guid: http://anasismail.com/?p=40
 permalink: /windows-phone-8/
 categories:

@@ -4,6 +4,7 @@ title: Real-life Transformer
 date: 2014-05-19T20:40:11+00:00
 author: Anas Ismail Khan
 layout: post
+published: false
 guid: http://anasismail.com/?p=1101
 permalink: /real-life-transformer/
 categories:

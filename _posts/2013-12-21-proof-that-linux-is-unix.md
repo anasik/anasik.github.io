@@ -4,6 +4,7 @@ title: Proof that Linux IS UNIX
 date: 2013-12-21T17:02:33+00:00
 author: Anas Ismail Khan
 layout: post
+published: false
 guid: http://anasismail.com/?p=916
 permalink: /proof-that-linux-is-unix/
 categories:

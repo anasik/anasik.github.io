@@ -4,6 +4,7 @@ title: Activate Windows 8
 date: 2013-06-10T17:06:49+00:00
 author: Anas Ismail Khan
 layout: post
+published: false
 guid: http://anasismail.com/?p=484
 permalink: /activate-windows-8/
 categories:

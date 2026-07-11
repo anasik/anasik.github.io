@@ -4,6 +4,7 @@ title: 'Pronouncing &#8220;Linux&#8221;'
 date: 2013-06-06T17:36:21+00:00
 author: Anas Ismail Khan
 layout: post
+published: false
 guid: http://anasismail.com/?p=462
 permalink: /pronouncing-linux/
 enclosure:

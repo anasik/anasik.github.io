@@ -4,6 +4,7 @@ title: Android being ported to cars?
 date: 2014-01-12T14:58:55+00:00
 author: Anas Ismail Khan
 layout: post
+published: false
 guid: http://anasismail.com/?p=995
 permalink: /android-being-ported-to-cars/
 categories:

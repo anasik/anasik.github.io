@@ -4,6 +4,7 @@ title: 'Bitcoin Thefts Surge, DDoS Hackers Take Millions &#8211; Slashdot'
 date: 2013-12-06T06:10:54+00:00
 author: Anas Ismail Khan
 layout: post
+published: false
 guid: http://anasismail.com/?p=855
 permalink: /bitcoin-thefts-surge-ddos-hackers-take-millions-slashdot/
 categories:

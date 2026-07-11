@@ -4,6 +4,7 @@ title: Windows Phone Demo
 date: 2013-05-27T10:06:41+00:00
 author: Anas Ismail Khan
 layout: post
+published: false
 guid: http://anasismail.com/?p=434
 permalink: /windows-phone-demo/
 categories:

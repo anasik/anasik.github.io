@@ -4,6 +4,7 @@ title: Just Another Screenshot
 date: 2014-05-27T06:14:40+00:00
 author: Anas Ismail Khan
 layout: post
+published: false
 guid: http://anasismail.com/?p=1108
 permalink: /just-another-screenshot/
 categories:

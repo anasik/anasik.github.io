@@ -4,6 +4,7 @@ title: 'When doing what&#8217;s right is wrong'
 date: 2015-04-01T13:58:20+00:00
 author: Anas Ismail Khan
 layout: post
+published: false
 guid: http://anasismail.com/?p=1191
 permalink: /when-doing-whats-right-is-wrong/
 categories:
