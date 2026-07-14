@@ -10,5 +10,6 @@ categories:
   - Links, Quotes
   - Tech
   - Links
+  - Microsoft
 ---
 [Here](http://www.microsoft.com/en-us/discover/1994/)

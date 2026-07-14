@@ -11,6 +11,8 @@ categories:
   - Tutorials
   - Tech
   - Software
+  - Windows
+  - Linux/unix
 ---
 We all use FTP clients like FileZilla, CoreFTP, SmartFTP. Most people use Graphical Interfaces, but some even prefer Command line, but only 10% know about the hidden CLI FTP client that comes with the OS.
 

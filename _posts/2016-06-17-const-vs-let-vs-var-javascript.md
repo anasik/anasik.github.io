@@ -11,5 +11,6 @@ categories:
   - Links, Quotes
   - Tech
   - Links
+  - Web and dev
 ---
 [Follow me.](https://medium.com/javascript-scene/javascript-es6-var-let-or-const-ba58b8dcde75#.gflltqwyk)

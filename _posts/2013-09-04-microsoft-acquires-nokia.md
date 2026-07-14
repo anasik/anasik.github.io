@@ -11,6 +11,7 @@ categories:
   - Software, Devices, Reviews
   - Windows
   - Tech
+  - Microsoft
 ---
 Nokia, the Finnish manufacturer of Mobile devices, which has been a bit _&#8216;out of the game&#8217; _in the recent years, especially since they gave up on the Symbian Mobile platform, and started with the Asha series, and could have had to face worse if it hadnt been for Microsoft, and they hadn&#8217;t produced the Lumia series of Windows Smartphones.
 

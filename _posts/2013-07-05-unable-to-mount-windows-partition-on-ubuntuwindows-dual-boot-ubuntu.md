@@ -8,6 +8,7 @@ guid: http://anasismail.com/?p=590
 permalink: /unable-to-mount-windows-partition-on-ubuntuwindows-dual-boot-ubuntu/
 categories:
   - Linux/unix
+  - Windows
   - Tech
   - Tutorials
 ---

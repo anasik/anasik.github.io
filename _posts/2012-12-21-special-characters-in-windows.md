@@ -9,6 +9,7 @@ permalink: /special-characters-in-windows/
 categories:
   - Tutorials
   - Tech
+  - Windows
 ---
 You might have noticed people making strange characters like &#8220;☺☻♥&#8221; on facebook e.t.c. Some of these, take the heart for example, can be _**Triggered** _using special codes, in this case, &#8220;<3&#8221;. But not every single one of them has codes known to public.
 

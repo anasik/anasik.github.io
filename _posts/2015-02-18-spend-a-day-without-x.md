@@ -9,5 +9,6 @@ permalink: /spend-a-day-without-x/
 categories:
   - Links, Quotes
   - Links
+  - Linux/unix
 ---
 [Can you?](http://www.terminally-incoherent.com/blog/2007/05/21/a-day-without-x/).

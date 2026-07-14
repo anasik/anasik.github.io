@@ -8,6 +8,11 @@ categories:
   - Tech
   - Software
   - Personal
+  - dotnet
+  - csharp
+  - aspnetcore
+  - open source
+  - Microsoft
 tags: 
   - Open Source
   - Microsoft

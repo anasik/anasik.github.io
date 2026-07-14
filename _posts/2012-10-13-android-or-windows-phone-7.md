@@ -12,6 +12,7 @@ categories:
   - Tech
   - Devices
   - Basically Tweets
+  - Windows
 tags:
   - Android
   - android versus windows phone

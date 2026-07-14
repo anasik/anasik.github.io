@@ -10,6 +10,7 @@ categories:
   - Essays
   - Movies
   - Reviews
+  - Movie Reviews
 ---
 Ever since it&#8217;s release in 2014, Christopher Nolan&#8217;s _&#8220;Interstellar&#8221;, _has often been compared to Stanley Kubrick&#8217;s _&#8220;2001: A Space Odyssey.&#8221;_
 

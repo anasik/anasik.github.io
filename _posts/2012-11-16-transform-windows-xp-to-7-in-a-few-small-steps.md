@@ -11,6 +11,7 @@ categories:
   - Tutorials
   - Tech
   - Software
+  - Windows
 tags:
   - 7 theme for xp
   - get windows 7 superbar in xp

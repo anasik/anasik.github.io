@@ -12,6 +12,7 @@ categories:
   - Tech
   - Devices
   - News
+  - Windows
 tags:
   - lumia
   - nokia lumia

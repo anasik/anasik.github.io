@@ -11,6 +11,7 @@ categories:
   - Tutorials
   - Tech
   - Software
+  - Windows
 tags:
   - Get tabbed Browsing in Windows Explorer
   - tabbed

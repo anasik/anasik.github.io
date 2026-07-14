@@ -6,6 +6,7 @@ permalink: /how-tanenbaum-and-distributed-systems-changed-the-world/
 categories:
   - Essays
   - Tech
+  - Linux/unix
 tags:
 - distributed-systems
 - operating-systems

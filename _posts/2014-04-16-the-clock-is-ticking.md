@@ -10,5 +10,6 @@ permalink: /the-clock-is-ticking/
 categories:
   - Basically Tweets
   - Tech
+  - Linux/unix
 ---
 Only a matter of time, hours more like, before Ubuntu&#8217;s next LTS release, 14.04 Trusty Tahr is out..

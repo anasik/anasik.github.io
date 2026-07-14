@@ -6,6 +6,7 @@ permalink: /why-did-anders-hejlsberg-choose-go-for-typescript-instead-of-csharp-
 categories:
   - Tech
   - Quotes
+  - csharp
 tags: 
   - Anders Hejlsberg
   - Ryan Cavanaugh

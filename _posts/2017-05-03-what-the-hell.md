@@ -10,6 +10,7 @@ categories:
   - Web and dev
   - Tech
   - Personal
+  - Google
 ---
 So I was minding my own business in my humble abode when I receive an email. A quick look at my phone&#8217;s notification bar tells me that it was from the admissions counselor (, let&#8217;s call her Daisy,) of a college that had accepted me. I wasn&#8217;t at all surprised because the decision day for that college had just passed and I hadn&#8217;t shared mine at all.
 

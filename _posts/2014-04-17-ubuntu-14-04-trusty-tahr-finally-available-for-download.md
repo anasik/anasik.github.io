@@ -10,6 +10,7 @@ permalink: /ubuntu-14-04-trusty-tahr-finally-available-for-download/
 categories:
   - News
   - Tech
+  - Linux/unix
 ---
 Those of you who were taken aback at the sight of the same old website broadcasting 13.10, there&#8217;s news for you!
 

@@ -11,5 +11,6 @@ categories:
   - Software, Devices, Reviews
   - Tech
   - Links
+  - Windows
 ---
 Now you can actually [_&#8220;Test-Drive&#8221;_ the_ _Windows Phone](http://www.windowsphone.com/en-us/cmpn/demo "Test Drive").

@@ -11,5 +11,6 @@ categories:
   - Links
   - Tech
   - News
+  - Microsoft
 ---
 [preview.onedrive.com](https://preview.onedrive.com/)

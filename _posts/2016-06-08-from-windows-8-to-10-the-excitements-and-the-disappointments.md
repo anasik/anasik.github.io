@@ -13,6 +13,7 @@ categories:
   - Tech
   - Reviews
   - Software
+  - Microsoft
 ---
 **tl;dr**
 

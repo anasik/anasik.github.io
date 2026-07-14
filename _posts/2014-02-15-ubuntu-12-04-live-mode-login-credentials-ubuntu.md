@@ -9,5 +9,6 @@ permalink: /ubuntu-12-04-live-mode-login-credentials-ubuntu/
 categories:
   - Tech
   - Tutorials
+  - Linux/unix
 ---
 The username&#8217;s &#8220;_ubuntu_&#8220;, and password&#8217;s blank.

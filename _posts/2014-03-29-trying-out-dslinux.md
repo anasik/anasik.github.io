@@ -9,6 +9,7 @@ permalink: /trying-out-dslinux/
 categories:
   - Tech
   - Reviews
+  - Linux/unix
 ---
 Downloaded the VDI hosted at [virtualboxes.org](http://virtualboxes.org/images/damn-small).  
 Simple to the extent where you find yourself drowning in a variety of options on a confusing UI.  

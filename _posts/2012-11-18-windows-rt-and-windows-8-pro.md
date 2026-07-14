@@ -11,6 +11,7 @@ categories:
   - Tech
   - Devices
   - Software
+  - Windows
 tags:
   - difference between win RT and win 8
   - difference between windows RT and windows 8
