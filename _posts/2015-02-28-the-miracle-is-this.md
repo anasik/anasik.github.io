@@ -9,6 +9,7 @@ permalink: /the-miracle-is-this/
 categories:
   - Links, Quotes
   - Quotes
+  - News
 ---
 > The more we share, the more we have. &#8211; Leonard Nimoy
 
