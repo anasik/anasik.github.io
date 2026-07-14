@@ -2,14 +2,30 @@
 layout: default
 title: All Posts
 ---
-<div class="posts-container">
+{%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+{%- assign cat_pairs = site.categories | sort -%}
+
+<div class="filter-bar" id="filter-bar">
+    <button type="button" class="filter-chip filter-all active" data-filter="__all__">All <span class="filter-count">{{ site.posts | size }}</span></button>
+    {%- for pair in cat_pairs -%}
+    <button type="button" class="filter-chip" data-filter="{{ pair[0] | escape }}">{{ pair[0] }} <span class="filter-count">{{ pair[1] | size }}</span></button>
+    {%- endfor -%}
+</div>
+
+<div class="posts-container" id="filterable-posts">
     {% for post in site.posts %}
-    <div class="post head-only">
+    <div class="post head-only filter-item" data-categories="{{ post.categories | join: '|' | escape }}">
         <p class="post-meta">
-            <time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
-                {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+            <time class="dt-published" datetime="{{ post.date | date_to_xmlschema }}" itemprop="datePublished">
                 {{ post.date | date: date_format }}
             </time>
+            {%- if post.categories.size > 0 -%}
+            <span class="post-categories">
+                {%- for cat in post.categories -%}
+                <button type="button" class="category-badge category-badge-static post-cat-badge" data-filter="{{ cat | escape }}">{{ cat }}</button>
+                {%- endfor -%}
+            </span>
+            {%- endif -%}
         </p>
         <h3>
             <a class="post-link" href="{{ post.url | relative_url }}">
@@ -19,3 +35,70 @@ title: All Posts
     </div>
     {% endfor %}
 </div>
+
+<p id="filter-empty" class="filter-empty" style="display:none;">No posts match the selected filters.</p>
+
+<script>
+(function () {
+  var bar = document.getElementById('filter-bar');
+  if (!bar) return;
+  var allChip = bar.querySelector('.filter-all');
+  var chips = Array.prototype.slice.call(bar.querySelectorAll('.filter-chip'));
+  var items = Array.prototype.slice.call(document.querySelectorAll('#filterable-posts .filter-item'));
+  var emptyMsg = document.getElementById('filter-empty');
+  var active = new Set();
+
+  function render() {
+    var showAll = active.size === 0;
+    var visible = 0;
+    items.forEach(function (item) {
+      var cats = (item.getAttribute('data-categories') || '').split('|').filter(Boolean);
+      var match = showAll || cats.some(function (c) { return active.has(c); });
+      item.style.display = match ? '' : 'none';
+      if (match) visible++;
+    });
+    emptyMsg.style.display = visible === 0 ? 'block' : 'none';
+    allChip.classList.toggle('active', showAll);
+    chips.forEach(function (chip) {
+      if (chip === allChip) return;
+      chip.classList.toggle('active', active.has(chip.getAttribute('data-filter')));
+    });
+  }
+
+  function toggle(key) {
+    if (active.has(key)) {
+      active.delete(key);
+    } else {
+      active.add(key);
+    }
+    render();
+  }
+
+  allChip.addEventListener('click', function () {
+    active.clear();
+    render();
+  });
+
+  chips.forEach(function (chip) {
+    if (chip === allChip) return;
+    chip.addEventListener('click', function () {
+      toggle(chip.getAttribute('data-filter'));
+    });
+  });
+
+  var postBadges = Array.prototype.slice.call(document.querySelectorAll('.post-cat-badge'));
+  postBadges.forEach(function (badge) {
+    badge.addEventListener('click', function () {
+      toggle(badge.getAttribute('data-filter'));
+      badge.closest('.posts-container').scrollIntoView({ block: 'start', behavior: 'smooth' });
+    });
+  });
+
+  var requested = new URLSearchParams(window.location.search).get('cat');
+  if (requested) {
+    active.add(requested);
+  }
+
+  render();
+})();
+</script>
