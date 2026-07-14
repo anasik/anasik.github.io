@@ -89,8 +89,10 @@ title: All Posts
   var postBadges = Array.prototype.slice.call(document.querySelectorAll('.post-cat-badge'));
   postBadges.forEach(function (badge) {
     badge.addEventListener('click', function () {
-      toggle(badge.getAttribute('data-filter'));
-      badge.closest('.posts-container').scrollIntoView({ block: 'start', behavior: 'smooth' });
+      active.clear();
+      active.add(badge.getAttribute('data-filter'));
+      render();
+      window.scrollTo({ top: 0, behavior: 'smooth' });
     });
   });
 
