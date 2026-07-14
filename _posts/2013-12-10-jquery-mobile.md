@@ -10,5 +10,7 @@ permalink: /jquery-mobile/
 categories:
   - Links, Quotes
   - Web and dev
+  - Tech
+  - Links
 ---
 [In action](http://m.blu-ray.com/)

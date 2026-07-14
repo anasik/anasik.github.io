@@ -10,6 +10,8 @@ categories:
   - Essays
   - Linux/unix
   - Software, Devices, Reviews
+  - Tech
+  - Tutorials
 ---
   * The issue: Random flickering when changing the brightness using the function key, while the change wasn&#8217;t steady. The slider in system settings allowed me to change the brightness normally.
   * The machine: Dell Inspiron N5110

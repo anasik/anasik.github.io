@@ -10,5 +10,6 @@ permalink: /security-breach-on-the-ubuntu-forums/
 categories:
   - Linux/unix
   - News
+  - Tech
 ---
 The site has been ‘<em id="mf21">shutdown for maintainence.’ </em>[This](http://ubuntuforums.org/announce.html?t=2144622){#mfa11} is all that’s visible of it right now..

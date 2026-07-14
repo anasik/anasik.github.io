@@ -8,6 +8,9 @@ guid: http://anasismail.com/?p=89
 permalink: /teamviewer/
 categories:
   - Software, Devices, Reviews
+  - Tech
+  - Software
+  - Tutorials
 tags:
   - remote
   - remote access

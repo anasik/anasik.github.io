@@ -9,6 +9,8 @@ permalink: /ubuntu-derivatives/
 categories:
   - Linux/unix
   - Software, Devices, Reviews
+  - Tech
+  - Software
 ---
 Ubuntu is the most popular, and most-widely-used Distribution of Linux present. Based on Debian, it too is open-source, but unlike Debian, which is like all about networking, Ubuntu is, well, the_ preferred one for normal, home users. _
 

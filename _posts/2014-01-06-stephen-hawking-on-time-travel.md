@@ -8,6 +8,6 @@ published: false
 guid: http://anasismail.com/?p=979
 permalink: /stephen-hawking-on-time-travel/
 categories:
-  - Uncategorized
+  - Links
 ---
 [Well, It&#8217;s worth the read&#8230;](http://www.dailymail.co.uk/home/moslive/article-1269288/STEPHEN-HAWKING-How-build-time-machine.html)

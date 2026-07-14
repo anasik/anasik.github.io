@@ -8,6 +8,9 @@ guid: http://anasismail.com/?p=73
 permalink: /get-tabbed-browsing-in-windows-explorer/
 categories:
   - Software, Devices, Reviews
+  - Tutorials
+  - Tech
+  - Software
 tags:
   - Get tabbed Browsing in Windows Explorer
   - tabbed

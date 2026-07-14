@@ -9,5 +9,6 @@ guid: http://anasismail.com/?p=1187
 permalink: /obsession/
 categories:
   - Links, Quotes
+  - Basically Tweets
 ---
 > Is dedication

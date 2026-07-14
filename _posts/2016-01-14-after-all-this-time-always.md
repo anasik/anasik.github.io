@@ -7,7 +7,7 @@ layout: post
 guid: http://anasismail.com/?p=1251
 permalink: /after-all-this-time-always/
 categories:
-  - Uncategorized
+  - News
 ---
 Alan Rickman, the English actor, well known for playing Severus Snape in the Harry Potter movie series, passed away at the age of 69 today. They say he had cancer. (<del><em>No I don&#8217;t know which cancer it was,nor have I got any idea about how long he had had it and how much people knew about it. )</em></del>
 

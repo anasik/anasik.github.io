@@ -8,6 +8,8 @@ guid: http://anasismail.com/?p=729
 permalink: /linus-torwalds-initial-email/
 categories:
   - Linux/unix
+  - Tech
+  - Quotes
 ---
 The one that started it all, where Torwalds asked the people for suggestions and stuff that they&#8217;d like to see in the minix OS.
 

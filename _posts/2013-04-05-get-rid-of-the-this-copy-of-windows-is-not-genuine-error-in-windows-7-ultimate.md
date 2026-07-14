@@ -8,6 +8,8 @@ guid: http://anasismail.com/?p=388
 permalink: /get-rid-of-the-this-copy-of-windows-is-not-genuine-error-in-windows-7-ultimate/
 categories:
   - Windows
+  - Tech
+  - Tutorials
 ---
 Often when you&#8217;ve got updates on, there comes a time when your desktop background disappears, and you keep on getting errors and popups saying that your copy of windows is not genuine, and stuff like &#8220;you might be a victim of software counterfeiting.&#8221; The reason behind is that you are using a pirated version of Windows which you didn&#8217;t **_obtain the legal way._**_ _Now the point is that these errors and popups can be annoying, and people would always welcome a cure, and well here&#8217;s one. I&#8217;m not encouraging anyone to go for pirated software, but i&#8217;m still posting the solution cause not everyone can afford to buy their own licensed copy of windows.;-)
 

@@ -9,5 +9,7 @@ guid: http://anasismail.com/?p=1672
 permalink: /constant-pointers-vs-pointer-to-constant-vs-constant-pointer-to-constant/
 categories:
   - Links, Quotes
+  - Tech
+  - Links
 ---
 [Here.](http://www.thegeekstuff.com/2012/06/c-constant-pointers/)

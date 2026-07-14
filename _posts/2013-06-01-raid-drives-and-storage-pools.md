@@ -9,8 +9,8 @@ permalink: /raid-drives-and-storage-pools/
 categories:
   - News
   - Software, Devices, Reviews
-  - Uncategorized
   - Windows
+  - Tech
 ---
 Windows 8 comes with a built-in storage-pool feature, and Drive-Bender is a _ &#8216;state of the art, single point storage pool technology&#8217;_, and the upcoming PoolHD would be the _&#8220;fastest and easiest way to create and maintain a storage pool of virtually infinite size.&#8221;_
 

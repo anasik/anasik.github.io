@@ -8,6 +8,9 @@ guid: http://anasismail.com/?p=421
 permalink: /vm-fit-to-screen/
 categories:
   - Software, Devices, Reviews
+  - Tech
+  - Tutorials
+  - Software
 ---
 When i first installed Ubuntu inside a VirtualBoxVM on my laptop, i noticed that it didnt make proper use of the widescreen. The display was a small square box in the middle of the scree which kinda bothered me. To overcome this, just install the guest additions. To do so, press HOST + D. There you go. The auto-installer will take care of the rest.
 

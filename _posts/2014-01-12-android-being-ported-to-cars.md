@@ -12,7 +12,7 @@ categories:
   - Links, Quotes
   - Linux/unix
   - News
-  - Uncategorized
+  - Tech
 ---
 It does say so [here..](http://www.zdnet.com/will-automakers-embrace-of-android-aid-drivers-or-just-google-7000024997/)  
 Way to go SkyNet!

@@ -9,5 +9,6 @@ guid: http://anasismail.com/?p=1669
 permalink: /if-telling-the-truth-is-deception/
 categories:
   - Links, Quotes
+  - Quotes
 ---
 > then we are gladly guilty. &#8211; Megatron

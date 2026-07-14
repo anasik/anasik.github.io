@@ -8,7 +8,8 @@ published: false
 guid: http://anasismail.com/?p=1062
 permalink: /scientists-claim-that-the-quantum-theory-proves-that-conciousness-is-moved-to-another-universe-on-death/
 categories:
-  - Uncategorized
+  - Essays
+  - News
 ---
 > &#8220;.. there&#8217;s a multiverse. In one you are married to your wife, in another you are married o another woman, in another you are married to a a man.. &#8221; &#8211; Jason Statham, The One
 

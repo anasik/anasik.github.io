@@ -8,6 +8,8 @@ guid: http://anasismail.com/?p=298
 permalink: /booting-up-slax/
 categories:
   - Linux/unix
+  - Tech
+  - Tutorials
 ---
 On Feb 18, I posted about [Slax &#8211; A Plug and Play OS](http://anasismail.com/slax-a-plug-and-play-operating-system/), which is absolutely free, but often, some people who are not much into computers, have trouble installing it. The simple + quick method is:
 

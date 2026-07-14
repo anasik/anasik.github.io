@@ -8,5 +8,7 @@ guid: http://anasismail.com/?p=251
 permalink: /raspberry-pi/
 categories:
   - Software, Devices, Reviews
+  - Tech
+  - Devices
 ---
 [Raspberry Pi](http://www.raspberrypi.org/) is a credit card sized computer that you can plug into a tv and a keyboard. It uses an ARM processor and can run various llinux distros like Debian, [Ubuntu](http://ubuntu.com) and even some version of android, and is capable of almost anything that a normal pc, belonging to a normal user does.

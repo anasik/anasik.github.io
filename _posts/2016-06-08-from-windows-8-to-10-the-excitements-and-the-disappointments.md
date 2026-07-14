@@ -10,6 +10,9 @@ categories:
   - Essays
   - Software, Devices, Reviews
   - Windows
+  - Tech
+  - Reviews
+  - Software
 ---
 **tl;dr**
 

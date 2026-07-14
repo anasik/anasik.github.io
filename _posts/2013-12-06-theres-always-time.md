@@ -9,5 +9,6 @@ guid: http://anasismail.com/?p=861
 permalink: /theres-always-time/
 categories:
   - Links, Quotes
+  - Basically Tweets
 ---
 And you can always waste it.

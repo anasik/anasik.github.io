@@ -7,7 +7,9 @@ layout: post
 guid: http://anasismail.com/?p=3323
 permalink: /richard-parker-owned-an-ericsson-chatboard-cha-01/
 categories:
-  - Uncategorized
+  - Essays
+  - Movies
+  - Devices
 ---
 I was doing some math when I, for reasons I can&#8217;t recall, remembered that scene from _&#8220;The Amazing Spider-man 2&#8221; _in which, among a number of other things, there was a scientific calculator on the floor of Peter&#8217;s room. Interested to know what model it was, I googled it and landed on [this post ](http://www.techpoweredmath.com/spidermans-dad-hp-calculator-fan/). The author identifies it as the _&#8220;HP-48GX or a closely related model.&#8221; _
 

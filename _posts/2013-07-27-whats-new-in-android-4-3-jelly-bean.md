@@ -10,6 +10,8 @@ categories:
   - Linux/unix
   - News
   - Software, Devices, Reviews
+  - Tech
+  - Software
 ---
 The _newly launched_, version of Android comes with its own range of exciting features, ranging from apparent _visual effects _to _not-to-apparent _security fixes.One of the apparent features being a user account system, **Restricted Profiles **as Google calls it. The purpose of the new user account feature, (i guess not much explanation required) is merely to ensure that _multiple-users-on-a-single-device _dont have much trouble managing their docs e.t.c. and yes it also kinda improves privacy, i.e. files you dont want other users to access.
 

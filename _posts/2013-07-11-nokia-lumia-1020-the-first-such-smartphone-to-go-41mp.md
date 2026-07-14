@@ -10,6 +10,9 @@ categories:
   - News
   - Software, Devices, Reviews
   - Windows
+  - Tech
+  - Devices
+  - Reviews
 ---
 <img alt="The Lumia 1020" src="http://blogs.windows.com/cfs-file.ashx/__key/communityserver-blogs-components-weblogfiles/00-00-00-53-71-metablogapi/image_5F00_2771E723.png" width="98%" height="auto" />  
 The Nokia Lumia 1020, that&#8217;s said to be available on AT&T by the 26th of July, makes _even the best of DSLR&#8217;s look inferior,_ it&#8217;s own _rear-camera being  41MP with a max resolution of 7712 x 5360_. Lenses: **Zeiss**, Flash is Xenon for _still-captures_, while there&#8217;s an LED one for Videos, their quality being 1080p, 30fps.

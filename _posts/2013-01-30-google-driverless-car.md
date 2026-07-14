@@ -8,6 +8,7 @@ guid: http://anasismail.com/?p=264
 permalink: /google-driverless-car/
 categories:
   - Google
+  - Tech
 ---
 It&#8217;s a project, led by Google engineer Sebastian Thrun, director of the Stanford Artificial Intelligence Laboratory and co-inventor of Google Street View. No need to tell you what its about as the name says it all.
 

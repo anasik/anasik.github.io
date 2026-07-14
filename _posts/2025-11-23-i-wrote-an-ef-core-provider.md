@@ -9,6 +9,9 @@ categories:
   - Microsoft
   - aspnetcore
   - open source
+  - Tech
+  - Software
+  - Personal
 ---
 > EF Core Database Provider for Azure Data Explorer (Kusto). [GitHub](https://github.com/anasik/EFCore.Kusto)   [![NuGet Version](https://img.shields.io/nuget/v/EFCore.Kusto.svg)](https://www.nuget.org/packages/EFCore.Kusto/) 
 

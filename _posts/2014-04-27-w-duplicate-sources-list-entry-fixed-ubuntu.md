@@ -8,6 +8,8 @@ guid: http://anasismail.com/?p=1086
 permalink: /w-duplicate-sources-list-entry-fixed-ubuntu/
 categories:
   - Linux/unix
+  - Tutorials
+  - Tech
 ---
 Okay, so ever since I upgraded to Ubuntu 14.04 through the liveCD, i hadn&#8217;t once been prompted to update stuff. This seemed unusual to me as I used to get updates every now and then, and then the fact that I hadnt upgraded from 13.04 until right after the LTS was launched and the support for Raring had already been cut off. Also, the fact that I had aborted the installation before the upgrading process had completed.
 

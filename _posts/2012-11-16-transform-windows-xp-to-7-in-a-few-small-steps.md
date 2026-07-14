@@ -8,6 +8,9 @@ guid: http://anasismail.com/?p=107
 permalink: /transform-windows-xp-to-7-in-a-few-small-steps/
 categories:
   - Software, Devices, Reviews
+  - Tutorials
+  - Tech
+  - Software
 tags:
   - 7 theme for xp
   - get windows 7 superbar in xp

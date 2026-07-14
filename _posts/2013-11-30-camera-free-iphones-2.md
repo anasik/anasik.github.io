@@ -9,6 +9,9 @@ guid: http://anasismail.com/?p=836
 permalink: /camera-free-iphones-2/
 categories:
   - Software, Devices, Reviews
+  - Tech
+  - News
+  - Devices
 ---
 The Singapore ministry of defense actually asked the M1 operator for camera-free iPhone devices.
 

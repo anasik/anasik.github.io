@@ -8,6 +8,7 @@ guid: http://anasismail.com/?p=424
 permalink: /torrents-vs-magnetic-links/
 categories:
   - Software, Devices, Reviews
+  - Tech
 ---
 When we download stuff using torrents, we first download a *.torrent file and run it with our bittorrent client. The torrent file contains information that leads to the download.
 

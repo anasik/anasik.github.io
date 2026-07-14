@@ -8,6 +8,8 @@ guid: http://anasismail.com/?p=401
 permalink: /no-hard-drives-been-found-linux-xpred-hat/
 categories:
   - Linux/unix
+  - Tech
+  - Tutorials
 ---
 An error i faced while trying to install Linux XP 2006 on a VirtualBox VM. The error is known to have been faced while installing Red Hat too, and the reason behind it is that neither of the two OS support SATA hard-drives, i.e.  at least the older versions didn&#8217;t, so I just unmounted the HDD from the SATA controller, and mounted the same HDD on the IDE controller. To do so in VBox,
 

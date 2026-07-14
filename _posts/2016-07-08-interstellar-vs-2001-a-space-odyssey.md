@@ -8,6 +8,8 @@ guid: http://anasismail.com/?p=1723
 permalink: /interstellar-vs-2001-a-space-odyssey/
 categories:
   - Essays
+  - Movies
+  - Reviews
 ---
 Ever since it&#8217;s release in 2014, Christopher Nolan&#8217;s _&#8220;Interstellar&#8221;, _has often been compared to Stanley Kubrick&#8217;s _&#8220;2001: A Space Odyssey.&#8221;_
 

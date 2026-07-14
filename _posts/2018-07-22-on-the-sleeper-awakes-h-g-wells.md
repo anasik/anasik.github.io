@@ -8,6 +8,8 @@ guid: http://anasismail.com/?p=3868
 permalink: /on-the-sleeper-awakes-h-g-wells/
 categories:
   - Essays
+  - Books
+  - Reviews
 ---
 I don&#8217;t exactly remember how I discovered this book. But at least a couple of months ago, I came across the name, looked up the synopsis and downloaded it with the intention of reading it on the first chance. Less than a month ago, on a particular midnight, I was unable to sleep and having little to no desire to take up something educational, I decided to go through my collection of fiction. The H.G. Wells folder caught my eye and I opened it to reveal this book along with a couple of others. Remembering suddenly what it was about, I decided to start reading it.
 

@@ -11,6 +11,9 @@ categories:
   - Google
   - Software, Devices, Reviews
   - Web and dev
+  - Tech
+  - Reviews
+  - Software
 ---
 This is the shortest and most effective comparison that aims to make the decision making process easier.
 

@@ -10,6 +10,9 @@ categories:
   - Google
   - Software, Devices, Reviews
   - Windows
+  - Tech
+  - News
+  - Software
 ---
 Got the update?  
 ![asdaf](https://farm6.staticflickr.com/5505/12049158284_ff581f0b07_b.jpg) 

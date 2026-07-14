@@ -8,6 +8,6 @@ guid: http://anasismail.com/?p=273
 published: false
 permalink: /necessity/
 categories:
-  - Uncategorized
+  - Quotes
 ---
 The Mother Of Invention

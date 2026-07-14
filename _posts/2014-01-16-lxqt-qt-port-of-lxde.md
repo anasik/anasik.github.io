@@ -8,6 +8,9 @@ guid: http://anasismail.com/?p=1129
 permalink: /lxqt-qt-port-of-lxde/
 categories:
   - Linux/unix
+  - Tech
+  - Software
+  - News
 ---
 LXQt, the &#8220;next-gen&#8221;, upcoming desktop environment, is the product of the combined efforts of the LXDE and the Razor-Qt teams. The output is, in terms of visuals rather similar to KDE, so those who enjoy KDE but find it _highly-resource-consuming, _LXQt might be just the thing for them. Since I never liked KDE much, I might not like this one at all.  
 LXQt is to become the default environment in the upcoming releases of Lubuntu which is probably for the best since as much as I like LXDE, it&#8217;s too simple for a general consumer to find normal. A simple example could be the trouble they&#8217;d have to simply getting the Battery Indicator to work for them (It refreshes slow and all. ) I know it was a lame example but its one of the things that piss me off whenever I use LXDE.  

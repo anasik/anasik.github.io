@@ -9,6 +9,7 @@ guid: http://anasismail.com/?p=1101
 permalink: /real-life-transformer/
 categories:
   - News
+  - Basically Tweets
 ---
 A Street Performer, dressed up rather like BumbleBee.. He actually Transforms into a car too&#8230;
 

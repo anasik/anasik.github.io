@@ -8,6 +8,8 @@ published: false
 guid: http://anasismail.com/?p=1008
 permalink: /lenovos-all-in-one-android-pc/
 categories:
-  - Uncategorized
+  - Links
+  - Tech
+  - News
 ---
 [Now the battle for the desktop begins..&nbsp; it might](http://www.zdnet.com/android-desktops-arrive-as-lenovo-eyes-your-living-room-7000024678/)

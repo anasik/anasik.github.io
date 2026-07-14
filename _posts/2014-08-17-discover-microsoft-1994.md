@@ -8,5 +8,7 @@ guid: http://anasismail.com/?p=1142
 permalink: /discover-microsoft-1994/
 categories:
   - Links, Quotes
+  - Tech
+  - Links
 ---
 [Here](http://www.microsoft.com/en-us/discover/1994/)

@@ -10,5 +10,7 @@ permalink: /down-for-just-me-or-everyone-else/
 categories:
   - Links, Quotes
   - Web and dev
+  - Links
+  - Tech
 ---
 Use [isup.me](http://isup.me) to find out.

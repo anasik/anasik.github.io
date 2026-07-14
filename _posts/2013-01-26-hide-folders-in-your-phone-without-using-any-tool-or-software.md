@@ -7,7 +7,8 @@ layout: post
 guid: http://anasismail.com/?p=254
 permalink: /hide-folders-in-your-phone-without-using-any-tool-or-software/
 categories:
-  - Uncategorized
+  - Tutorials
+  - Tech
 ---
 This is a simple but useful trick for hiding folders in your phone without any special software/tool. This works in almost all phones, at least it did in every single one i tried.
 

@@ -9,6 +9,8 @@ permalink: /the-moto-xs-specifications/
 categories:
   - Google
   - Software, Devices, Reviews
+  - Tech
+  - Devices
 ---
 I dint bother to mention it in the [other post](http://anasismail.com/the-moto-x-another-release-that-redefines-smartphones/) cause it was way to heavy already but those like me who wont rest until they see a table of specs, well here it is:
 

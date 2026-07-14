@@ -9,6 +9,8 @@ guid: http://anasismail.com/?p=486
 permalink: /apple-lifestreaming-the-keynote-live/
 categories:
   - News
+  - Tech
+  - Links
 ---
 <div data-jsid="message">
   <a href="http://www.apple.com/apple-events/june-2013/">Apple lifestreaming the keynote live</a>

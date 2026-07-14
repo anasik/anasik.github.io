@@ -8,6 +8,7 @@ guid: http://anasismail.com/?p=961
 permalink: /your-age-on-other-planets/
 categories:
   - Links, Quotes
+  - Links
 ---
 How old would you be if you were living on another planet?  
 [Click here](http://www.exploratorium.edu/ronh/age/) to find out.

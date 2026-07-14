@@ -9,6 +9,9 @@ guid: http://anasismail.com/?p=528
 permalink: /xbox-one-vs-ps4/
 categories:
   - Games
+  - Tech
+  - News
+  - Devices
 ---
 The Xbox One design was revealed a way before the PS4. Both had unveilings before the E3 press conference – a traditional launch pad for games consoles – but at the PS4’s early showing, we didn’t get to see the box. It was only shown off fully at E3, on 10 June.
 

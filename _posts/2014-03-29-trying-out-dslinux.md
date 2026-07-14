@@ -7,7 +7,8 @@ layout: post
 guid: http://anasismail.com/?p=1053
 permalink: /trying-out-dslinux/
 categories:
-  - Uncategorized
+  - Tech
+  - Reviews
 ---
 Downloaded the VDI hosted at [virtualboxes.org](http://virtualboxes.org/images/damn-small).  
 Simple to the extent where you find yourself drowning in a variety of options on a confusing UI.  

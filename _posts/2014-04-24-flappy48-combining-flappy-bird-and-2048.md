@@ -10,6 +10,8 @@ categories:
   - News
   - Software, Devices, Reviews
   - Web and dev
+  - Tech
+  - Reviews
 ---
 Flappy bird and 2048, two of the best games if the year, in terms of their rate of going viral, though totally different in themselves, have been combined into Flappy48.  
 The objective is to keep joining the numbers, just like in the game 2048 and eventually reach the 2048 tile, while at the same time, avoiding the obstacles. The obstacles being vertical columns, rather like those green pipes in flappy Bird.  

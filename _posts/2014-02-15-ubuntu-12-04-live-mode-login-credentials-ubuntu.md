@@ -7,6 +7,7 @@ layout: post
 guid: http://anasismail.com/?p=1027
 permalink: /ubuntu-12-04-live-mode-login-credentials-ubuntu/
 categories:
-  - Uncategorized
+  - Tech
+  - Tutorials
 ---
 The username&#8217;s &#8220;_ubuntu_&#8220;, and password&#8217;s blank.

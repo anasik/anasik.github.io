@@ -8,6 +8,6 @@ guid: http://anasismail.com/?p=1162
 permalink: /spend-a-day-without-x/
 categories:
   - Links, Quotes
-  - Uncategorized
+  - Links
 ---
 [Can you?](http://www.terminally-incoherent.com/blog/2007/05/21/a-day-without-x/).

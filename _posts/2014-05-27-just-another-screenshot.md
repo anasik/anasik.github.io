@@ -11,5 +11,6 @@ categories:
   - Linux/unix
   - News
   - Web and dev
+  - Tech
 ---
 <img src="https://farm4.staticflickr.com/3825/14257611986_4ef30a30df_o.png" alt="Gunshot Ubuntu" width="514" height="337" />

@@ -9,5 +9,7 @@ guid: http://anasismail.com/?p=508
 permalink: /atari-breakout-googles-version/
 categories:
   - Google
+  - Tech
+  - Links
 ---
 go to [Google Images](http://images.google.com) and type Atari Breakout. 😉 Enjoy

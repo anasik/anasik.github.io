@@ -8,7 +8,8 @@ published: false
 guid: http://anasismail.com/?p=51
 permalink: /unsubscriber/
 categories:
-  - Uncategorized
+  - Tech
+  - Links
 ---
 Sick of receiving spam mail, email notifications, newsletters e.t.c. from multiple sites that you have signed up on? Well here’s a Solution.
 

@@ -9,5 +9,6 @@ guid: http://anasismail.com/?p=1264
 permalink: /nostalgia/
 categories:
   - Links, Quotes
+  - Basically Tweets
 ---
 > is a bitch.

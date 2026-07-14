@@ -8,6 +8,8 @@ guid: http://anasismail.com/?p=2388
 permalink: /the-dilemma-of-programming-languages/
 categories:
   - Web and dev
+  - Tech
+  - Essays
 ---
 So, I&#8217;ve been up and _laptop-ing_ for the last two hours or so, and all I&#8217;ve been doing is reading one article after another centered on programming languages. A good fraction of those articles lashed on how Javascript sucks. It&#8217;s been a lot of continuous reading, all thanks to catchy links located throughout the articles, and at any given time there have been at least 7 tabs (with articles) open at all times. Even as of now, there are exactly seven other tabs, besides Facebook, open in my browser.
 

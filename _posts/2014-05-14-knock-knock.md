@@ -9,6 +9,7 @@ guid: http://anasismail.com/?p=1098
 permalink: /knock-knock/
 categories:
   - Links, Quotes
+  - Basically Tweets
 ---
 > _*_
 

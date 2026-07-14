@@ -8,6 +8,9 @@ guid: http://anasismail.com/?p=270
 permalink: /slax-a-plug-and-play-operating-system/
 categories:
   - Linux/unix
+  - Tech
+  - Software
+  - Reviews
 ---
 You are familiar with the term plug-and-play; if not, well, just google it 😉 Anyways, we use countless plug and play devices, but ever heard of a plug and play Operating System(OS)?  
 Slax is just another one of the countless linux distros, but the best thing about it is that it&#8217;s plug and play. Just boot using a Slax live CD or USB, and it&#8217;d start up. The initial setting-up processes hardly take a minute, and no install required.

@@ -8,7 +8,8 @@ published: false
 guid: http://anasismail.com/?p=946
 permalink: /git-cheatsheet/
 categories:
-  - Uncategorized
+  - Tech
+  - Links
 ---
 [All one might need..](http://ndpsoftware.com/git-cheatsheet.html)  
 ![](http://osteele.com/images/2008/git-transport.png)

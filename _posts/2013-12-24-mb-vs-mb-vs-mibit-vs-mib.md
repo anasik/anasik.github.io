@@ -7,7 +7,7 @@ layout: post
 guid: http://anasismail.com/?p=918
 permalink: /mb-vs-mb-vs-mibit-vs-mib/
 categories:
-  - Uncategorized
+  - Tech
 ---
 First of, the &#8216;b&#8217; stands for _bit, _while the B stands for _byte. _So MB stands for _megabyte, _and Mb stands for _megabit. _The _Mi, Ki, Gi_ prefixes are **binary prefixes.** The  difference between Mb and Mibit is that MB represents 1000² bits, while Mibit represents 1024² bits. Same goes for Kb and Kibit.
 

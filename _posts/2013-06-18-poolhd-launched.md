@@ -9,6 +9,8 @@ guid: http://anasismail.com/?p=537
 permalink: /poolhd-launched/
 categories:
   - Software, Devices, Reviews
+  - Tech
+  - Basically Tweets
 ---
 Was wondering what to post about, and the first thing that came into my head was [PoolHD](http://poolhd.com), along with the fact that it&#8217;s &#8220;_Coming 18th of June 2013,&#8221; _
 

@@ -11,6 +11,9 @@ categories:
   - Software, Devices, Reviews
   - Web and dev
   - Windows
+  - Tech
+  - Software
+  - Reviews
 ---
 <div style="text-align: center;">
   <img alt="gimp28" src="http://farm4.staticflickr.com/3711/9375545471_20631fd6c4_o.png" width="100%" />

@@ -9,6 +9,8 @@ guid: http://anasismail.com/?p=183
 permalink: /reason-behind-ies-existence/
 categories:
   - Software, Devices, Reviews
+  - Tech
+  - Basically Tweets
 ---
 Why does Internet Explorer exist?
 

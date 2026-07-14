@@ -8,7 +8,9 @@ published: false
 guid: http://anasismail.com/?p=215
 permalink: /scroll-clock/
 categories:
-  - Uncategorized
+  - Tech
+  - Software
+  - Links
 ---
 A digital Clock comprising of a number of scroll bars. Just click the link below and u&#8217;d know.
 

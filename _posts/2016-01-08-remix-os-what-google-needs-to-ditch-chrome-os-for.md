@@ -9,5 +9,8 @@ permalink: /remix-os-what-google-needs-to-ditch-chrome-os-for/
 categories:
   - Links, Quotes
   - Linux/unix
+  - Tech
+  - News
+  - Links
 ---
 I could explain here, but I&#8217;d rather you simply read [The Verge&#8217;s post about it. ](http://www.theverge.com/2016/1/6/10726986/remix-os-android-desktop-ces-2016)

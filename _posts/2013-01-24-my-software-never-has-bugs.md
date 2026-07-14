@@ -8,6 +8,7 @@ published: false
 guid: http://anasismail.com/?p=231
 permalink: /my-software-never-has-bugs/
 categories:
-  - Uncategorized
+  - Tech
+  - Basically Tweets
 ---
 > It just develops exciting new random features.

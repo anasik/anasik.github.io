@@ -9,6 +9,8 @@ permalink: /how-to-assign-a-static-ip-to-on-windows-computer/
 categories:
   - Web and dev
   - Windows
+  - Tech
+  - Tutorials
 ---
 A Static IP differs from a Dynamic one in the sense that the latter changes with every router reset, while the former always stays the same.
 

@@ -8,7 +8,8 @@ guid: http://anasismail.com/?p=2247
 permalink: /harry-potter-and-the-cursed-child-a-cursed-sequel/
 categories:
   - Essays
-  - Software, Devices, Reviews
+  - Reviews
+  - Books
 ---
 The title might be a little too harsh, but I assure you, I&#8217;m not the only person who feels that way. I read the script and sometimes I wish I hadn&#8217;t. While there are some revelations in it that I like, there are other parts that I just can&#8217;t accept are canon.<!--more-->
 

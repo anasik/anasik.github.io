@@ -9,6 +9,7 @@ permalink: /rewriting-legacy-code/
 categories:
   - Essays
   - Web and dev
+  - Tech
 ---
 I once wrote an answer on Quora about the improbability of a programming language to completely die out once it has gained popularity. The idea, not so original, was that there are two factors preventing a language from dying:
 

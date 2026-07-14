@@ -8,6 +8,8 @@ guid: http://anasismail.com/?p=967
 permalink: /printing-2014-using-a-js-code-free-from-numerals-explanation/
 categories:
   - Web and dev
+  - Tech
+  - Tutorials
 ---
 Came across [this thread](http://codegolf.stackexchange.com/questions/17005/produce-the-number-2014-without-any-numbers-in-your-source-code) on stack exchange. The challenge was to write a code, using whatever language you want, that would print the number 2014 to the console, without using a single numeral in the code. The person to post the code with the least number of characters wins.
 

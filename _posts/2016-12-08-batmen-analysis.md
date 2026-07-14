@@ -8,6 +8,8 @@ guid: http://anasismail.com/?p=2515
 permalink: /batmen-analysis/
 categories:
   - Essays
+  - Movies
+  - Reviews
 ---
 So, I&#8217;ve been wanting to do this for quite some time. You see, there&#8217;s a whole lot of Batman movies out there along with a good number of _Batmen. _With different actors, playing the same character, in different movie adaptations, there come arguments between fans over the superiority of certain adaptations and portrayals.
 

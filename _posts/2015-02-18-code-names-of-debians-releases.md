@@ -8,6 +8,8 @@ guid: http://anasismail.com/?p=1171
 permalink: /code-names-of-debians-releases/
 categories:
   - Linux/unix
+  - Tech
+  - Basically Tweets
 ---
 > Buzz? as in Lightyear?
 > 

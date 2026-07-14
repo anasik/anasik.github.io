@@ -12,5 +12,7 @@ categories:
   - News
   - Software, Devices, Reviews
   - Web and dev
+  - Tech
+  - Links
 ---
 [Rather than just making the chrome apps run on iOS and android..](http://m.cnet.com/news/mobile-chrome-apps-closer-than-you-think/57614450)

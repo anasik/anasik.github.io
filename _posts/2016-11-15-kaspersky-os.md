@@ -10,6 +10,9 @@ categories:
   - Linux/unix
   - News
   - Software, Devices, Reviews
+  - Tech
+  - Reviews
+  - Software
 ---
 > _First_, it’s based on [microkernel architecture](https://en.wikipedia.org/wiki/Microkernel), which allows to assemble ‘from blocks’ different modifications of the operating system depending on a customer’s specific requirements.
 > 

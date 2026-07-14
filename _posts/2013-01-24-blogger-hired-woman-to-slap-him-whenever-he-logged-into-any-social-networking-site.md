@@ -9,6 +9,7 @@ guid: http://anasismail.com/?p=235
 permalink: /blogger-hired-woman-to-slap-him-whenever-he-logged-into-any-social-networking-site/
 categories:
   - Web and dev
+  - News
 ---
 When San Francisco-based blogger Maneesh Sethi realized he was wasting too much time on Facebook, YouTube and Reddit, he resolved to change his work habits.
 

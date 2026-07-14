@@ -8,6 +8,9 @@ guid: http://anasismail.com/?p=1078
 permalink: /canonical-shutting-down-ubuntuone/
 categories:
   - Linux/unix
+  - Essays
+  - Tech
+  - News
 ---
 While installing the essentials and all, my eyes fell on the gnome bar which looked bare, without the UbuntuONE icon, and that&#8217;s what reminded me of the cloud. I pressed the super key and typed the name in the dash, intending to configure it, but surprisingly, it didnt return any such App. I therefore, blaming myself for not upgrading properly, decided to install it manually when a thought hit me. That&#8217;s when I checked the Ubuntu One twitter account and there it was, in one of the most recent posts, my unasked question answered.
 

@@ -10,6 +10,7 @@ categories:
   - Essays
   - Games
   - Web and dev
+  - Tech
 ---
 [Check this out before you read any further.](http://www.anasismail.com/others/vegeta)
 

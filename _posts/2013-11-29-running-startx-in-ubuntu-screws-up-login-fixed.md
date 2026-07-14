@@ -8,6 +8,8 @@ guid: http://anasismail.com/?p=808
 permalink: /running-startx-in-ubuntu-screws-up-login-fixed/
 categories:
   - Linux/unix
+  - Tech
+  - Tutorials
 ---
 Two days back, I out of curiosity, fired up a terminal and typed in startx, with the hope that the UI would be reduced to naught but the _original form _of the X. At first it displayed an error, saying that i&#8217;m not permitted to. But then I tried again, and this time with a **&#8216;sudo.&#8217; **The moment I _entered _my password, the screen went all dark, but only for a second, after which I was left with naught but a blank desktop, free from menus. Sensing failure, I opened another terminal and wrote **&#8216;unity.&#8217; **Something similar happened, but this time, the title bar of the terminal kinda got stuck to the top of the screen. I tried the same command again, and this time, I was brought back to where i started. The terminal in which i had typed the startx command was still there, however i failed to notice that the user logged into it wasn&#8217;t my primary user account but **root.** I didn&#8217;t really notice anything unusual, except that the _settings _dropdown, present in the top-right, in the gnome bar, wasn&#8217;t showing up the options it ought to, so I restarted the computer by simply pressing the power button.
 

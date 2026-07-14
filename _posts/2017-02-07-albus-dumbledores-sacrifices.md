@@ -8,6 +8,7 @@ guid: http://anasismail.com/?p=2851
 permalink: /albus-dumbledores-sacrifices/
 categories:
   - Essays
+  - Books
 ---
 Let&#8217;s get to it. We all know about Dumbledore&#8217;s past, and his friendship with Grindelwald and the whole &#8220;For the greater good&#8221; thing. Not all of us, however, realized the fact that he never stopped living his life by that motto. Albus Dumbledore _always _did everything for the greater good.
 

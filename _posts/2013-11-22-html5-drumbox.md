@@ -10,5 +10,7 @@ permalink: /html5-drumbox/
 categories:
   - Links, Quotes
   - Web and dev
+  - Tech
+  - Links
 ---
 [Do Give it a try&#8230;.](http://box.cloudymedia.com/)

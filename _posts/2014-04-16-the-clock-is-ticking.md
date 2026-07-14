@@ -8,6 +8,7 @@ published: false
 guid: http://anasismail.com/?p=1065
 permalink: /the-clock-is-ticking/
 categories:
-  - Uncategorized
+  - Basically Tweets
+  - Tech
 ---
 Only a matter of time, hours more like, before Ubuntu&#8217;s next LTS release, 14.04 Trusty Tahr is out..

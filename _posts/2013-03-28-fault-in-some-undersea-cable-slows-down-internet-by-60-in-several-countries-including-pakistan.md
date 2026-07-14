@@ -9,5 +9,6 @@ guid: http://anasismail.com/?p=380
 permalink: /fault-in-some-undersea-cable-slows-down-internet-by-60-in-several-countries-including-pakistan/
 categories:
   - News
+  - Tech
 ---
 A cut in some fiber cable has slowed down internet by 60% in Pakistan, and several other Europian countries. The cable in questions is said to be the _primary internet backbone between Europe, Middle East, Sub-continent and Europe. _Cut somewhere near Egypt; Internet is being supplied through a substitute cable.

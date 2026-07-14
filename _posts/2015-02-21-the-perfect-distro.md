@@ -9,5 +9,7 @@ guid: http://anasismail.com/?p=1180
 permalink: /the-perfect-distro/
 categories:
   - Links, Quotes
+  - Tech
+  - Basically Tweets
 ---
 Doesn&#8217;t exist

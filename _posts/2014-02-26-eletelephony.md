@@ -7,7 +7,8 @@ layout: post
 guid: http://anasismail.com/?p=1042
 permalink: /eletelephony/
 categories:
-  - Uncategorized
+  - Poetry
+  - Quotes
 ---
 > Once there was an elephant,  
 > Who tried to use the telephant—  

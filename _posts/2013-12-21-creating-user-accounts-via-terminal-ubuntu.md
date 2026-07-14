@@ -8,6 +8,8 @@ guid: http://anasismail.com/?p=914
 permalink: /creating-user-accounts-via-terminal-ubuntu/
 categories:
   - Linux/unix
+  - Tech
+  - Tutorials
 ---
 First off, simply fire up a terminal, and then for root access, type:
 

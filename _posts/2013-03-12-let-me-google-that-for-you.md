@@ -9,6 +9,7 @@ guid: http://anasismail.com/?p=288
 permalink: /let-me-google-that-for-you/
 categories:
   - Google
+  - Tech
 ---
 > Let me google that for you
 

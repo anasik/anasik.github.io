@@ -8,6 +8,7 @@ published: false
 guid: http://anasismail.com/?p=180
 permalink: /fb-privacy-update/
 categories:
-  - Uncategorized
+  - News
+  - Tech
 ---
 Now you can edit your FB Privacy Settings from the top bar. This is not yet available to everyone.

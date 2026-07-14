@@ -10,6 +10,9 @@ categories:
   - Google
   - Linux/unix
   - Software, Devices, Reviews
+  - Tech
+  - Reviews
+  - Software
 ---
 Title says it all, and here they are:
 

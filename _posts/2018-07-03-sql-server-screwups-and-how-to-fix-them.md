@@ -9,6 +9,8 @@ permalink: /sql-server-screwups-and-how-to-fix-them/
 categories:
   - Web and dev
   - Windows
+  - Tech
+  - Tutorials
 ---
 So recently I installed Visual Studio 2017 on a laptop and I installed it with only the ASP.NET and WinForms features. I was working on a webapp and initializing the database when I realized that VS was completely unable to connect to the database. I opened the &#8220;SQL Server Object Explorer&#8221; and tried to manually connect to the MSSQLLocalDB instance and I got this error.
 

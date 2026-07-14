@@ -9,5 +9,6 @@ guid: http://anasismail.com/?p=1233
 permalink: /rust-is-to-iron/
 categories:
   - Links, Quotes
+  - Basically Tweets
 ---
 > what mold is to bread

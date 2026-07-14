@@ -8,5 +8,6 @@ guid: http://anasismail.com/?p=1050
 permalink: /a-ring-system-around-an-asteroid/
 categories:
   - News
+  - Links
 ---
 [Click here..](http://www.wired.com/wiredscience/2014/03/asteroid-ring-system/?mbid=social_twitter)

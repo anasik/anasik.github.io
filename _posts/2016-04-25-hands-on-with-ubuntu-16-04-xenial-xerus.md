@@ -9,6 +9,10 @@ permalink: /hands-on-with-ubuntu-16-04-xenial-xerus/
 categories:
   - Linux/unix
   - Software, Devices, Reviews
+  - Essays
+  - Tech
+  - Reviews
+  - Software
 ---
 Being one of those idiots who started downloading the ISO way before the link was even officially added to the download page, I do have a couple of reasons to regret doing so. I was on a slightly messed up 14.04 that appeared to have deteriorated over time, and I had been considering a reinstall, but had been putting it off because I had decided to wait until after the release of Xenial.
 

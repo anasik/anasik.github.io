@@ -8,6 +8,9 @@ guid: http://anasismail.com/?p=121
 permalink: /windows-rt-and-windows-8-pro/
 categories:
   - Software, Devices, Reviews
+  - Tech
+  - Devices
+  - Software
 tags:
   - difference between win RT and win 8
   - difference between windows RT and windows 8

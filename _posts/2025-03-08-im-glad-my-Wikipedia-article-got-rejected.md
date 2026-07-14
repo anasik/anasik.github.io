@@ -4,7 +4,8 @@ author: Anas Ismail Khan
 layout: post
 permalink: /im-glad-my-wikipedia-article-got-rejected/
 categories:
-  - Interviews
+  - Movies
+  - Personal
 tags: 
   - Wikipedia article draft rejected
   - Sasha Sibley

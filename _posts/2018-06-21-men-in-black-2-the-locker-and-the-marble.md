@@ -7,7 +7,8 @@ layout: post
 guid: http://anasismail.com/?p=3838
 permalink: /men-in-black-2-the-locker-and-the-marble/
 categories:
-  - Uncategorized
+  - Essays
+  - Movies
 ---
 In Men In Black, we see J and K chasing down Edgar The Bug to recover the &#8220;Arquillian Galaxy&#8221; which is a minuscle galaxy inside a glass sphere resembling a marble. As the movie ends, the camera zooms out from J&#8217;s car and keeps zooming out and eventually we zoom out of the earth, the solar system and finally the galaxy which is  revealed to be inside another glass sphere which is then picked up by some giant being and used as a playing marble alongside countless others.
 

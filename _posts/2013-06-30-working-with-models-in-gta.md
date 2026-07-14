@@ -9,6 +9,8 @@ permalink: /working-with-models-in-gta/
 categories:
   - Games
   - GTA
+  - Tech
+  - Tutorials
 ---
 If you visit a site sporting GTA Mods, you&#8217;d see hundreds of Car mods, Player models, e.t.c. most of them containing naught but new models and textures. The question is &#8220;_How to install them?_&#8221; Do we have to erase the existing models, in order to replace them with the new ones? _Yes!_
 

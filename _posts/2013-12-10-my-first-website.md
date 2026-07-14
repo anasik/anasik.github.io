@@ -9,6 +9,7 @@ permalink: /my-first-website/
 categories:
   - Links, Quotes
   - Web and dev
+  - Personal
 ---
 Not much of one. More like the very first attempt where I simply Googled something like &#8220;create a free website&#8221;, and ended up on Jigsy, which was then called &#8216;Viviti.&#8217;  
 [Here](http://anascancer.jigsy.com/), it carries naught but my name. Blame the power outage, for I was intending to add a whole lot of flash content.  

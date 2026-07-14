@@ -10,6 +10,9 @@ permalink: /wordo-the-only-truly-free-dictionary-on-the-web/
 categories:
   - Software, Devices, Reviews
   - Web and dev
+  - Tech
+  - Reviews
+  - Software
 ---
 I am a student, and every now and then I come across a term too complex for me to understand, (or perhaps not too complex but _alien_,) and thus I have to Google things a lot, and half the time its such terms. The results would of course direct me to some other site, and some of them would have stupid lag-gy popups, while others with flashy ads or too Bland an interface.
 

@@ -4,7 +4,8 @@ author: Anas Ismail Khan
 layout: post
 permalink: /why-did-anders-hejlsberg-choose-go-for-typescript-instead-of-csharp-or-rust/
 categories:
-  - Uncategorized
+  - Tech
+  - Quotes
 tags: 
   - Anders Hejlsberg
   - Ryan Cavanaugh

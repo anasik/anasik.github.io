@@ -10,6 +10,8 @@ categories:
   - News
   - Software, Devices, Reviews
   - Windows
+  - Tech
+  - Devices
 ---
 Couple of days back, Microsoft announced the &#8216;coming&#8217; of the new Microsoft Surface 2 and the Surface Pro 2; the former being the successor to Surface RT, while the latter of course succeeds the Surface Pro.
 

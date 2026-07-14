@@ -12,6 +12,7 @@ categories:
   - Linux/unix
   - Software, Devices, Reviews
   - Windows
+  - Tech
 ---
 Two days back, Sony unveiled its Xperia Z1 smartphone, that packs a 2.2Ghz Quad-core processor and a 20.7MP camera, and the same magnificent display, perhaps _that&#8217;s _a little larger too, and that&#8217;s the point. Every now and then, a new phone comes out, and it&#8217;s pretty hard to choose the best among them, as the competition is tough, but what exactly is it that a day-newer smartphone carries? A slightly better processor? perhaps an _extremely high-res _camera? or a water proof display? Or&#8230;Just a larger screen.
 

@@ -8,6 +8,8 @@ guid: http://anasismail.com/?p=440
 permalink: /windows-8-setup-failing-after-reboot-solved/
 categories:
   - Windows
+  - Tech
+  - Tutorials
 ---
 A common problem these days, which I myself have experienced, while installing Windows 8 CP, and PRO on my Dell INSPIRON N5110.
 

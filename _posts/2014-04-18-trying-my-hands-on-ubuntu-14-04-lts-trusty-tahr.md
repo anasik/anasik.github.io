@@ -8,6 +8,9 @@ guid: http://anasismail.com/?p=1072
 permalink: /trying-my-hands-on-ubuntu-14-04-lts-trusty-tahr/
 categories:
   - Linux/unix
+  - Essays
+  - Reviews
+  - Tech
 ---
 After upgrading using the LiveCD image since you can&#8217;t perform a proper upgrade from 13.04 to 14.04 LTS, and using it for like an hour, and installing all the necessities, I decide to do a blog post on what new the LTS has to offer.
 

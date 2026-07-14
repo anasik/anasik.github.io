@@ -9,6 +9,8 @@ permalink: /i-made-a-mips-simulator/
 categories:
   - Software, Devices, Reviews
   - Web and dev
+  - Tech
+  - Software
 ---
 > AKA MIPS &#8211; A Java Based MIPS simulator. [Browse the code on GitHub.](https://github.com/moiz-frost/AKAUI)
 

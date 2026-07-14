@@ -10,6 +10,8 @@ categories:
   - Games
   - GTA
   - Software, Devices, Reviews
+  - Tech
+  - Reviews
 ---
 The mod is one of the best I&#8217;ve ever played and it&#8217;s as convincing as it could be and the best thing about it is that it&#8217;s based on VC, and yet it makes the _impossibles_ of modding-on-vc, _possible. _The Mod, in case you havent figured it out yet is based on the 1985 Super-hit comedy science-fiction Back To the Future Films, that are all about travelling through time and changing the past so as to ensure a better future, or should is say, the _present? _Well, watch the movies (if you havent already); definitely worth watching.
 

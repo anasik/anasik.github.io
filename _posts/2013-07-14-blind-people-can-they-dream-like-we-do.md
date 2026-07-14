@@ -7,7 +7,7 @@ layout: post
 guid: http://anasismail.com/?p=632
 permalink: /blind-people-can-they-dream-like-we-do/
 categories:
-  - Uncategorized
+  - Essays
 ---
 The answer to this totally depends on _how long, since when, _and _to what extent _has the person been blind.
 

@@ -8,6 +8,8 @@ guid: http://anasismail.com/?p=1241
 permalink: /highlight-menu-link-of-the-current-page/
 categories:
   - Web and dev
+  - Tech
+  - Tutorials
 tags:
   - :active
   - Highlight menu link of the current page

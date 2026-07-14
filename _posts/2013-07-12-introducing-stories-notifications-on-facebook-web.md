@@ -9,6 +9,8 @@ permalink: /introducing-stories-notifications-on-facebook-web/
 categories:
   - News
   - Web and dev
+  - Tech
+  - Software
 ---
 The news-feed, a _constantly updating_, &#8220;_feed&#8221; _of _stories _from pages or people you&#8217;ve subscribed to, or those who are part of your friend list.  
 The Mobile App had this _notifier _feature that would inform you of any recent activity, new stories, that have to be displayed on the _news-feed._

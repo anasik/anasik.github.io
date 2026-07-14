@@ -8,7 +8,8 @@ published: false
 guid: http://anasismail.com/?p=105
 permalink: /open-multiple-accounts-using-a-single-pc/
 categories:
-  - Uncategorized
+  - Tech
+  - Tutorials
 tags:
   - how to open multiple accounts using a single pc
   - multiple accounts

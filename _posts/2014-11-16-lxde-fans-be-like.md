@@ -9,5 +9,7 @@ guid: http://anasismail.com/?p=1148
 permalink: /lxde-fans-be-like/
 categories:
   - Linux/unix
+  - Tech
+  - Basically Tweets
 ---
 > &#8220;My life sucked, but then I installed LXDE, and now my computer runs faster than me&#8230;&#8221;

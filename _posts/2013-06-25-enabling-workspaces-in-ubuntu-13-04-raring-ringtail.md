@@ -9,5 +9,7 @@ guid: http://anasismail.com/?p=556
 permalink: /enabling-workspaces-in-ubuntu-13-04-raring-ringtail/
 categories:
   - Linux/unix
+  - Tech
+  - Tutorials
 ---
 System Settings > Appearance > &#8216;Behaviour&#8217; _tab _> _Check _&#8216;Enable Workspaces&#8217;

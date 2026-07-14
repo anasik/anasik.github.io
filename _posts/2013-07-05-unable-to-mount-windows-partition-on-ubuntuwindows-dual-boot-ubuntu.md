@@ -8,6 +8,8 @@ guid: http://anasismail.com/?p=590
 permalink: /unable-to-mount-windows-partition-on-ubuntuwindows-dual-boot-ubuntu/
 categories:
   - Linux/unix
+  - Tech
+  - Tutorials
 ---
 Another known issue, no biggie. What happens is that when the person tries to mount a windows partition on Ubuntu, they get this huge error saying that &#8220;_the metadata kept in Windows cache refused to mount&#8230;&#8221; &#8220;the partition is in an unsafe state&#8221;  &#8220;not permitted&#8221; e.t.c._
 

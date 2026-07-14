@@ -7,6 +7,7 @@ date: 2025-04-14T21:28:44+00:00
 categories:
   - Movie Reviews
   - Interviews
+  - Movies
 tags: 
   - Interview
   - The Box 2021

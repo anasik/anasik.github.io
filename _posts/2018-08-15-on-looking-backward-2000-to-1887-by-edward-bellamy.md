@@ -8,6 +8,7 @@ guid: http://anasismail.com/?p=3875
 permalink: /on-looking-backward-2000-to-1887-by-edward-bellamy/
 categories:
   - Essays
+  - Books
 ---
 A couple of weeks ago, I posted about &#8220;The Sleeper Awakes.&#8221; At some point in that book, Graham (the protagonist) compares his situation to that described by Bellamy; and earlier in the book, when he is sound asleep and has only been asleep for a few decades at most, we see his friends talking about the same thing. Curious as I was upon reading that name I chose to google it. <del>(I don&#8217;t quite remember exactly what I googled but it was probably something like &#8220;Bellamy Socialist Utopia Sleeper.&#8221;)</del> I found out that there was a book by an Edward Bellamy called &#8220;Looking Backward: 2000 to 1887&#8221; in which a man sleeps for somewhere slightly above a century and, you guessed it, wakes up in a world vastly different from the one he slept in. I downloaded that book right away and made a mental note to read it after finishing &#8220;The Sleeper Awakes.&#8221;
 

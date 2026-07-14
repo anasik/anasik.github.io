@@ -10,6 +10,8 @@ categories:
   - Linux/unix
   - News
   - Software, Devices, Reviews
+  - Tech
+  - Devices
 ---
 The Ubuntu Edge is an upcoming _state-of-the-art _smartphone, more-like, just a project for now, that would feature the fastest multi-core processor they can get their hands on, 4GB of RAM, and 128GB of internal storage, and LTE antennae on either side.
 

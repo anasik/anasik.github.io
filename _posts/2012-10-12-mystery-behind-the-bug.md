@@ -8,7 +8,7 @@ published: false
 guid: http://anasismail.com/?p=3
 permalink: /mystery-behind-the-bug/
 categories:
-  - Uncategorized
+  - Tech
 ---
 In 1947, Grace Murray Hopper was working on the Harvard University Mark II Aiken Relay Calculator (a primitive computer).
 

@@ -9,5 +9,7 @@ guid: http://anasismail.com/?p=3299
 permalink: /what-are-sum-product-and-pi-types/
 categories:
   - Links, Quotes
+  - Links
+  - Tech
 ---
 [Click me!](http://manishearth.github.io/blog/2017/03/04/what-are-sum-product-and-pi-types/)

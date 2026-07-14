@@ -8,6 +8,9 @@ guid: http://anasismail.com/?p=1238
 permalink: /the-swagway-and-clones-hoverboards-suck/
 categories:
   - Essays
+  - Tech
+  - Devices
+  - Reviews
 ---
 Am I honestly the only one who thinks that?  
 Reasons:

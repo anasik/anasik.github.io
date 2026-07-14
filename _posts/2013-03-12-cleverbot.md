@@ -9,5 +9,8 @@ guid: http://anasismail.com/?p=293
 permalink: /cleverbot/
 categories:
   - Software, Devices, Reviews
+  - Tech
+  - Software
+  - Links
 ---
 [Chat with a CleverBot with Artificial Intelligence. ](http://cleverbot.com)

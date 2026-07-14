@@ -9,5 +9,6 @@ guid: http://anasismail.com/?p=2241
 permalink: /good-judgement-comes-from-experience/
 categories:
   - Links, Quotes
+  - Quotes
 ---
 > which comes from bad judgement.

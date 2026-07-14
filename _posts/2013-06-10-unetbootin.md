@@ -9,6 +9,8 @@ permalink: /unetbootin/
 categories:
   - Linux/unix
   - Software, Devices, Reviews
+  - Tech
+  - Software
 ---
 [UNetbootin](http://unetbootin.sourceforge.net/) is a tool, available on all 3 platforms i.e. Linux, MacOSX and Windows, that allows you to create Bootable Live USB drives, or you if you are short of USB flash-drives, you can go for the _frugal-install on the hard-disk. _
 

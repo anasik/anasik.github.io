@@ -9,6 +9,10 @@ permalink: /contextmenus-js/
 categories:
   - Software, Devices, Reviews
   - Web and dev
+  - Tech
+  - Software
+  - News
+  - Personal
 ---
 > Purely Javascript based solution allowing for easy creation of right-click context menus. [Browse the code on GitHub.](https://github.com/anasik/contextmenus.js) [Demo](http://anasismail.com/others/contextmenu)
 

@@ -9,6 +9,8 @@ permalink: /die-verwandlung/
 categories:
   - Essays
   - Software, Devices, Reviews
+  - Books
+  - Reviews
 ---
 I just finished reading Franz Kafka&#8217;s _&#8220;Die Verwandlung,&#8221;_ translated into _&#8220;The Metamorphosis&#8221;_ by Stanley Corngold. Before I even started reading it, I&#8217;d told my classmate about how it seemed like a weird one &#8212; something I&#8217;d deduced from its synopsis &#8212; and he&#8217;d responded with &#8220;Franz Kafka&#8217;s works tend to be.&#8221;
 

@@ -8,6 +8,8 @@ guid: http://anasismail.com/?p=77
 permalink: /moving-the-sidebar-form-right-to-left-in-the-2011-wordpress-theme/
 categories:
   - Web and dev
+  - Tutorials
+  - Tech
 tags:
   - Moving The sidebar from right to left in the 2011 wordpress theme
 ---

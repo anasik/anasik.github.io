@@ -8,8 +8,10 @@ guid: http://anasismail.com/?p=1211
 permalink: /using-two-routers-to-extend-a-network-part-2/
 categories:
   - Software, Devices, Reviews
-  - Uncategorized
   - Web and dev
+  - Tech
+  - Tutorials
+  - Devices
 ---
 > **The goal:** Create two separate networks, each with its own router. Both routers will have different security and SSID, while the WAN settings of A are configured to connect to the internet while B, being a subnetwork of the first, will connect to the internet through it.
 

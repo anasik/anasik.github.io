@@ -10,6 +10,7 @@ categories:
   - Essays
   - Software, Devices, Reviews
   - Web and dev
+  - Tech
 ---
 If you don&#8217;t know what this is about, you should first go and [check it out.](https://blog.toggl.com/build-horse-programming/)
 

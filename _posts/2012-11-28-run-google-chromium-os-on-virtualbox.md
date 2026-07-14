@@ -8,6 +8,8 @@ guid: http://anasismail.com/?p=143
 permalink: /run-google-chromium-os-on-virtualbox/
 categories:
   - Linux/unix
+  - Tutorials
+  - Tech
 ---
 Chromium OS is an open-source, linux-based operating system, designed by google to work with web based applications. Its quite a simple one really, and not the sort everyone would like, in fact, the only application it comes with is a browser (though of course you can install more apps.)
 

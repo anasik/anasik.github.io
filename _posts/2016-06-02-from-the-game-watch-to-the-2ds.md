@@ -10,4 +10,6 @@ published: false
 categories:
   - Links, Quotes
   - Software, Devices, Reviews
+  - Tech
+  - Devices
 ---

@@ -10,5 +10,6 @@ permalink: /selena-gomez-irritated-curses-and-gets-off-the-stage/
 categories:
   - Links, Quotes
   - News
+  - Links
 ---
 [Right here..](http://omg.yahoo.com/news/selena-gomez-curses-during-jingle-ball-2013-performance-224000359-us-weekly.html)

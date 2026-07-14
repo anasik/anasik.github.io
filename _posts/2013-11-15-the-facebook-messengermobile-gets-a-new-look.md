@@ -7,7 +7,9 @@ layout: post
 guid: http://anasismail.com/?p=790
 permalink: /the-facebook-messengermobile-gets-a-new-look/
 categories:
-  - Uncategorized
+  - Tech
+  - News
+  - Software
 ---
 Yesterday, when going through a list of updates that had to be installed, I noticed that the icon of the messenger had changed into a round-er, and light colored one, rather like the new icons in iOS7, this:
 

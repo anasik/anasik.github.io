@@ -8,6 +8,8 @@ guid: http://anasismail.com/?p=584
 permalink: /installing-wine-messed-up-fonts-ubuntu/
 categories:
   - Linux/unix
+  - Tech
+  - Tutorials
 ---
 A known problem that _I myself experienced_, when I logged into Facebook, after rebooting to complete the installation of WINE. A tool that aims at _enabling windows programs to run on other platforms_.
 

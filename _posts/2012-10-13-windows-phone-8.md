@@ -9,6 +9,9 @@ guid: http://anasismail.com/?p=40
 permalink: /windows-phone-8/
 categories:
   - Software, Devices, Reviews
+  - Tech
+  - Devices
+  - News
 tags:
   - lumia
   - nokia lumia

@@ -16,6 +16,8 @@ enclosure:
 categories:
   - Linux/unix
   - News
+  - Tech
+  - Basically Tweets
 ---
 A topic quite debatable, as to whether it is pronounced as &#8220;lie-nucks&#8221;, or as &#8220;lee-nucks.&#8221;
 

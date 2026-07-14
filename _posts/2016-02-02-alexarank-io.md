@@ -10,6 +10,10 @@ categories:
   - Essays
   - Links, Quotes
   - Web and dev
+  - Tech
+  - News
+  - Personal
+  - Software
 ---
 On January 3rd, I launched a tool, that&#8217;s hosted at; yep, that&#8217;s right. You guessed it: [alexarank.io](http://alexarank.io). What the tool does, is pretty simple. It tracks the global Alexa ranks for domains, and shows the change over time in a chart. It&#8217;s not exactly tracking every damn domain on the web, but nothing prevents it from doing so. Except that _someone,_ and I mean _anyone who cares enough_, has to submit the domain once, and that very instant, the tool would start tracking the domain.
 

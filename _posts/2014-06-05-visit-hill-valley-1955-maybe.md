@@ -8,6 +8,7 @@ guid: http://anasismail.com/?p=1118
 permalink: /visit-hill-valley-1955-maybe/
 categories:
   - News
+  - Movies
 ---
 Yes, the town from the Back to The Future movies, it&#8217;s being recreated, London, for an upcoming &#8216;screening&#8217;. Available from 24th July &#8211; 10th August, being done by some _&#8216;Secret Cinema&#8217; _which is known for constructing such environments.. This is all being done probably as a tribute to the super-hit trilogy, as it&#8217;s almost 2015.
 

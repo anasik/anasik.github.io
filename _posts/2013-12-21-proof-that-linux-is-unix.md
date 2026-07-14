@@ -9,7 +9,8 @@ guid: http://anasismail.com/?p=916
 permalink: /proof-that-linux-is-unix/
 categories:
   - Linux/unix
-  - Uncategorized
+  - Tech
+  - Basically Tweets
 ---
 Try [creating a new account via terminal](http://anasismail.com/creating-user-accounts-via-terminal-ubuntu/) on Ubuntu and see what it prompts you with&#8230;
 

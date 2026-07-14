@@ -9,5 +9,6 @@ guid: http://anasismail.com/?p=2245
 permalink: /stupid-to-kill-someone/
 categories:
   - Links, Quotes
+  - Quotes
 ---
 > if you have a motive. -Jason Statham (The Mechanic)

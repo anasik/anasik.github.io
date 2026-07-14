@@ -8,6 +8,8 @@ guid: http://anasismail.com/?p=3657
 permalink: /complimenting-complements/
 categories:
   - Essays
+  - Tech
+  - Tutorials
 ---
 > This post assumes familiarity with &#8220;_Two&#8217;s Complement&#8221;, &#8220;One&#8217;s Complement&#8221; _ and an understanding of &#8220;Positional Numeral Systems&#8221;.
 

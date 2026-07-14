@@ -9,5 +9,6 @@ permalink: /as-long-as-we-can-tell-the-pretty-from-the-not-so-pretty/
 published: false
 categories:
   - Links, Quotes
+  - Basically Tweets
 ---
 > we&#8217;re all perverts.

@@ -8,7 +8,8 @@ guid: http://anasismail.com/?p=1126
 permalink: /ubuntu-12-04-precise-pangolin/
 categories:
   - Linux/unix
-  - Uncategorized
   - Windows
+  - Tech
+  - Basically Tweets
 ---
 is to Ubuntu, what XP is to Windows.

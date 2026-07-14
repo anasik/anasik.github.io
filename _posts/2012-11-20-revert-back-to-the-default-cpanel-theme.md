@@ -8,6 +8,8 @@ guid: http://anasismail.com/?p=119
 permalink: /revert-back-to-the-default-cpanel-theme/
 categories:
   - Web and dev
+  - Tutorials
+  - Tech
 tags:
   - revert from rvskin to the default cpanel theme
   - revert from rvskin to x3

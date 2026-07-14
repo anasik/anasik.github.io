@@ -9,6 +9,8 @@ permalink: /whats-new-in-ubuntu-13-04-raring-ringtail/
 categories:
   - Linux/unix
   - Software, Devices, Reviews
+  - Tech
+  - Reviews
 ---
 Raring Ringtail is a short term release, which would be supported for 9 months, successor to Ubuntu 12.10 Quantam Quetzal.
 

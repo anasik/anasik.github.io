@@ -10,6 +10,9 @@ categories:
   - Linux/unix
   - Software, Devices, Reviews
   - Windows
+  - Tech
+  - Software
+  - Tutorials
 ---
 Linux and Windows, two of the most widely used OS&#8217;, and _&#8216;which one is better&#8217;_ is _highly debatable_. Now both have their own pros and cons, and well, _experience _can be a bit _different _and _frustrating_, when switching from one to the other.
 

@@ -7,6 +7,9 @@ layout: post
 guid: http://anasismail.com/?p=1023
 permalink: /sonys-micro-usb-flash-drive/
 categories:
-  - Uncategorized
+  - Links
+  - Tech
+  - Devices
+  - News
 ---
 [Click me](http://blog.sony.com/press/sonys-new-usb-flash-drive-delivers-2-in-1-functionality-for-smartphone-and-tablets-users/ "Right this way...")

@@ -9,6 +9,9 @@ guid: http://anasismail.com/?p=52
 permalink: /android-or-windows-phone-7/
 categories:
   - Software, Devices, Reviews
+  - Tech
+  - Devices
+  - Basically Tweets
 tags:
   - Android
   - android versus windows phone

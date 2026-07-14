@@ -8,8 +8,10 @@ guid: http://anasismail.com/?p=1198
 permalink: /using-two-routers-to-extend-a-network-part-1/
 categories:
   - Software, Devices, Reviews
-  - Uncategorized
   - Web and dev
+  - Tech
+  - Tutorials
+  - Devices
 ---
 Umm, yeah, so let&#8217;s get to it. What was the first interpretation? oh that&#8217;s right, Router B to act as a wireless access point for A.
 

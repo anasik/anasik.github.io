@@ -9,6 +9,8 @@ permalink: /collection/
 categories:
   - Linux/unix
   - Windows
+  - Tech
+  - Basically Tweets
 format: image
 ---
 I&#8217;ve got this _&#8216;hobby&#8217; _of collecting Operating Systems&#8217; images; _mind _only stable or lost ones.

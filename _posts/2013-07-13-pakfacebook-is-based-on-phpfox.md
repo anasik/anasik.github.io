@@ -9,8 +9,9 @@ guid: http://anasismail.com/?p=619
 permalink: /pakfacebook-is-based-on-phpfox/
 categories:
   - Software, Devices, Reviews
-  - Uncategorized
   - Web and dev
+  - Tech
+  - Software
 ---
 [PakFacebook](http://pakfacebook.com) is a social network, that was launched as an _alternative _right after Facebook was banned for the first time in Pakistan, that did kinda resemble the real facebook, in both i.e. the _visuals, _and the _functionality. _
 

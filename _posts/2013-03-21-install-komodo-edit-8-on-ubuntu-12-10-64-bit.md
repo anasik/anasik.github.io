@@ -8,6 +8,9 @@ guid: http://anasismail.com/?p=368
 permalink: /install-komodo-edit-8-on-ubuntu-12-10-64-bit/
 categories:
   - Linux/unix
+  - Tech
+  - Tutorials
+  - Software
 ---
 Komodo edit is a code editor and an alternative to notepad++, in fact, its even better, and runs in all 3 i.e. Linux, Mac and Windows. Installing it in linux can be a bit tricky for newbies, so here&#8217;s what you need to do.
 

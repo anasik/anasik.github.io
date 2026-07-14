@@ -11,6 +11,7 @@ categories:
   - News
   - Software, Devices, Reviews
   - Web and dev
+  - Tech
 ---
 Bitcoin, the online currency, P2P money, which was first introduced in the year 2009, and the idea behind it was to introduce a currency, unniversal, for e-commerce, perhaps the first of it&#8217;s kind. Users create account and get _wallets, _where they store their money, and some form of these wallets can also be downloaded to your computer and mobile devices.
 

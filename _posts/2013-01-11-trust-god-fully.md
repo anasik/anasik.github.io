@@ -8,7 +8,7 @@ guid: http://anasismail.com/?p=223
 published: false
 permalink: /trust-god-fully/
 categories:
-  - Uncategorized
+  - Basically Tweets
 ---
 When god leads you to the edge of difficulty, Trust him fully.
 

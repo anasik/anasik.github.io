@@ -8,6 +8,8 @@ guid: http://anasismail.com/?p=587
 permalink: /macbuntu-messed-up-the-global-menu-ubuntu/
 categories:
   - Linux/unix
+  - Tech
+  - Tutorials
 ---
 Ubuntu&#8217;s Unity interface greatly resembles that of MacOSX, and that includes _T__he Global menu_, AKA _The Mac Menu, _which shows the _Application menu(File, View, Edit, e.t.c.) _ in the _top bar. _  
 __

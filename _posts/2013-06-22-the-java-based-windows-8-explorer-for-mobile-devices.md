@@ -8,6 +8,9 @@ guid: http://anasismail.com/?p=551
 permalink: /the-java-based-windows-8-explorer-for-mobile-devices/
 categories:
   - Software, Devices, Reviews
+  - Tech
+  - Software
+  - Reviews
 ---
 The **&#8220;[Windows 8 Mobile &#8211; Java Explorer](http://nokia-2730-classic.java-mobiles.net/software/windows-8-explorer-blue-ftp-download-free-214993.html)&#8221; **is a really advanced file explorer for _classic mobile devices, _that don&#8217;t exactly support _advanced computing _(dear me, im not sure whether or not this was the right term.) Such devices include all Nokia OS(s40), Symbian phones (at least nokia&#8217;s) and every other device that supports Java Apps.
 

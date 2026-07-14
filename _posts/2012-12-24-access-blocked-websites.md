@@ -8,6 +8,9 @@ guid: http://anasismail.com/?p=188
 permalink: /access-blocked-websites/
 categories:
   - Web and dev
+  - Tutorials
+  - Tech
+  - Software
 ---
 Often you might have come across websites that have been blocked by your ISP, an example is youtube, which is blocked in Pakistan. To access such websites, you can use a proxy server. There are dozens of sites offering free web proxy; ONLINE. The most popular one is [12345proxy.net](http://12345proxy.net), though in my opinion, the best one is [Umer Rock&#8217;s Pro](http://www.bestproxysite.appspot.com/)[xy Server](http://www.bestproxysite.appspot.com/).
 

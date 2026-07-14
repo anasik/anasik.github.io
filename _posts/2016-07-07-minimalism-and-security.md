@@ -9,6 +9,7 @@ permalink: /minimalism-and-security/
 categories:
   - Essays
   - Software, Devices, Reviews
+  - Tech
 ---
 Minimalism helps. It always does. It&#8217;s clean, cool, beautiful and relaxing. Oh and it allows for security in software. Every single element in an application, every single feature, every program in an operating system could open doors for attackers to get in through.
 

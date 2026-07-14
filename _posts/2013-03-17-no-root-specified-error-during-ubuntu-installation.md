@@ -8,6 +8,8 @@ guid: http://anasismail.com/?p=312
 permalink: /no-root-specified-error-during-ubuntu-installation/
 categories:
   - Linux/unix
+  - Tech
+  - Tutorials
 ---
 While installing ubuntu 12.10, when i got to the partition-ing part, i kept on receiving an error saying something like &#8220;no root file system is defined.&#8221; After countless attempts, i figured out  a solution to this.
 

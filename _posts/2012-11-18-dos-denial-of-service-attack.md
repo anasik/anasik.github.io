@@ -8,6 +8,7 @@ guid: http://anasismail.com/?p=125
 permalink: /dos-denial-of-service-attack/
 categories:
   - Web and dev
+  - Tech
 ---
 A DOS — stands for denial of service — attack is an attempt to make a machine or network resource unavailable to its intended users. One common method of doing so is saturating/overloading the machine with external communications requests, such that it cannot respond does slowly. Such attacks usually lead to a server overload.
 

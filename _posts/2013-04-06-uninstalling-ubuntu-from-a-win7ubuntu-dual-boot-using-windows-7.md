@@ -9,6 +9,8 @@ permalink: /uninstalling-ubuntu-from-a-win7ubuntu-dual-boot-using-windows-7/
 categories:
   - Linux/unix
   - Windows
+  - Tech
+  - Tutorials
 ---
 Ubuntu, based on Linux  though is free and open-source, not everyone would be satisfied with it, as an average user would get pissed off in a week, because there arent many of the desired apps available for Ubuntu  and those that are, people get a hard time installing them. I haven&#8217;t got anything against Ubuntu, and I&#8217;m not asking anyone to stop using it, but those that regret installing it in the first place, here&#8217;s how you can uninstall it.
 

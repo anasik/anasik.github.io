@@ -8,6 +8,8 @@ guid: http://anasismail.com/?p=174
 permalink: /chrome-web-developer-extension/
 categories:
   - Google
+  - Tech
+  - Software
 ---
 With this handy [Web Dev Extension](https://chrome.google.com/webstore/detail/web-developer/bfbameneiokkgbdmiekhjnmfkcnldhhm?hl=en) extension, you can totally strip down websites, and modify them. Such modifications include:
 

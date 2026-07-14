@@ -9,5 +9,6 @@ guid: http://anasismail.com/?p=1112
 permalink: /the-most-amazing-idea-has-hit-me/
 categories:
   - Links, Quotes
+  - Basically Tweets
 ---
 but first, I need to be the CEO of Microsoft.

@@ -12,6 +12,7 @@ categories:
   - News
   - Software, Devices, Reviews
   - Web and dev
+  - Tech
 ---
 Google, that started as a search engine that gained global popularity, and parallel to searching, the only thing it offered was a home page light-enough for you to test your internet connection, but that doesn&#8217;t at all mean that it wasn&#8217;t awesome enough them. A whole lot of people owe their success to it, as it helped numerous youngsters with their homework and school projects, and thus if they are successful now, Google might have contributed a whole lot into their success. According to it&#8217;s wiki article, Google started in 1998, but it has now come a long way from being just a search engine.
 

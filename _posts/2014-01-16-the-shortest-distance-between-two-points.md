@@ -7,6 +7,6 @@ layout: post
 guid: http://anasismail.com/?p=997
 permalink: /the-shortest-distance-between-two-points/
 categories:
-  - Uncategorized
+  - Basically Tweets
 ---
 _Will always be a straight line_

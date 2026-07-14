@@ -10,6 +10,7 @@ categories:
   - Linux/unix
   - News
   - Windows
+  - Tech
 ---
 Windows XP, successor to 98, was a huge leap for MS, and well perhaps the most stable version of Windows ever in its time, the first release of which was launched in 2000, is still widely used. Whether it _should _still be used or not, is highly debatable. Some loyal supporters would argue with the fact that it&#8217;s about 3 versions old and yet extremely stable and supports everything, while others who have (or at least claim to) have looked into the issue state that, it&#8217;s no longer secure, and that it has compatibility issues and all.
 

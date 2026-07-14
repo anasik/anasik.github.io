@@ -8,6 +8,8 @@ guid: http://anasismail.com/?p=857
 permalink: /what-id-love-to-see-happen/
 categories:
   - Google
+  - Tech
+  - Basically Tweets
 ---
 Chromium OS, and Android, both are light-weight, open-source OSs developed by Google, improving and getting popular, _gradually, _over time.
 

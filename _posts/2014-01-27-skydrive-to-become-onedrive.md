@@ -8,6 +8,8 @@ published: false
 guid: http://anasismail.com/?p=1004
 permalink: /skydrive-to-become-onedrive/
 categories:
-  - Uncategorized
+  - Links
+  - Tech
+  - News
 ---
 [preview.onedrive.com](https://preview.onedrive.com/)

@@ -9,6 +9,7 @@ guid: http://anasismail.com/?p=882
 permalink: /volatile-and-non-volatile/
 categories:
   - Software, Devices, Reviews
+  - Tech
 ---
 RAM is volatile, while ROM is not..  
 Is that too hard to remember?

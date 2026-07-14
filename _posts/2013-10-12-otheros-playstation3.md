@@ -9,6 +9,7 @@ permalink: /otheros-playstation3/
 categories:
   - Linux/unix
   - Software, Devices, Reviews
+  - Tech
 ---
 OtherOS was a feature in the Playstation 3, which was later discontinued and made unavailable throught a firmware update, that allowed one to install a custom operating system i.e. Unix or Linux like OSs. The reason for its discontinuation was perhaps the _flexibility_ of  running OtherOSs and perhaps it challenged the reputation of their own OS.
 

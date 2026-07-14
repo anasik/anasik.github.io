@@ -10,5 +10,7 @@ categories:
   - Google
   - Linux/unix
   - Software, Devices, Reviews
+  - Tech
+  - Tutorials
 ---
 Dunno about the older versions, guess you have no choice but to download some app that provides this feature, but since 4.0, android comes with a built-in screenshot taking utility, and all you need to do is press and hold the power + volume down button.

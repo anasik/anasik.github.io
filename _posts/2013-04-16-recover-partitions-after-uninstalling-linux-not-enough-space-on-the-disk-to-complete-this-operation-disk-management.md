@@ -9,6 +9,7 @@ permalink: /recover-partitions-after-uninstalling-linux-not-enough-space-on-the-
 categories:
   - Linux/unix
   - Windows
+  - Tech
 ---
 Often users face this problem, after uninstalling Linux, and re-partitioning the _un-allocated space. _What actually happens is that they keep on getting stupid errors saying &#8220;Not enough space on the disk to complete this operation,&#8221; whenever they try to create new partitions using the Disk Management tool in Windows.
 

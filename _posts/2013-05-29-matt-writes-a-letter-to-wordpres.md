@@ -11,5 +11,7 @@ categories:
   - News
   - Software, Devices, Reviews
   - Web and dev
+  - Tech
+  - Links
 ---
 [Take a Look](http://ma.tt/2013/05/dear-wordpress/ "View Matts letter to WordPress")

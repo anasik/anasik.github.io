@@ -10,5 +10,8 @@ categories:
   - Links, Quotes
   - Software, Devices, Reviews
   - Web and dev
+  - Tech
+  - Links
+  - Software
 ---
 [Breach Browser](http://breach.cc)

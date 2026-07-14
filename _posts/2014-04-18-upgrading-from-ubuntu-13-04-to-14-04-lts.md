@@ -7,7 +7,8 @@ layout: post
 guid: http://anasismail.com/?p=1069
 permalink: /upgrading-from-ubuntu-13-04-to-14-04-lts/
 categories:
-  - Uncategorized
+  - Tutorials
+  - Tech
 ---
 Those of you who didn&#8217;t bother to upgrade to 13.10 might be having trouble upgrading to the latest LTS&#8230; Yes you can not perform an &#8220;__u___pg___rade__&#8221; but the word merely refers to the process where you upgrade using the updater tool just like you would update chrome or any other app while continuing to use the computer generally.  
 It doesn&#8217;t at all mean that if you are willing to save your files and settings, you have to upgrade first to 13.10 and then to 14.04. No.. despite how ridiculous it may sound, some did consider doing so.  

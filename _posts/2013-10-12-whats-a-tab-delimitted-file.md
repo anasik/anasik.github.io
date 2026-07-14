@@ -8,6 +8,7 @@ guid: http://anasismail.com/?p=754
 permalink: /whats-a-tab-delimitted-file/
 categories:
   - Software, Devices, Reviews
+  - Tech
 ---
 If you&#8217;ve ever tried building on the Cleverscript, or if you&#8217;ve ever played around with Spreadsheets, you might have come across the terms &#8220;Tab-delimited-file&#8221; or &#8220;comma separated values,&#8221; and few often wonder what the terms really mean.
 

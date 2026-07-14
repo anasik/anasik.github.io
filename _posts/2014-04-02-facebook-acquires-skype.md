@@ -8,6 +8,7 @@ published: false
 guid: http://anasismail.com/?p=1060
 permalink: /facebook-acquires-skype/
 categories:
-  - Uncategorized
+  - News
+  - Tech
 ---
 For 1.8billion USD.. what are they gonna buy next? The transaction is to be made sometime during the month of May.. exact date hasn&#8217;t yet been decided upon &#8230;

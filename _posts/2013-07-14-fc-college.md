@@ -8,6 +8,6 @@ published: false
 guid: http://anasismail.com/?p=626
 permalink: /fc-college/
 categories:
-  - Uncategorized
+  - Basically Tweets
 ---
 Despite its name, FC college has nothing to do with &#8220;_football clubs.&#8221; _It simply stands for _Forman Christian._

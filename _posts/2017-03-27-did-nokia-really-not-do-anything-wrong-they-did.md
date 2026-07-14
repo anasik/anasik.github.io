@@ -9,6 +9,9 @@ permalink: /did-nokia-really-not-do-anything-wrong-they-did/
 categories:
   - Essays
   - Software, Devices, Reviews
+  - Tech
+  - Devices
+  - Software
 ---
 > &#8220;We didn&#8217;t do anything wrong but somehow we still lost.&#8221;
 

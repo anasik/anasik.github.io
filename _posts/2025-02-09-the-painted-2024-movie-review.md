@@ -5,6 +5,8 @@ layout: post
 permalink: /the-painted-2024-movie-review/
 categories:
   - Movie Reviews
+  - Movies
+  - Reviews
 tags: 
   - Movie Review
   - The Painted

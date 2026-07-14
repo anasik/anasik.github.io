@@ -8,6 +8,6 @@ published: false
 guid: http://anasismail.com/?p=1020
 permalink: /the-one-thing-i-do-when-i-dont-have-anything-to-do/
 categories:
-  - Uncategorized
+  - Basically Tweets
 ---
 > Nothing..

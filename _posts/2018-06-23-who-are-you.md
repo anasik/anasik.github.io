@@ -7,7 +7,6 @@ layout: post
 guid: http://anasismail.com/?p=3847
 permalink: /who-are-you/
 categories:
-  - Essays
   - Poetry
 ---
 > You&#8217;re not your face  

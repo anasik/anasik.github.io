@@ -8,6 +8,8 @@ guid: http://anasismail.com/?p=111
 permalink: /download-stuff-using-torrents/
 categories:
   - Software, Devices, Reviews
+  - Tutorials
+  - Tech
 ---
 Ever wondered How people download large Movies and games?  
 The answer is quite simple,  

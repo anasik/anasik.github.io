@@ -4,7 +4,9 @@ author: Anas Ismail Khan
 layout: post
 permalink: /oops-i-did-it-again/    
 categories:
-  - Uncategorized
+  - Tech
+  - Software
+  - Personal
 tags: 
   - Open Source
   - Microsoft

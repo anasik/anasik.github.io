@@ -8,6 +8,8 @@ published: false
 guid: http://anasismail.com/?p=171
 permalink: /ymail-updated/
 categories:
-  - Uncategorized
+  - News
+  - Tech
+  - Software
 ---
 The yahoo mail theme has been updated. This one is based on the METRO lines.

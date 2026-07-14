@@ -8,7 +8,8 @@ published: false
 guid: http://anasismail.com/?p=1018
 permalink: /mohammad-ramadan/
 categories:
-  - Uncategorized
+  - Tech
+  - News
 ---
 The guy who noticed a _bug_ In the FB android app and the messenger.&nbsp;  
 What he noticed was that the pictures were being sent over the http protocol, and not https.  

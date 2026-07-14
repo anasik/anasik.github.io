@@ -10,5 +10,8 @@ permalink: /chrome-apps-launched-for-android/
 categories:
   - Google
   - Linux/unix
+  - Tech
+  - News
+  - Links
 ---
 [This Wednesday Google launched a Mac version of the Chrome Apps launcher.](http://news.cnet.com/8301-1001_3-57615339-92/chrome-apps-mosey-on-over-to-macs/)

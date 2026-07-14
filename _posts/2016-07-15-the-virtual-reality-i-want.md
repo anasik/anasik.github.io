@@ -9,6 +9,8 @@ permalink: /the-virtual-reality-i-want/
 categories:
   - Essays
   - Software, Devices, Reviews
+  - Tech
+  - Devices
 ---
 There&#8217;s something of a silent war going on around us at this time, and it has been going on for quite a while. I know that I wrote &#8220;Virtual Reality&#8221; in the title, but that&#8217;s merely due to the fact that it&#8217;s the generally preferred term for all of those projects out there making headsets and goggles, but otherwise this post does cover my ideas about its _brothers _that go by the names _&#8220;Mixed Reality&#8221;_ and _&#8220;Augmented Reality.&#8221;_
 

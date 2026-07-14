@@ -9,6 +9,6 @@ guid: http://anasismail.com/?p=1191
 permalink: /when-doing-whats-right-is-wrong/
 categories:
   - Links, Quotes
-  - Uncategorized
+  - Basically Tweets
 ---
 > We&#8217;re all pirates

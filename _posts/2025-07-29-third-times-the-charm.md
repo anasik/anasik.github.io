@@ -4,7 +4,9 @@ author: Anas Ismail Khan
 layout: post
 permalink: /third-times-the-charm/    
 categories:
-  - Uncategorized
+  - Tech
+  - Software
+  - Personal
 tags: 
   - Open Source
   - Microsoft

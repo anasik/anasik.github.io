@@ -9,5 +9,6 @@ guid: http://anasismail.com/?p=2853
 permalink: /if-you-pretend-to-love-my-shitty-startup/
 categories:
   - Links, Quotes
+  - Basically Tweets
 ---
 > I&#8217;ll pretend to love your shitty startup.

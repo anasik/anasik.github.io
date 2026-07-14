@@ -8,6 +8,8 @@ guid: http://anasismail.com/?p=1124
 permalink: /explaining-the-debian-family-distros-like-a-boss/
 categories:
   - Linux/unix
+  - Basically Tweets
+  - Tech
 ---
 Debian = Lol  
 Ubuntu = Lool  

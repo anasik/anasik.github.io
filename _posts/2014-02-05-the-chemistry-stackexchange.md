@@ -7,6 +7,7 @@ layout: post
 guid: http://anasismail.com/?p=1016
 permalink: /the-chemistry-stackexchange/
 categories:
-  - Uncategorized
+  - Basically Tweets
+  - Tech
 ---
 > Has a breaking bad section..

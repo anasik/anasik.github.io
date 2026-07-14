@@ -6,6 +6,8 @@ layout: post
 permalink: /until-dawn-movie-review/
 categories:
   - Movie Reviews
+  - Movies
+  - Reviews
 tags: 
   - Horror
   - Cinema

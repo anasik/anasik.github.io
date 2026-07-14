@@ -8,6 +8,8 @@ guid: http://anasismail.com/?p=286
 permalink: /romo-the-smartphone-robot/
 categories:
   - Software, Devices, Reviews
+  - Tech
+  - Devices
 ---
 &nbsp;
 

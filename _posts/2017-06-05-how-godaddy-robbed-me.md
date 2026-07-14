@@ -10,6 +10,7 @@ categories:
   - Essays
   - Software, Devices, Reviews
   - Web and dev
+  - Tech
 ---
 > Humble request to all readers: Share this post.
 

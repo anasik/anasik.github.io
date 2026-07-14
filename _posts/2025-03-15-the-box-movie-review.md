@@ -5,6 +5,8 @@ layout: post
 permalink: /the-box-2021-movie-review/
 categories:
   - Movie Reviews
+  - Movies
+  - Reviews
 tags: 
   - Movie Review
   - The box

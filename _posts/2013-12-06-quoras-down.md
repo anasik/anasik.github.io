@@ -8,6 +8,7 @@ published: false
 guid: http://anasismail.com/?p=865
 permalink: /quoras-down/
 categories:
-  - Uncategorized
+  - Tech
+  - News
 ---
 ![](http://farm8.staticflickr.com/7389/11238102733_e8f34f296f_o.png)

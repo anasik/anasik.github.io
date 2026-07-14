@@ -7,7 +7,8 @@ layout: post
 guid: http://anasismail.com/?p=278
 permalink: /fll-national-championship/
 categories:
-  - Uncategorized
+  - Personal
+  - Tech
 ---
 The First Lego League National Championship was held on Saturday 2nd March 2013, at the Lahore University of Management Sciences(LUMS), and everyone was expecting a lot from us, The Aftershocks, and who wouldn&#8217;t, after seeing our performance at the Regional. 😀
 

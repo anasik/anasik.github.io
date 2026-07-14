@@ -7,7 +7,8 @@ layout: post
 guid: http://anasismail.com/?p=217
 permalink: /victory-at-the-fll-robotics-competition/
 categories:
-  - Uncategorized
+  - Personal
+  - Tech
 ---
 Yo, today was our robotics competition, The First Lego League(FLL). Dont ask what FLL is, just google it. The bots were built using the Lego Mindstorms NXT 2.0 kit. In the competition  we were judged on four things: The Robot Design, Robot Game, Core Values, and Project. Core values was all about how well you cooperate with your team members, while in the project, we were supposed to think of a problem faced by out elders, give an **innovative** solution for it, and present it in front of the judges. Our Team, &#8220;The After-Shocks&#8221; was the best in Robot design, and the game. Core Values too went well, however not the best. Project was a complete catastrophe as our solution to blindness (for that was the problem we chose) was nowhere near innovative. But it was the game and the design that we really **rocked **at. All the bots, but ours looked almost exactly the same, ours was the only one somewhere near **innovative**.
 
