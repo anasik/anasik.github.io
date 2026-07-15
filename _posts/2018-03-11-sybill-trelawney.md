@@ -8,6 +8,7 @@ guid: http://anasismail.com/?p=2517
 permalink: /sybill-trelawney/
 categories:
   - Essays
+  - Books
 ---
 Sybill Trelawney, the Divination teacher at Hogwarts, was poorly received by her fellow staff, her students and the fans of her universe for reasons that all translate to &#8220;She was a fraud. She wasn&#8217;t a true seer and therefore not an eligible candidate for the job.&#8221; I however have always had a very different opinion about her. I believe that not only was she not a fraud but also a perfect candidate for the job, not to mention the fact that she did actually possess a gift.
 
