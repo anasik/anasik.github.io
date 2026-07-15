@@ -8,7 +8,6 @@ published: false
 guid: http://anasismail.com/?p=1678
 permalink: /does-your-personality-change-when-you-switch-languages/
 categories:
-  - Links, Quotes
   - Basically Tweets
 ---
 [Lifehack thinks so](http://www.lifehack.org/419220/multilinguals-experience-personality-change-when-using-different-languages?ref=fbp&n=1), and I can&#8217;t help but agree. It&#8217;s something I have always noticed. Sometimes you switch languages while talking simply because you feel that some things are better said in a particular language.Different languages allow us to express ourselves differently.

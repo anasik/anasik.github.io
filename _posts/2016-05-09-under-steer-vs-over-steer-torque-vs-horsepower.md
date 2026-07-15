@@ -8,7 +8,6 @@ published: false
 guid: http://anasismail.com/?p=1272
 permalink: /under-steer-vs-over-steer-torque-vs-horsepower/
 categories:
-  - Links, Quotes
   - Basically Tweets
 ---
 > Under-steer is when you hit the wall with the front of the car.  

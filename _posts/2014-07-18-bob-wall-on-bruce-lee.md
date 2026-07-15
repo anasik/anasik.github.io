@@ -7,7 +7,7 @@ layout: post
 guid: http://anasismail.com/?p=1137
 permalink: /bob-wall-on-bruce-lee/
 categories:
-  - Links, Quotes
   - Quotes
+  - Basically Tweets
 ---
 > Speed like a lightweight, hit like a heavyweight.

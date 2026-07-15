@@ -9,5 +9,6 @@ guid: http://anasismail.com/?p=140
 permalink: '/iphone-%e2%86%92-ipad-%e2%86%92-macbook'
 categories:
   - Links
+  - Basically Tweets
 ---
 Not gonna say much here. [Just check this out.](http://dribbble.com/shots/829412-iPhone-iPad-Macbook?list=popular&offset=61)

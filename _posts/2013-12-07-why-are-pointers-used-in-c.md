@@ -8,8 +8,9 @@ published: false
 guid: http://anasismail.com/?p=870
 permalink: /why-are-pointers-used-in-c/
 categories:
-  - Web and dev
+  - Dev
   - Tech
   - Links
+  - Basically Tweets
 ---
 [Couldn&#8217;t have put it better..](http://www.quora.com/Computer-Science/Why-are-pointers-used-in-C++?srid=iVNs&share=1)

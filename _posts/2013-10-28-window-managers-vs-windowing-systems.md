@@ -9,6 +9,7 @@ permalink: /window-managers-vs-windowing-systems/
 categories:
   - Linux/unix
   - Tech
+  - Essays
 ---
 If you happen to be a Linux user, you might, at the very least be familiar with the Desktop environments: GNOME, KDE, LXDE or XFCE. _Also, _you might have come across the names _OpenBox, X Window System _and _Window Maker, _and perhaps an implementation of more than one of these _together, _e.g. &#8216;Gnome/OpenBOX.&#8217;
 

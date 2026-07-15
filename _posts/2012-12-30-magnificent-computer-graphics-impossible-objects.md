@@ -9,5 +9,6 @@ guid: http://anasismail.com/?p=200
 permalink: /magnificent-computer-graphics-impossible-objects/
 categories:
   - Links
+  - Basically Tweets
 ---
 [Just Check this out!](http://ripzal.net/4846/magnificent_computer_graphics_impossible_objects.html)

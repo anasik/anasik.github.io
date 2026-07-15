@@ -7,8 +7,9 @@ layout: post
 guid: http://anasismail.com/?p=3805
 permalink: /comparing-strings-with-operator-vs-equals-method-java/
 categories:
-  - Web and dev
+  - Dev
   - Tech
+  - Essays
 ---
 During lunch, I was reflecting on that day when my programming teacher asked me to come forward and teach &#8220;bitwise&#8221; operations to the whole class, and I remembered how, in my attempt to explain to them the basic difference between a regular &#8220;OR&#8221; and a bitwise &#8220;OR&#8221;, I had talked about value comparison being different from a bitwise comparison. Then I began to wonder. A bitwise operation on machine level is fairly simple to understand, but what about value comparison? What is it that happens at machine level when you check if two integer values are equal?
 

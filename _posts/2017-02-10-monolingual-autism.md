@@ -8,6 +8,7 @@ guid: http://anasismail.com/?p=3065
 permalink: /monolingual-autism/
 categories:
   - Essays
+  - Juvenile
 ---
 You can google that if you like and realize that it may not really be a real _thing. _It&#8217;s something that I have been observing for a long time and I&#8217;m sure you&#8217;ve seen or felt it at different points in your life.
 

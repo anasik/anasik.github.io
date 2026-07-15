@@ -7,8 +7,7 @@ layout: post
 guid: http://anasismail.com/?p=885
 permalink: /my-first-website/
 categories:
-  - Links, Quotes
-  - Web and dev
+  - Web
   - Personal
 ---
 Not much of one. More like the very first attempt where I simply Googled something like &#8220;create a free website&#8221;, and ended up on Jigsy, which was then called &#8216;Viviti.&#8217;  

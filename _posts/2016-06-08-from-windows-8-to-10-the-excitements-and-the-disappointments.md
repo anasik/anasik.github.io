@@ -8,7 +8,6 @@ guid: http://anasismail.com/?p=1308
 permalink: /from-windows-8-to-10-the-excitements-and-the-disappointments/
 categories:
   - Essays
-  - Software, Devices, Reviews
   - Windows
   - Tech
   - Reviews

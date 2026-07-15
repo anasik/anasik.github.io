@@ -7,7 +7,7 @@ layout: post
 guid: http://anasismail.com/?p=188
 permalink: /access-blocked-websites/
 categories:
-  - Web and dev
+  - Web
   - Tutorials
   - Tech
   - Software

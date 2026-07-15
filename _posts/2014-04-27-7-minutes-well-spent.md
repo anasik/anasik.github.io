@@ -9,5 +9,6 @@ guid: http://anasismail.com/?p=1089
 permalink: /7-minutes-well-spent/
 categories:
   - Links
+  - Basically Tweets
 ---
 [This](http://anasismail.com/others/mozilla.html) is how I passed the time when I unexpectedly got disconnected from the internet.

@@ -8,7 +8,6 @@ guid: http://anasismail.com/?p=725
 permalink: /xbmc-the-xbox-media-center/
 categories:
   - Linux/unix
-  - Software, Devices, Reviews
   - Tech
   - Software
 ---

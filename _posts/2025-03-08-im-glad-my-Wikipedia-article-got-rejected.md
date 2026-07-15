@@ -6,6 +6,7 @@ permalink: /im-glad-my-wikipedia-article-got-rejected/
 categories:
   - Movies
   - Personal
+  - Essays
 tags: 
   - Wikipedia article draft rejected
   - Sasha Sibley

@@ -8,6 +8,7 @@ categories:
   - Movie Reviews
   - Movies
   - Reviews
+  - Essays
 tags: 
   - Horror
   - Cinema

@@ -8,8 +8,7 @@ guid: http://anasismail.com/?p=3566
 permalink: /how-godaddy-robbed-me/
 categories:
   - Essays
-  - Software, Devices, Reviews
-  - Web and dev
+  - Web
   - Tech
 ---
 > Humble request to all readers: Share this post.

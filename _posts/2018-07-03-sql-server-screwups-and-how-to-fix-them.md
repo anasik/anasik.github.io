@@ -7,7 +7,7 @@ layout: post
 guid: http://anasismail.com/?p=3854
 permalink: /sql-server-screwups-and-how-to-fix-them/
 categories:
-  - Web and dev
+  - Dev
   - Windows
   - Tech
   - Tutorials

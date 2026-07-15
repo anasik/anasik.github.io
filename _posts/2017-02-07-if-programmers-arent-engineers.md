@@ -8,7 +8,6 @@ published: false
 guid: http://anasismail.com/?p=2991
 permalink: /if-programmers-arent-engineers/
 categories:
-  - Links, Quotes
   - Basically Tweets
 ---
 > Then neither are bio-engineers.

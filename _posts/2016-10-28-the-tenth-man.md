@@ -7,7 +7,7 @@ layout: post
 guid: http://anasismail.com/the-tenth-man
 permalink: /the-tenth-man/
 categories:
-  - Links, Quotes
   - Quotes
+  - Basically Tweets
 ---
 > When nine people agree on something, it&#8217;s the tenth man&#8217;s responsibility to disagree no matter how improbable the idea.

@@ -7,7 +7,7 @@ layout: post
 guid: http://anasismail.com/?p=2388
 permalink: /the-dilemma-of-programming-languages/
 categories:
-  - Web and dev
+  - Dev
   - Tech
   - Essays
 ---

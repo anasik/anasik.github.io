@@ -8,7 +8,6 @@ guid: http://anasismail.com/?p=1000
 permalink: /chromeos-ported-to-windows-8/
 categories:
   - Google
-  - Software, Devices, Reviews
   - Windows
   - Tech
   - News

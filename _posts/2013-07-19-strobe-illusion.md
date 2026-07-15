@@ -8,8 +8,8 @@ published: false
 guid: http://anasismail.com/?p=661
 permalink: /strobe-illusion/
 categories:
-  - Software, Devices, Reviews
   - Links
+  - Basically Tweets
 ---
 Stare at [this](http://www.neave.com/strobe/) for about 30 seconds, and then look around you.
 

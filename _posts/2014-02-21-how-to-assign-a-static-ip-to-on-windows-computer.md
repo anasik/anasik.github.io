@@ -7,7 +7,6 @@ layout: post
 guid: http://anasismail.com/?p=1034
 permalink: /how-to-assign-a-static-ip-to-on-windows-computer/
 categories:
-  - Web and dev
   - Windows
   - Tech
   - Tutorials

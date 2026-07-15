@@ -9,7 +9,6 @@ permalink: /kaspersky-os/
 categories:
   - Linux/unix
   - News
-  - Software, Devices, Reviews
   - Tech
   - Reviews
   - Software

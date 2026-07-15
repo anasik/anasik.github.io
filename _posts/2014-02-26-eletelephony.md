@@ -9,6 +9,7 @@ permalink: /eletelephony/
 categories:
   - Poetry
   - Quotes
+  - Basically Tweets
 ---
 > Once there was an elephant,  
 > Who tried to use the telephant—  

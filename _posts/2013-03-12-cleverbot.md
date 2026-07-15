@@ -8,9 +8,9 @@ published: false
 guid: http://anasismail.com/?p=293
 permalink: /cleverbot/
 categories:
-  - Software, Devices, Reviews
   - Tech
   - Software
   - Links
+  - Basically Tweets
 ---
 [Chat with a CleverBot with Artificial Intelligence. ](http://cleverbot.com)

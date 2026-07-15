@@ -9,5 +9,6 @@ published: false
 permalink: /necessity/
 categories:
   - Quotes
+  - Basically Tweets
 ---
 The Mother Of Invention

@@ -8,7 +8,6 @@ guid: http://anasismail.com/?p=700
 permalink: /the-moto-xs-specifications/
 categories:
   - Google
-  - Software, Devices, Reviews
   - Tech
   - Devices
 ---

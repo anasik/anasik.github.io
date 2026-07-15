@@ -10,7 +10,6 @@ categories:
   - Google
   - Linux/unix
   - News
-  - Software, Devices, Reviews
   - Windows
   - Tech
   - Devices

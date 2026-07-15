@@ -7,7 +7,6 @@ layout: post
 guid: http://anasismail.com/?p=421
 permalink: /vm-fit-to-screen/
 categories:
-  - Software, Devices, Reviews
   - Tech
   - Tutorials
   - Software

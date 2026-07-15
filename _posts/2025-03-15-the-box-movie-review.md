@@ -7,6 +7,7 @@ categories:
   - Movie Reviews
   - Movies
   - Reviews
+  - Essays
 tags: 
   - Movie Review
   - The box

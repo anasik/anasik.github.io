@@ -7,10 +7,11 @@ layout: post
 guid: http://anasismail.com/?p=3790
 permalink: /david-carson-on-js/
 categories:
-  - Links, Quotes
   - Tech
   - Quotes
-  - Web and dev
+  - Web
+  - Dev
+  - Basically Tweets
 ---
 > The dirty little secret is that most &#8220;modern JavaScript development&#8221; is nothing to do with actually building websites &#8211; it&#8217;s building packages that can be used by people who build libraries that can be used by people who build frameworks that people who write tutorials and teach courses can teach.
 > 

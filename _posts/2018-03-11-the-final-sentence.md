@@ -7,9 +7,9 @@ layout: post
 guid: http://anasismail.com/?p=2841
 permalink: /the-final-sentence/
 categories:
-  - Links, Quotes
   - Links
   - Books
+  - Basically Tweets
 ---
 I&#8217;ve been reading books, more than I&#8217;ve been reading lately, lately. Very often, I read them onscreen. A while back, I was starting with H.G. Wells&#8217; &#8220;The Time Machine&#8221; and the PDF I found had about somewhere slightly above a hundred pages in it and it made me wonder if that was actually the whole book and not a truncated version and so I googled for the last sentence of the book to see if it matched the one in the PDF.
 

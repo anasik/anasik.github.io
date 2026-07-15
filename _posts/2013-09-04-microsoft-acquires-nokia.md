@@ -8,7 +8,6 @@ guid: http://anasismail.com/?p=734
 permalink: /microsoft-acquires-nokia/
 categories:
   - News
-  - Software, Devices, Reviews
   - Windows
   - Tech
   - Microsoft

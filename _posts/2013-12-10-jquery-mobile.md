@@ -8,9 +8,9 @@ published: false
 guid: http://anasismail.com/?p=878
 permalink: /jquery-mobile/
 categories:
-  - Links, Quotes
-  - Web and dev
+  - Web
   - Tech
   - Links
+  - Basically Tweets
 ---
 [In action](http://m.blu-ray.com/)

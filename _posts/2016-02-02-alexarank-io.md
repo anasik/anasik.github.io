@@ -8,8 +8,8 @@ guid: http://anasismail.com/?p=1261
 permalink: /alexarank-io/
 categories:
   - Essays
-  - Links, Quotes
-  - Web and dev
+  - Web
+  - Dev
   - Tech
   - News
   - Personal

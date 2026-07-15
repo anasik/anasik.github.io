@@ -8,7 +8,6 @@ guid: http://anasismail.com/?p=554
 permalink: /whats-new-in-ubuntu-13-04-raring-ringtail/
 categories:
   - Linux/unix
-  - Software, Devices, Reviews
   - Tech
   - Reviews
 ---

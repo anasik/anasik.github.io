@@ -8,7 +8,6 @@ guid: http://anasismail.com/?p=773
 permalink: /microsoft-surface-2-and-surface-pro-2/
 categories:
   - News
-  - Software, Devices, Reviews
   - Windows
   - Tech
   - Devices

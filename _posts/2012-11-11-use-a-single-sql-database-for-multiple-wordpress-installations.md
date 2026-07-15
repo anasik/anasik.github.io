@@ -7,7 +7,7 @@ layout: post
 guid: http://anasismail.com/?p=100
 permalink: /use-a-single-sql-database-for-multiple-wordpress-installations/
 categories:
-  - Web and dev
+  - Web
   - Tutorials
   - Tech
 tags:

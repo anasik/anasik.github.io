@@ -9,10 +9,10 @@ permalink: /10-must-have-android-apps-for-general-consumers/
 categories:
   - Google
   - Linux/unix
-  - Software, Devices, Reviews
   - Tech
   - Reviews
   - Software
+  - Essays
 ---
 Title says it all, and here they are:
 

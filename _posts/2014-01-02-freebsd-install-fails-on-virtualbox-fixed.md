@@ -7,7 +7,6 @@ layout: post
 guid: http://anasismail.com/?p=965
 permalink: /freebsd-install-fails-on-virtualbox-fixed/
 categories:
-  - Software, Devices, Reviews
   - Tech
   - Tutorials
   - Linux/unix

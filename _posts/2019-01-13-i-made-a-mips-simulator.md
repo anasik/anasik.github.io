@@ -7,10 +7,10 @@ layout: post
 guid: http://anasismail.com/?p=3886
 permalink: /i-made-a-mips-simulator/
 categories:
-  - Software, Devices, Reviews
-  - Web and dev
+  - Dev
   - Tech
   - Software
+  - Essays
 ---
 > AKA MIPS &#8211; A Java Based MIPS simulator. [Browse the code on GitHub.](https://github.com/moiz-frost/AKAUI)
 

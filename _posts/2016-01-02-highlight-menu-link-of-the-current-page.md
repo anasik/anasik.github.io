@@ -7,9 +7,11 @@ layout: post
 guid: http://anasismail.com/?p=1241
 permalink: /highlight-menu-link-of-the-current-page/
 categories:
-  - Web and dev
+  - Web
+  - Dev
   - Tech
   - Tutorials
+  - Essays
 tags:
   - :active
   - Highlight menu link of the current page

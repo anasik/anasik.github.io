@@ -10,9 +10,9 @@ categories:
   - Google
   - Linux/unix
   - News
-  - Software, Devices, Reviews
   - Tech
   - Devices
+  - Essays
 ---
 <div style="text-align: center;">
   <img alt="Moto X" src="http://i2.wp.com/allthingsd.com/files/2013/08/MotoX-12.jpg" width="97%" height="auto" />

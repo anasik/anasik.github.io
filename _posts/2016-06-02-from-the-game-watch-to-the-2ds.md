@@ -8,8 +8,6 @@ guid: http://anasismail.com/?p=1294
 permalink: /from-the-game-watch-to-the-2ds/
 published: false
 categories:
-  - Links, Quotes
-  - Software, Devices, Reviews
   - Tech
   - Devices
 ---

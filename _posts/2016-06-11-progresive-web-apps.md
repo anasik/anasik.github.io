@@ -8,7 +8,7 @@ guid: http://anasismail.com/?p=1312
 permalink: /progresive-web-apps/
 categories:
   - Essays
-  - Web and dev
+  - Web
   - Tech
 ---
 You are using a computing device, be it a smartphone, a tablet, a desktop computer. It&#8217;s new, shiny, with little or no applications installed, _apart from the bloatware that the manufacturer could have generously shipped with it. _You fire up Facebook in a web browser, like a couple of pictures, post a status, have a small chat with a friend, and then after a while, you close the tab and lock your phone. After a while you do it again, and this time, you spend a whole hour scrolling through the news feed, and then once again you close the tab, and lock your device.

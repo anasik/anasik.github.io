@@ -8,8 +8,7 @@ published: false
 guid: http://anasismail.com/?p=785
 permalink: /wordo-the-only-truly-free-dictionary-on-the-web/
 categories:
-  - Software, Devices, Reviews
-  - Web and dev
+  - Web
   - Tech
   - Reviews
   - Software

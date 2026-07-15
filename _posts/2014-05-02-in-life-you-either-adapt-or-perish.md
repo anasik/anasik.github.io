@@ -8,7 +8,7 @@ published: false
 guid: http://anasismail.com/?p=1096
 permalink: /in-life-you-either-adapt-or-perish/
 categories:
-  - Links, Quotes
   - Quotes
+  - Basically Tweets
 ---
 > That is Evolution.

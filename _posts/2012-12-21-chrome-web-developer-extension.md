@@ -10,7 +10,8 @@ categories:
   - Google
   - Tech
   - Software
-  - Web and dev
+  - Web
+  - Dev
 ---
 With this handy [Web Dev Extension](https://chrome.google.com/webstore/detail/web-developer/bfbameneiokkgbdmiekhjnmfkcnldhhm?hl=en) extension, you can totally strip down websites, and modify them. Such modifications include:
 

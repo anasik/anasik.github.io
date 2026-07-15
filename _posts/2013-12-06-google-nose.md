@@ -8,8 +8,7 @@ guid: http://anasismail.com/?p=863
 permalink: /google-nose/
 categories:
   - Google
-  - Software, Devices, Reviews
-  - Web and dev
+  - Web
   - Tech
 ---
 Ages ago, many of us noticed the addition of a strangely _catching_ tab on Googles pages. Some ignored, with the presumption that it&#8217;s another new product by Google, while some investigated.  

@@ -7,10 +7,10 @@ layout: post
 guid: http://anasismail.com/?p=1224
 permalink: /convergence-na-but-cool/
 categories:
-  - Links, Quotes
   - Tech
   - Links
   - Devices
+  - Basically Tweets
 published: false
 ---
 [ChillHub | FirstBuild](https://firstbuild.com/mylescaley/chillhub/activity/).

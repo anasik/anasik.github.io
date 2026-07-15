@@ -8,9 +8,9 @@ published: false
 guid: http://anasismail.com/?p=386
 permalink: /cardboard-wi-fi-router/
 categories:
-  - Software, Devices, Reviews
   - Tech
   - Devices
   - Links
+  - Basically Tweets
 ---
 An eco-friendly, affordable, easily-recycle-able, [Cardboard Wi-Fi Router](http://sustainabilityworkshop.autodesk.com/project-gallery/cardboard-wi-fi-router).

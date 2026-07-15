@@ -8,6 +8,7 @@ categories:
   - Movie Reviews
   - Interviews
   - Movies
+  - Essays
 tags: 
   - Interview
   - The Box 2021

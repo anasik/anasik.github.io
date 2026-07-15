@@ -8,8 +8,8 @@ published: false
 guid: http://anasismail.com/?p=1135
 permalink: /let-it-go-male/
 categories:
-  - Links, Quotes
   - Links
+  - Basically Tweets
 ---
 This GUY creates a perfect male cover of the song &#8220;Let it Go&#8221; from the Disney movie Frozen.
 

@@ -7,7 +7,6 @@ layout: post
 guid: http://anasismail.com/?p=251
 permalink: /raspberry-pi/
 categories:
-  - Software, Devices, Reviews
   - Tech
   - Devices
   - Linux/unix

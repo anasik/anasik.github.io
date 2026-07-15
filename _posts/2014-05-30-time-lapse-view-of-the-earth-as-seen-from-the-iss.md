@@ -8,6 +8,5 @@ guid: http://anasismail.com/?p=1114
 published: false
 permalink: /time-lapse-view-of-the-earth-as-seen-from-the-iss/
 categories:
-  - Links, Quotes
   - News
 ---

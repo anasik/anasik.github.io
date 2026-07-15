@@ -8,8 +8,8 @@ published: false
 guid: http://anasismail.com/?p=849
 permalink: /student-turns-old-turntables-into-drawing-machine/
 categories:
-  - Links, Quotes
   - Tech
   - Links
+  - Basically Tweets
 ---
 [Here Take a Look](http://news.cnet.com/8301-17938_105-57404598-1/student-turns-old-turntables-into-drawing-machine/), Guy&#8217;s a genius.

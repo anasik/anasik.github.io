@@ -7,7 +7,6 @@ layout: post
 guid: http://anasismail.com/?p=111
 permalink: /download-stuff-using-torrents/
 categories:
-  - Software, Devices, Reviews
   - Tutorials
   - Tech
 ---

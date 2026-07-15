@@ -8,7 +8,7 @@ published: false
 guid: http://anasismail.com/?p=2241
 permalink: /good-judgement-comes-from-experience/
 categories:
-  - Links, Quotes
   - Quotes
+  - Basically Tweets
 ---
 > which comes from bad judgement.

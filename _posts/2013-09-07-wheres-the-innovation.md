@@ -10,7 +10,6 @@ categories:
   - Essays
   - Google
   - Linux/unix
-  - Software, Devices, Reviews
   - Windows
   - Tech
 ---

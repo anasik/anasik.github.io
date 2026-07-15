@@ -8,9 +8,9 @@ published: false
 guid: http://anasismail.com/?p=1094
 permalink: /down-for-just-me-or-everyone-else/
 categories:
-  - Links, Quotes
-  - Web and dev
+  - Web
   - Links
   - Tech
+  - Basically Tweets
 ---
 Use [isup.me](http://isup.me) to find out.

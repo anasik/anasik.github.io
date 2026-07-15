@@ -8,7 +8,6 @@ published: false
 guid: http://anasismail.com/?p=2510
 permalink: /if-tony-stark-existed/
 categories:
-  - Links, Quotes
   - Basically Tweets
 ---
 > Elon Musk wouldn&#8217;t.

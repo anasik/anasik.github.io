@@ -8,8 +8,6 @@ guid: http://anasismail.com/?p=684
 permalink: /gimp-the-free-alternative-to-photoshop/
 categories:
   - Linux/unix
-  - Software, Devices, Reviews
-  - Web and dev
   - Windows
   - Tech
   - Software

@@ -7,7 +7,6 @@ layout: post
 guid: http://anasismail.com/?p=3362
 permalink: /what-coulumb-said-to-newton/
 categories:
-  - Links, Quotes
   - Basically Tweets
 ---
 > Charles Augustin de Coulomb: Can I copy your work?  

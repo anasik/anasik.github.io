@@ -8,9 +8,9 @@ published: false
 guid: http://anasismail.com/?p=1675
 permalink: /const-vs-let-vs-var-javascript/
 categories:
-  - Links, Quotes
   - Tech
   - Links
-  - Web and dev
+  - Dev
+  - Basically Tweets
 ---
 [Follow me.](https://medium.com/javascript-scene/javascript-es6-var-let-or-const-ba58b8dcde75#.gflltqwyk)

@@ -7,11 +7,10 @@ layout: post
 guid: http://anasismail.com/?p=1140
 permalink: /the-linux-of-the-web-browser-industry/
 categories:
-  - Links, Quotes
-  - Software, Devices, Reviews
-  - Web and dev
+  - Web
   - Tech
   - Links
   - Software
+  - Basically Tweets
 ---
 [Breach Browser](http://breach.cc)

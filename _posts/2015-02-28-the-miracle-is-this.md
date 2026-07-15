@@ -7,9 +7,9 @@ layout: post
 guid: http://anasismail.com/?p=1185
 permalink: /the-miracle-is-this/
 categories:
-  - Links, Quotes
   - Quotes
   - News
+  - Basically Tweets
 ---
 > The more we share, the more we have. &#8211; Leonard Nimoy
 

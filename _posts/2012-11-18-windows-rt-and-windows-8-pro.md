@@ -7,7 +7,6 @@ layout: post
 guid: http://anasismail.com/?p=121
 permalink: /windows-rt-and-windows-8-pro/
 categories:
-  - Software, Devices, Reviews
   - Tech
   - Devices
   - Software

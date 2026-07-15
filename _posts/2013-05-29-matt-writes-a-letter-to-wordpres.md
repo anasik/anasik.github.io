@@ -9,9 +9,9 @@ guid: http://anasismail.com/?p=437
 permalink: /matt-writes-a-letter-to-wordpres/
 categories:
   - News
-  - Software, Devices, Reviews
-  - Web and dev
+  - Web
   - Tech
   - Links
+  - Basically Tweets
 ---
 [Take a Look](http://ma.tt/2013/05/dear-wordpress/ "View Matts letter to WordPress")

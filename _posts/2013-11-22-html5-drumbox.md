@@ -8,9 +8,9 @@ published: false
 guid: http://anasismail.com/?p=794
 permalink: /html5-drumbox/
 categories:
-  - Links, Quotes
-  - Web and dev
+  - Web
   - Tech
   - Links
+  - Basically Tweets
 ---
 [Do Give it a try&#8230;.](http://box.cloudymedia.com/)

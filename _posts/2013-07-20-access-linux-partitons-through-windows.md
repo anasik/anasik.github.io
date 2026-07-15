@@ -8,7 +8,6 @@ guid: http://anasismail.com/?p=665
 permalink: /access-linux-partitons-through-windows/
 categories:
   - Linux/unix
-  - Software, Devices, Reviews
   - Windows
   - Tech
   - Software

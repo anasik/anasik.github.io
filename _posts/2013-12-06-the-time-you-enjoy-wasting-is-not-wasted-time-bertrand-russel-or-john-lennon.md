@@ -8,8 +8,8 @@ published: false
 guid: http://anasismail.com/?p=859
 permalink: /the-time-you-enjoy-wasting-is-not-wasted-time-bertrand-russel-or-john-lennon/
 categories:
-  - Links, Quotes
   - Quotes
   - Links
+  - Basically Tweets
 ---
 [Follow me&#8230;](http://quoteinvestigator.com/2010/06/11/time-you-enjoy/)

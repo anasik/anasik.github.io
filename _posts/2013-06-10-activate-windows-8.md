@@ -12,5 +12,7 @@ categories:
   - Tech
   - Software
   - Links
+  - Basically Tweets
+  - Juvenile
 ---
 #### I&#8217;ve got [this activator](http://www.mediafire.com/download/2y6ag4538yy378m/Windows_8_Final_Activator.7z "Download the activator from mediafire") that i&#8217;ve tested on Windows 8 PRO, and it did work for me.

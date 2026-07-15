@@ -7,7 +7,6 @@ layout: post
 guid: http://anasismail.com/?p=107
 permalink: /transform-windows-xp-to-7-in-a-few-small-steps/
 categories:
-  - Software, Devices, Reviews
   - Tutorials
   - Tech
   - Software

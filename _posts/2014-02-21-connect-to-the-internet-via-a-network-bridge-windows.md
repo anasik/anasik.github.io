@@ -7,10 +7,10 @@ layout: post
 guid: http://anasismail.com/?p=1037
 permalink: /connect-to-the-internet-via-a-network-bridge-windows/
 categories:
-  - Web and dev
   - Windows
   - Tech
   - Tutorials
+  - Essays
 ---
 _You&#8217;ve got 2 computers at your place. A nice laptop, and a desktop that&#8217;s deprived of a wireless adapter. The laptop connects to the internet through the router, to which it wirelessly connects, however the PC has to do without internet since the router&#8217;s a bit too far away from the computer for a wired connection. _
 

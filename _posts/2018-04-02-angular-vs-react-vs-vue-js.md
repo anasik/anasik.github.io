@@ -9,8 +9,8 @@ permalink: /angular-vs-react-vs-vue-js/
 categories:
   - Essays
   - Google
-  - Software, Devices, Reviews
-  - Web and dev
+  - Web
+  - Dev
   - Tech
   - Reviews
   - Software

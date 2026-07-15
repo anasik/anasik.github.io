@@ -11,6 +11,7 @@ categories:
   - News
   - Tech
   - Links
+  - Basically Tweets
 ---
 <div data-jsid="message">
   <a href="http://www.apple.com/apple-events/june-2013/">Apple lifestreaming the keynote live</a>

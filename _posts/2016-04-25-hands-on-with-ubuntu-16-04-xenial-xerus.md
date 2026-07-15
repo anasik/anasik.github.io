@@ -8,7 +8,6 @@ guid: http://anasismail.com/?p=1267
 permalink: /hands-on-with-ubuntu-16-04-xenial-xerus/
 categories:
   - Linux/unix
-  - Software, Devices, Reviews
   - Essays
   - Tech
   - Reviews

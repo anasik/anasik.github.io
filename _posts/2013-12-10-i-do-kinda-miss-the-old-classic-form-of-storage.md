@@ -8,9 +8,8 @@ published: false
 guid: http://anasismail.com/?p=880
 permalink: /i-do-kinda-miss-the-old-classic-form-of-storage/
 categories:
-  - Links, Quotes
-  - Software, Devices, Reviews
   - Tech
   - Links
+  - Basically Tweets
 ---
 [An year-old article on the rebirth of the cassette-tapes](http://gizmodo.com/5953682/the-future-of-data-storage-is-cassette-tape)

@@ -8,8 +8,8 @@ published: false
 guid: http://anasismail.com/?p=2155
 permalink: /6-ways-the-harry-potter-movies-are-different-from-the-books/
 categories:
-  - Links, Quotes
   - Links
   - Movies
+  - Basically Tweets
 ---
 [Grab a portkey!](http://www.dorkly.com/post/78885/6-ways-the-harry-potter-movies-are-different-from-the-books)

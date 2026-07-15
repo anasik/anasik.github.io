@@ -7,6 +7,7 @@ categories:
   - Tech
   - Quotes
   - csharp
+  - Essays
 tags: 
   - Anders Hejlsberg
   - Ryan Cavanaugh

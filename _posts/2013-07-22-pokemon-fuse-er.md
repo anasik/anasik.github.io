@@ -8,8 +8,8 @@ published: false
 guid: http://anasismail.com/?p=674
 permalink: /pokemon-fuse-er/
 categories:
-  - Software, Devices, Reviews
   - Tech
   - Links
+  - Basically Tweets
 ---
 [pokemon.alexonsager.net](http://pokemon.alexonsager.net/) hosts a tool that allows you two fuse any two Pokemons together. 😀

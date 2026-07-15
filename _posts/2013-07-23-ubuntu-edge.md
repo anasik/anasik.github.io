@@ -9,7 +9,6 @@ permalink: /ubuntu-edge/
 categories:
   - Linux/unix
   - News
-  - Software, Devices, Reviews
   - Tech
   - Devices
 ---

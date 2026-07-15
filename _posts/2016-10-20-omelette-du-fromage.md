@@ -8,7 +8,6 @@ guid: http://anasismail.com/?p=2461
 permalink: /omelette-du-fromage/
 categories:
   - Essays
-  - Links, Quotes
 ---
 So, around the time Assasin&#8217;s Creed Unity came out, I came across this video. It was quite popular among my friends back then. At 1:18, we see two guys seated on a table facing one another and as something lands on it, one of them says: _&#8220;Oh no! My omelette du fromage&#8221; _at which, Arno pops up and replies: _&#8220;It&#8217;s actually omelette au fromage.&#8221; _That&#8217;s the first and last time I heard that phrase.
 

@@ -8,7 +8,6 @@ guid: http://anasismail.com/?p=3786
 permalink: /die-verwandlung/
 categories:
   - Essays
-  - Software, Devices, Reviews
   - Books
   - Reviews
 ---

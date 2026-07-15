@@ -8,8 +8,6 @@ guid: http://anasismail.com/?p=1082
 permalink: /flappy48-combining-flappy-bird-and-2048/
 categories:
   - News
-  - Software, Devices, Reviews
-  - Web and dev
   - Tech
   - Reviews
 ---

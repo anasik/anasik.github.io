@@ -8,7 +8,6 @@ published: false
 guid: http://anasismail.com/?p=898
 permalink: /entrepreunership-is-hard-but-u-cant-die/
 categories:
-  - Links, Quotes
   - Basically Tweets
 ---
 [A LinkedIn Article](http://www.linkedin.com/today/post/article/20131125134736-95015-entrepreneurship-is-hard-but-you-can-t-die?trk=tod-home-art-list-small_1) that I read. It&#8217;s a bit _long_ but do read it&#8230;

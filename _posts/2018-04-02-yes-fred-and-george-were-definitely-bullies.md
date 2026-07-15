@@ -8,7 +8,7 @@ published: false
 guid: http://anasismail.com/?p=3828
 permalink: /yes-fred-and-george-were-definitely-bullies/
 categories:
-  - Links, Quotes
   - Links
+  - Basically Tweets
 ---
 [This post does a great job at explaining how so I am not gonna bother.](http://skelkins.com/hp/archives/000156.html)

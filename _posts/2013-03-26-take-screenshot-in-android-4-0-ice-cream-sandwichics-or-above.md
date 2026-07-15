@@ -9,7 +9,6 @@ permalink: /take-screenshot-in-android-4-0-ice-cream-sandwichics-or-above/
 categories:
   - Google
   - Linux/unix
-  - Software, Devices, Reviews
   - Tech
   - Tutorials
 ---

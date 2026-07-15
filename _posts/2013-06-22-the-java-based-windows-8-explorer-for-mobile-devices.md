@@ -7,7 +7,6 @@ layout: post
 guid: http://anasismail.com/?p=551
 permalink: /the-java-based-windows-8-explorer-for-mobile-devices/
 categories:
-  - Software, Devices, Reviews
   - Tech
   - Software
   - Reviews

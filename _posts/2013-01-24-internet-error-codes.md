@@ -8,7 +8,7 @@ published: false
 guid: http://anasismail.com/?p=239
 permalink: /internet-error-codes/
 categories:
-  - Web and dev
+  - Web
   - Tech
 ---
 501: Not Implemented  

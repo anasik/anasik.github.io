@@ -9,7 +9,6 @@ permalink: /fixing-the-brightness-issue-on-ubuntu-16-04/
 categories:
   - Essays
   - Linux/unix
-  - Software, Devices, Reviews
   - Tech
   - Tutorials
 ---

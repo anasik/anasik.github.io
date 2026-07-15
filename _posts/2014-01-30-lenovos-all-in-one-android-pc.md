@@ -11,5 +11,6 @@ categories:
   - Links
   - Tech
   - News
+  - Basically Tweets
 ---
 [Now the battle for the desktop begins..&nbsp; it might](http://www.zdnet.com/android-desktops-arrive-as-lenovo-eyes-your-living-room-7000024678/)

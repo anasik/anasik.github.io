@@ -7,10 +7,10 @@ layout: post
 guid: http://anasismail.com/?p=1030
 permalink: /creating-a-counter-strike-server-using-port-forwarding-and-the-dedicated-server-application/
 categories:
-  - Software, Devices, Reviews
   - Windows
   - Tech
   - Tutorials
+  - Essays
 ---
 First off, to create a server, you need additional files. The main executable of them being the **&#8220;hlds.exe&#8221;,** and if this one&#8217;s present, we must assume that the other prerequisites are present too, (including **swds.dll,** which is like a patch that allows non-steam clients.) If not present, just search for them, and download them.
 

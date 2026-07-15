@@ -9,7 +9,6 @@ guid: http://anasismail.com/?p=995
 permalink: /android-being-ported-to-cars/
 categories:
   - Google
-  - Links, Quotes
   - Linux/unix
   - News
   - Tech

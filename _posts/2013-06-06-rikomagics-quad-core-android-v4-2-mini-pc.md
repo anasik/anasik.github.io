@@ -8,7 +8,6 @@ published: false
 guid: http://anasismail.com/?p=469
 permalink: /rikomagics-quad-core-android-v4-2-mini-pc/
 categories:
-  - Software, Devices, Reviews
   - Tech
   - Devices
 ---

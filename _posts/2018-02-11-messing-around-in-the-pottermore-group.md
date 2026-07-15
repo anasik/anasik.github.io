@@ -10,6 +10,7 @@ image: /wp-content/uploads/2018/02/Untitled.png
 categories:
   - Personal
   - Juvenile
+  - Essays
 ---
 <!--more-->I&#8217;ve been part of this Pottermore fb group, for a long now, that&#8217;s primarily dominated by Indians. The average member of that group is a fairly intellectual fan-girl with a lot of emotion. Now the thing about that emotion is that it shows the most when someone challenges your belief about the characters by lashing at the ones you love and praising the ones you hate.
 

@@ -7,7 +7,6 @@ layout: post
 guid: http://anasismail.com/?p=84
 permalink: /breadcrumb-address-bar-in-xp/
 categories:
-  - Software, Devices, Reviews
   - Tutorials
   - Tech
   - Software

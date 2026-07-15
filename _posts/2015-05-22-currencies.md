@@ -8,7 +8,6 @@ published: false
 guid: http://anasismail.com/?p=1227
 permalink: /currencies/
 categories:
-  - Links, Quotes
   - Basically Tweets
 ---
 > are languages

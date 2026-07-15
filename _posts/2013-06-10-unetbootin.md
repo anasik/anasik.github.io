@@ -8,7 +8,6 @@ guid: http://anasismail.com/?p=479
 permalink: /unetbootin/
 categories:
   - Linux/unix
-  - Software, Devices, Reviews
   - Tech
   - Software
 ---

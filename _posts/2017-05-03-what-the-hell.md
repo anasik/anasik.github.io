@@ -7,7 +7,7 @@ layout: post
 guid: http://anasismail.com/?p=3527
 permalink: /what-the-hell/
 categories:
-  - Web and dev
+  - Web
   - Tech
   - Personal
   - Google

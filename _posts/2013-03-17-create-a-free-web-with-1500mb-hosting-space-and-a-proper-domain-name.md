@@ -7,9 +7,10 @@ layout: post
 guid: http://anasismail.com/?p=309
 permalink: /create-a-free-web-with-1500mb-hosting-space-and-a-proper-domain-name/
 categories:
-  - Web and dev
+  - Web
   - Tech
   - Tutorials
+  - Essays
 ---
 There are several such _services_ on the cloud that enable you to build a website for free. Some, like my3gb, offer you some hosting space and a subdomain (like domain.my3gb.com), and some also offer a site builder. Webs.com is an example, that offers a free subdomain, and an awesome site builder.
 

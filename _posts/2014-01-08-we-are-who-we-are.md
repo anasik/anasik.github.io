@@ -8,7 +8,6 @@ published: false
 guid: http://anasismail.com/?p=986
 permalink: /we-are-who-we-are/
 categories:
-  - Links, Quotes
   - Basically Tweets
 ---
 Not what we were&#8230;

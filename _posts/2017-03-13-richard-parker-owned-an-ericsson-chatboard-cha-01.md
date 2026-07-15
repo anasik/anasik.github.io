@@ -7,7 +7,7 @@ layout: post
 guid: http://anasismail.com/?p=3323
 permalink: /richard-parker-owned-an-ericsson-chatboard-cha-01/
 categories:
-  - Essays
+  - Basically Tweets
   - Movies
   - Devices
 ---

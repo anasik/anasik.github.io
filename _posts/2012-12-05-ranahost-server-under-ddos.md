@@ -10,6 +10,6 @@ permalink: /ranahost-server-under-ddos/
 categories:
   - News
   - Tech
-  - Web and dev
+  - Web
 ---
 [Ranahost](http://ranahost.com) is a Web hosting provider; in fact, the best in Pakistan, but one of their servers is under DDOS attack since the past two or three days.

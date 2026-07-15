@@ -7,7 +7,6 @@ layout: post
 guid: http://anasismail.com/?p=81
 permalink: /hidden-ftp-client-in-windowsmac-and-linux/
 categories:
-  - Software, Devices, Reviews
   - Tutorials
   - Tech
   - Software

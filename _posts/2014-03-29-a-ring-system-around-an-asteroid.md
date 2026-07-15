@@ -9,5 +9,6 @@ permalink: /a-ring-system-around-an-asteroid/
 categories:
   - News
   - Links
+  - Basically Tweets
 ---
 [Click here..](http://www.wired.com/wiredscience/2014/03/asteroid-ring-system/?mbid=social_twitter)

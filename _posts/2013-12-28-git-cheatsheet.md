@@ -10,6 +10,7 @@ permalink: /git-cheatsheet/
 categories:
   - Tech
   - Links
+  - Basically Tweets
 ---
 [All one might need..](http://ndpsoftware.com/git-cheatsheet.html)  
 ![](http://osteele.com/images/2008/git-transport.png)

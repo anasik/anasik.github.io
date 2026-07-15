@@ -10,6 +10,7 @@ permalink: /spoiler-song-lyrics-in-amazing-spiderman-2/
 categories:
   - Quotes
   - Movies
+  - Basically Tweets
 ---
 I was watching [this video](https://www.youtube.com/watch?v=yEz_zs67hwY), and below it I found this comment:
 

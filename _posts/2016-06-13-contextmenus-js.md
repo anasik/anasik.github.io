@@ -7,8 +7,8 @@ layout: post
 guid: http://anasismail.com/?p=1598
 permalink: /contextmenus-js/
 categories:
-  - Software, Devices, Reviews
-  - Web and dev
+  - Web
+  - Dev
   - Tech
   - Software
   - News

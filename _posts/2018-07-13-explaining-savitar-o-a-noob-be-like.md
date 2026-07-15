@@ -8,6 +8,7 @@ guid: http://anasismail.com/?p=3862
 permalink: /explaining-savitar-o-a-noob-be-like/
 categories:
   - Basically Tweets
+  - Essays
 ---
 > Me: Hey, Tom Felton made an appearance in the Flash.
 > 

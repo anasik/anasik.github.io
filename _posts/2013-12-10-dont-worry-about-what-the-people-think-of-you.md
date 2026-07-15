@@ -8,7 +8,6 @@ published: false
 guid: http://anasismail.com/?p=876
 permalink: /dont-worry-about-what-the-people-think-of-you/
 categories:
-  - Links, Quotes
   - Basically Tweets
 ---
 They don&#8217;t think very often.

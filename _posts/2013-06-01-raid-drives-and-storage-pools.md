@@ -8,7 +8,6 @@ guid: http://anasismail.com/?p=444
 permalink: /raid-drives-and-storage-pools/
 categories:
   - News
-  - Software, Devices, Reviews
   - Windows
   - Tech
 ---

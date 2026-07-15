@@ -8,5 +8,4 @@ guid: http://anasismail.com/?p=1289
 published: false
 permalink: /basketball-dropped-from-a-height-of-140m-with-backspin/
 categories:
-  - Links, Quotes
 ---

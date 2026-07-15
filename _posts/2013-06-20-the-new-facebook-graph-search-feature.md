@@ -7,7 +7,7 @@ layout: post
 guid: http://anasismail.com/?p=542
 permalink: /the-new-facebook-graph-search-feature/
 categories:
-  - Web and dev
+  - Web
   - Tech
 ---
 The Graph Search really enhances the Facebook search, and with it, you are _slightly more likely to find who, or what you are looking for. _All you need to do is type your query in plain English (Just dont take this line _too _literally,) mind, dont go totally casual.

@@ -9,7 +9,6 @@ permalink: /whats-new-in-android-4-3-jelly-bean/
 categories:
   - Linux/unix
   - News
-  - Software, Devices, Reviews
   - Tech
   - Software
 ---

@@ -8,7 +8,6 @@ guid: http://anasismail.com/?p=1882
 permalink: /the-virtual-reality-i-want/
 categories:
   - Essays
-  - Software, Devices, Reviews
   - Tech
   - Devices
 ---

@@ -10,6 +10,7 @@ permalink: /unsubscriber/
 categories:
   - Tech
   - Links
+  - Basically Tweets
 ---
 Sick of receiving spam mail, email notifications, newsletters e.t.c. from multiple sites that you have signed up on? Well here’s a Solution.
 

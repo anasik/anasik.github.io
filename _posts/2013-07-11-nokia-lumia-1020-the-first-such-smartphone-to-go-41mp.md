@@ -8,7 +8,6 @@ guid: http://anasismail.com/?p=597
 permalink: /nokia-lumia-1020-the-first-such-smartphone-to-go-41mp/
 categories:
   - News
-  - Software, Devices, Reviews
   - Windows
   - Tech
   - Devices

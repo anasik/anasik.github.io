@@ -8,7 +8,6 @@ published: false
 guid: http://anasismail.com/?p=836
 permalink: /camera-free-iphones-2/
 categories:
-  - Software, Devices, Reviews
   - Tech
   - News
   - Devices

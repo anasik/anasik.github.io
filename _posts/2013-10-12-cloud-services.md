@@ -9,11 +9,11 @@ permalink: /cloud-services/
 categories:
   - Google
   - Linux/unix
-  - Software, Devices, Reviews
   - Windows
   - Tech
   - Reviews
   - Software
+  - Essays
 ---
 With the passage of time, as _&#8216;everything is moving to the cloud&#8217; _(pardon my _excessive _use of this quote, but it does really sum things up), the use of cloud storage is becoming common, and there are dozens of such services on the cloud each with its own uniquity, now the questions that arise are, &#8220;which one of them is the best?&#8221; &#8220;which one should i go for?&#8221; &#8220;can we really trust them with our data?&#8221; e.t.c. So, in this post, I&#8217;m going to talk a bit about the most popular (or at least the ones i prefer) cloud services on the web.
 

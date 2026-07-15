@@ -12,6 +12,7 @@ categories:
   - aspnetcore
   - open source
   - Microsoft
+  - Essays
 tags: 
   - Open Source
   - Microsoft

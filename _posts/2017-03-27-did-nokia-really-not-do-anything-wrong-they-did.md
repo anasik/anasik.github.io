@@ -8,7 +8,6 @@ guid: http://anasismail.com/?p=3370
 permalink: /did-nokia-really-not-do-anything-wrong-they-did/
 categories:
   - Essays
-  - Software, Devices, Reviews
   - Tech
   - Devices
   - Software

@@ -7,10 +7,9 @@ layout: post
 guid: http://anasismail.com/?p=1194
 permalink: /using-two-routers-to-extend-a-network/
 categories:
-  - Software, Devices, Reviews
-  - Web and dev
   - Tech
   - Devices
+  - Essays
 ---
 I have recently been faced with this challenge, partly for learning, as it&#8217;s kind of an enthusiast thing and partly because I might actually need to to that in the near future. Since the title might seem a bit vague or ambigous to some, let me first make a bit clear exactly what it is I&#8217;m after. How about we start by listing interpretations? _(My goal and the whole point of all this can be seen to later.)_
 

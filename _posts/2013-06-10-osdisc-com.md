@@ -11,5 +11,6 @@ categories:
   - Linux/unix
   - Tech
   - Links
+  - Basically Tweets
 ---
 [is where you can buy DVDs of various Linux, Solaris, and BSD based Operating Systems.](http://www.osdisc.com/index.html)

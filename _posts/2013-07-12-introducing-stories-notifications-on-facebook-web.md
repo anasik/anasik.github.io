@@ -8,7 +8,7 @@ guid: http://anasismail.com/?p=607
 permalink: /introducing-stories-notifications-on-facebook-web/
 categories:
   - News
-  - Web and dev
+  - Web
   - Tech
   - Software
 ---

@@ -9,7 +9,8 @@ permalink: /animating-vegeta-the-power-of-css3-and-sprites/
 categories:
   - Essays
   - Games
-  - Web and dev
+  - Web
+  - Dev
   - Tech
 ---
 [Check this out before you read any further.](http://www.anasismail.com/others/vegeta)

@@ -8,8 +8,7 @@ guid: http://anasismail.com/?p=3789
 permalink: /toggls-building-a-horse-with-programming-comic-explained/
 categories:
   - Essays
-  - Software, Devices, Reviews
-  - Web and dev
+  - Dev
   - Tech
 ---
 If you don&#8217;t know what this is about, you should first go and [check it out.](https://blog.toggl.com/build-horse-programming/)

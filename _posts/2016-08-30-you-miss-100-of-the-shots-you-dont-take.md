@@ -8,7 +8,7 @@ published: false
 guid: http://anasismail.com/?p=2243
 permalink: /you-miss-100-of-the-shots-you-dont-take/
 categories:
-  - Links, Quotes
   - Quotes
+  - Basically Tweets
 ---
 > — Wayne Gretzky

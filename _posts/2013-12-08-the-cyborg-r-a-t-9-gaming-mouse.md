@@ -8,7 +8,6 @@ published: false
 guid: http://anasismail.com/?p=771
 permalink: /the-cyborg-r-a-t-9-gaming-mouse/
 categories:
-  - Software, Devices, Reviews
   - Basically Tweets
 ---
 [Allow me..](http://lmgtfy.com/?q=%20The+cyborg+R.A.T+9+Gaming+mouse)

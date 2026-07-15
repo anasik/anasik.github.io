@@ -11,5 +11,6 @@ categories:
   - Tech
   - Devices
   - News
+  - Basically Tweets
 ---
 [Click me](http://blog.sony.com/press/sonys-new-usb-flash-drive-delivers-2-in-1-functionality-for-smartphone-and-tablets-users/ "Right this way...")

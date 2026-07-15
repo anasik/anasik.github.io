@@ -7,7 +7,7 @@ layout: post
 guid: http://anasismail.com/?p=119
 permalink: /revert-back-to-the-default-cpanel-theme/
 categories:
-  - Web and dev
+  - Web
   - Tutorials
   - Tech
 tags:

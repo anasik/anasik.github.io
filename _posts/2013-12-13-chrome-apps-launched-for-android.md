@@ -13,5 +13,6 @@ categories:
   - Tech
   - News
   - Links
+  - Basically Tweets
 ---
 [This Wednesday Google launched a Mac version of the Chrome Apps launcher.](http://news.cnet.com/8301-1001_3-57615339-92/chrome-apps-mosey-on-over-to-macs/)

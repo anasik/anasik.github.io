@@ -8,7 +8,6 @@ guid: http://anasismail.com/?p=1301
 permalink: /can-machines-think/
 categories:
   - Essays
-  - Links, Quotes
   - Tech
 ---
 Back in 1950, [Turing&#8217;s paper](http://www.loebner.net/Prizef/TuringArticle.html), titled &#8220;Computer machinery and Intelligence,&#8221; was published in journal called &#8220;Mind,&#8221; and it was one of the things that can be credited for changing the way people thought about machines. Some readers were awestruck, while others only saw gibberish.

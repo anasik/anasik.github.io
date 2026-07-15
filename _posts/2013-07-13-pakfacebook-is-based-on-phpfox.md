@@ -8,8 +8,7 @@ published: false
 guid: http://anasismail.com/?p=619
 permalink: /pakfacebook-is-based-on-phpfox/
 categories:
-  - Software, Devices, Reviews
-  - Web and dev
+  - Web
   - Tech
   - Software
 ---
