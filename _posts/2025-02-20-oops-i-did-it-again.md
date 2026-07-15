@@ -13,6 +13,8 @@ categories:
   - open source
   - Microsoft
   - Essays
+  - Web
+  - Dev
 tags: 
   - Open Source
   - Microsoft

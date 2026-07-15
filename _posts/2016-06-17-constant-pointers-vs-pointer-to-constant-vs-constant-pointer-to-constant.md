@@ -11,5 +11,6 @@ categories:
   - Tech
   - Links
   - Basically Tweets
+  - Dev
 ---
 [Here.](http://www.thegeekstuff.com/2012/06/c-constant-pointers/)

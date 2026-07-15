@@ -10,5 +10,6 @@ permalink: /my-software-never-has-bugs/
 categories:
   - Tech
   - Basically Tweets
+  - Dev
 ---
 > It just develops exciting new random features.

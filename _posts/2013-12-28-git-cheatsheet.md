@@ -8,6 +8,7 @@ published: false
 guid: http://anasismail.com/?p=946
 permalink: /git-cheatsheet/
 categories:
+  - Dev
   - Tech
   - Links
   - Basically Tweets

@@ -10,6 +10,7 @@ permalink: /open-multiple-accounts-using-a-single-pc/
 categories:
   - Tech
   - Tutorials
+  - Web
 tags:
   - how to open multiple accounts using a single pc
   - multiple accounts

@@ -12,6 +12,7 @@ categories:
   - Software
   - Links
   - Basically Tweets
+  - Web
 ---
 A digital Clock comprising of a number of scroll bars. Just click the link below and u&#8217;d know.
 

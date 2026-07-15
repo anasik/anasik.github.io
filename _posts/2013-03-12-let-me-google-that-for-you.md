@@ -10,6 +10,7 @@ permalink: /let-me-google-that-for-you/
 categories:
   - Google
   - Tech
+  - Web
 ---
 > Let me google that for you
 

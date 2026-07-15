@@ -10,5 +10,6 @@ permalink: /fb-privacy-update/
 categories:
   - News
   - Tech
+  - Web
 ---
 Now you can edit your FB Privacy Settings from the top bar. This is not yet available to everyone.

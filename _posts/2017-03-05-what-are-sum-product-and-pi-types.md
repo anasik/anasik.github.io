@@ -11,5 +11,6 @@ categories:
   - Links
   - Tech
   - Basically Tweets
+  - Dev
 ---
 [Click me!](http://manishearth.github.io/blog/2017/03/04/what-are-sum-product-and-pi-types/)

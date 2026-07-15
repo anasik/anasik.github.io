@@ -12,5 +12,6 @@ categories:
   - Software
   - Links
   - Basically Tweets
+  - Web
 ---
 [Chat with a CleverBot with Artificial Intelligence. ](http://cleverbot.com)

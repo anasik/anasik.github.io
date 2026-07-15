@@ -11,6 +11,7 @@ categories:
   - Tech
   - Tutorials
   - Software
+  - Dev
 ---
 Komodo edit is a code editor and an alternative to notepad++, in fact, its even better, and runs in all 3 i.e. Linux, Mac and Windows. Installing it in linux can be a bit tricky for newbies, so here&#8217;s what you need to do.
 

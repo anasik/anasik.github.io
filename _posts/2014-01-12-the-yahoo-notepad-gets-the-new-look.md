@@ -10,6 +10,7 @@ categories:
   - Tech
   - News
   - Software
+  - Web
 ---
 ![Yahoo Notepad](https://farm8.staticflickr.com/7460/11899542494_2a1e6cf5fe_b.jpg)Yahoo Notepad, one of my personal favorites of such apps on the web, has recently been altered in terms of UI, and the new look, no doubt, and improvement, at least in terms of readability, greatly resembles or happens to be identical to yMail&#8217;s new theme. Also, there&#8217;s a change in the terminology (_slight) _and perhaps a feature or two has been introduced.
 

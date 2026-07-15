@@ -8,6 +8,7 @@ categories:
   - Quotes
   - csharp
   - Essays
+  - Dev
 tags: 
   - Anders Hejlsberg
   - Ryan Cavanaugh

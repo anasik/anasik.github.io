@@ -11,5 +11,6 @@ categories:
   - News
   - Tech
   - Software
+  - Web
 ---
 The yahoo mail theme has been updated. This one is based on the METRO lines.
