@@ -12,6 +12,6 @@ categories:
   - Tech
   - Software
 ---
-[PakFacebook](http://pakfacebook.com) is a social network, that was launched as an _alternative _right after Facebook was banned for the first time in Pakistan, that did kinda resemble the real facebook, in both i.e. the _visuals, _and the _functionality. _
+[PakFacebook](http://pakfacebook.com) is a social network, that was launched as an _alternative_ right after Facebook was banned for the first time in Pakistan, that did kinda resemble the real facebook, in both i.e. the _visuals,_ and the _functionality._ 
 
-After coming across a link on Facebook, that led me to [phpfox](http://phpfox.com), which is a complete social networking solution, I realize that Pakfacebook is _highly _or should I say _totally _based on phpFox, or the latter on the former, cause there&#8217;s no saying who owns which. But I&#8217;ve seen enough to tell that it&#8217;s the same thing.
+After coming across a link on Facebook, that led me to [phpfox](http://phpfox.com), which is a complete social networking solution, I realize that Pakfacebook is _highly_ or should I say _totally_ based on phpFox, or the latter on the former, cause there&#8217;s no saying who owns which. But I&#8217;ve seen enough to tell that it&#8217;s the same thing.

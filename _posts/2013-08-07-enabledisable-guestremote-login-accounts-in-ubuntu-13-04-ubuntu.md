@@ -11,7 +11,7 @@ categories:
   - Tech
   - Tutorials
 ---
-The guest and the _remote login _accounts are enabled by default, but there are those who want them disabled, and this could be due to privacy concern (though i noticed that you cant do much in the guest account), and as for the remote one, well, maybe they just dont want to see it there.
+The guest and the _remote login_ accounts are enabled by default, but there are those who want them disabled, and this could be due to privacy concern (though i noticed that you cant do much in the guest account), and as for the remote one, well, maybe they just dont want to see it there.
 
 Well, to disable them, all you gotta do it fire up a terminal (Ctrl + Alt +T), and paste in the folllowing command:
 
@@ -19,7 +19,7 @@ Well, to disable them, all you gotta do it fire up a terminal (Ctrl + Alt +T), a
 
 **sudo /usr/lib/lightdm/lightdm-set-defaults -l false -R false**
 
-### to disable **only **the guest one:
+### to disable **only** the guest one:
 
 **sudo /usr/lib/lightdm/lightdm-set-defaults -l false**
 
@@ -29,4 +29,4 @@ Well, to disable them, all you gotta do it fire up a terminal (Ctrl + Alt +T), a
 
 That was it; ought to do the trick.
 
-> To **Enable, **use the same commands, however, make a li&#8217;l alteration; i.e. replace all the &#8216;_false&#8217;s_ with _true. _
+> To **Enable,** use the same commands, however, make a li&#8217;l alteration; i.e. replace all the &#8216;_false&#8217;s_ with _true._ 

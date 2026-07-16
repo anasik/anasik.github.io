@@ -30,7 +30,7 @@ then there shouldnt be one that says:
 
 <pre>deb http://xxx.xxx.xxx xxx xxx restricted</pre>
 
-since the former includes both &#8220;_main&#8221; _and &#8220;_restricted._&#8221;
+since the former includes both &#8220;_main&#8221;_ and &#8220;_restricted._&#8221;
 
 Since I wasn&#8217;t too sure of anything, I merely &#8220;_commented_&#8221; the lines that looked suspicious. (All you gotta do is add a &#8220;#&#8221; at the start of the line.) Once done disabling all possible duplicates, I saved the file and re-ran the update command. This time it worked!
 

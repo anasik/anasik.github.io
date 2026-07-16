@@ -10,4 +10,4 @@ permalink: /fc-college/
 categories:
   - Basically Tweets
 ---
-Despite its name, FC college has nothing to do with &#8220;_football clubs.&#8221; _It simply stands for _Forman Christian._
+Despite its name, FC college has nothing to do with &#8220;_football clubs.&#8221;_ It simply stands for _Forman Christian._

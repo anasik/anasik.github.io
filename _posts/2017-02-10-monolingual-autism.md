@@ -10,7 +10,7 @@ categories:
   - Essays
   - Juvenile
 ---
-You can google that if you like and realize that it may not really be a real _thing. _It&#8217;s something that I have been observing for a long time and I&#8217;m sure you&#8217;ve seen or felt it at different points in your life.
+You can google that if you like and realize that it may not really be a real _thing._ It&#8217;s something that I have been observing for a long time and I&#8217;m sure you&#8217;ve seen or felt it at different points in your life.
 
 A while back, LifeHack posted about people having different personalities when speaking in different languages. So I thought: Is it possible for a person to be autistic in a particular language and enthusiastic and energetic in another? Sounds stupid, eh? Well, here&#8217;s an example that might make it sound slightly less stupid and slightly more relatable:
 

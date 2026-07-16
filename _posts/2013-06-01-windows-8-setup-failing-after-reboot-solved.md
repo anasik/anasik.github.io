@@ -19,8 +19,8 @@ _forever_.
 
 If the screen stays that way for more than a minute, then you are experiencing the same problem, to fix which, people usually keep on removing and installing the OS, and few even resort to performing a _clean install_.
 
-Now, what I noticed, after _clean-installing _the OS for the second time, was that if you plug-in an external monitor, it displays everything all right. Means that when it&#8217;s _showing the black screen, _and you&#8217;d think that nothing&#8217;s happening, it&#8217;s all working fine, i.e. all but the display. _YES! _ It&#8217;s having trouble with, in simple terms, _your laptop&#8217;s monitor. _
+Now, what I noticed, after _clean-installing_ the OS for the second time, was that if you plug-in an external monitor, it displays everything all right. Means that when it&#8217;s _showing the black screen,_ and you&#8217;d think that nothing&#8217;s happening, it&#8217;s all working fine, i.e. all but the display. _YES!_  It&#8217;s having trouble with, in simple terms, _your laptop&#8217;s monitor._ 
 
-The cause of the problem, and the solution, _no matter how obvious  it may seem_, has got _absolutely nothing to do with **drivers,** _but the fact that your **_BIOS is outdated_**. So, to Fix it, all you gotta do is to grab the latest piece of software for you BIOS, and update it.
+The cause of the problem, and the solution, _no matter how obvious  it may seem_, has got _absolutely nothing to do with **drivers,**_ but the fact that your **_BIOS is outdated_**. So, to Fix it, all you gotta do is to grab the latest piece of software for you BIOS, and update it.
 
 If you own a Dell, you can get all the latest Drivers [here](http://support.dell.com "Dell Support").

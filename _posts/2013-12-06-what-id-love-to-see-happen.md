@@ -11,6 +11,6 @@ categories:
   - Tech
   - Basically Tweets
 ---
-Chromium OS, and Android, both are light-weight, open-source OSs developed by Google, improving and getting popular, _gradually, _over time.
+Chromium OS, and Android, both are light-weight, open-source OSs developed by Google, improving and getting popular, _gradually,_ over time.
 
 I think it&#8217;s only a matter of time before Google adds features for fully integrating one into other and soon, eradicating either of the two names and merging the two projects, into a single one, an OS available for both desktop and mobile devices.

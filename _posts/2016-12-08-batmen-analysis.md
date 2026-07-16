@@ -12,9 +12,9 @@ categories:
   - Reviews
   - Movie Reviews
 ---
-So, I&#8217;ve been wanting to do this for quite some time. You see, there&#8217;s a whole lot of Batman movies out there along with a good number of _Batmen. _With different actors, playing the same character, in different movie adaptations, there come arguments between fans over the superiority of certain adaptations and portrayals.
+So, I&#8217;ve been wanting to do this for quite some time. You see, there&#8217;s a whole lot of Batman movies out there along with a good number of _Batmen._ With different actors, playing the same character, in different movie adaptations, there come arguments between fans over the superiority of certain adaptations and portrayals.
 
-In this post, I am going to analyze all the live-action movie Batmen, from Michael Keaton to Ben Affleck, and judge them based on how well they portrayed both Bruce Wayne, and Batman. Before we continue, let&#8217;s briefly discuss the two personalities. Bruce Wayne is a billionaire orphan, disciplined and mature for his age. While he may be well known to the world, he can be called reclusive. His _dark past _is what gives him his wisdom and what gives him the look of a man who has dealt with the truth, up close. But that doesn&#8217;t mean he doesn&#8217;t have feelings or a sense of humor. He can be touched, and he ain&#8217;t witless.  
+In this post, I am going to analyze all the live-action movie Batmen, from Michael Keaton to Ben Affleck, and judge them based on how well they portrayed both Bruce Wayne, and Batman. Before we continue, let&#8217;s briefly discuss the two personalities. Bruce Wayne is a billionaire orphan, disciplined and mature for his age. While he may be well known to the world, he can be called reclusive. His _dark past_ is what gives him his wisdom and what gives him the look of a man who has dealt with the truth, up close. But that doesn&#8217;t mean he doesn&#8217;t have feelings or a sense of humor. He can be touched, and he ain&#8217;t witless.  
 Batman, Bruce&#8217;s vigilante personality, is an all righteous, assertive tough-guy who values human-life above all emotion and justice. His instincts and choices are rarely to be doubted. He is also a quick-witted strategist and a really skilled fighter. Also, he is worthy enough to lift the Mjolnir. He knows the difference between what&#8217;s right and what&#8217;s (seemingly) needed, and he knows better than to let his emotions drive him. Well, let&#8217;s start analysing, shall we?<!--more-->
 
 **Michael Keaton**
@@ -35,7 +35,7 @@ His Batman was better. The win was the voice. While it didn&#8217;t sound any di
 
 **George Clooney**
 
-George Clooney is a great actor, but _Batman and Robin _is globally accepted as the most ridiculous Batman movie. His Wayne looked old but wise, sounded weak, but had the &#8220;beaten&#8221; look.  
+George Clooney is a great actor, but _Batman and Robin_ is globally accepted as the most ridiculous Batman movie. His Wayne looked old but wise, sounded weak, but had the &#8220;beaten&#8221; look.  
 His Batman was a ridiculous character. Like Kilmer, his voice was better suited to his Batman and was convincing, but sadly, the mask didn&#8217;t suit him nearly as well. His character, (not Clooney&#8217;s fault,) was a flawed mess, with an air of immaturity and hypocrisy about him.
 
 **Christian Bale**

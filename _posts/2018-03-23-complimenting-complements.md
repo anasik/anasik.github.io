@@ -11,16 +11,16 @@ categories:
   - Tech
   - Tutorials
 ---
-> This post assumes familiarity with &#8220;_Two&#8217;s Complement&#8221;, &#8220;One&#8217;s Complement&#8221; _ and an understanding of &#8220;Positional Numeral Systems&#8221;.
+> This post assumes familiarity with &#8220;_Two&#8217;s Complement&#8221;, &#8220;One&#8217;s Complement&#8221;_  and an understanding of &#8220;Positional Numeral Systems&#8221;.
 
 **Why is the Two&#8217;s Complement called the Two&#8217;s Complement?**
 
-Ever wondered why the two&#8217;s complement and the one&#8217;s complement are named as such? We were told that to calculate the two&#8217;s complement of a number, you add 1 to its one&#8217;s complement. But why? When calculating the one&#8217;s complement, we simply subtract every digit from 1, so why don&#8217;t we subtract every digit from 2 in two&#8217;s complement? And maybe, you tried to reason with yourself about how there&#8217;s no &#8220;2&#8221; in the binary system and so that mehtod would not work anyway. There is however a much better way to understand and explain it. To understand this, you need to understand the difference between the _radix complement _and the _diminished radix complement. _
+Ever wondered why the two&#8217;s complement and the one&#8217;s complement are named as such? We were told that to calculate the two&#8217;s complement of a number, you add 1 to its one&#8217;s complement. But why? When calculating the one&#8217;s complement, we simply subtract every digit from 1, so why don&#8217;t we subtract every digit from 2 in two&#8217;s complement? And maybe, you tried to reason with yourself about how there&#8217;s no &#8220;2&#8221; in the binary system and so that mehtod would not work anyway. There is however a much better way to understand and explain it. To understand this, you need to understand the difference between the _radix complement_ and the _diminished radix complement._ 
 
 According to wiktionary:
 
-  * The **radix complement **is the number which, when added to an n-digit number in radix-r, results in r^n. An alternative way of looking at it is that it is the smallest possible (n-1)-digit number in radix-r. The radix complement for radix-r is called r&#8217;s complement. We get it by adding 1 to the diminished radix complement.
-  * The **diminished radix complement **is the number which, when added to an n-digit number in radix-r results in r^n -1. An alternative way of looking at is is that it is the largest possible n-digit number in radix-r. The diminished radix complement for radix-r is called (r-1)&#8217;s complement. We get it by subtracting every digit from (r-1)
+  * The **radix complement** is the number which, when added to an n-digit number in radix-r, results in r^n. An alternative way of looking at it is that it is the smallest possible (n-1)-digit number in radix-r. The radix complement for radix-r is called r&#8217;s complement. We get it by adding 1 to the diminished radix complement.
+  * The **diminished radix complement** is the number which, when added to an n-digit number in radix-r results in r^n -1. An alternative way of looking at is is that it is the largest possible n-digit number in radix-r. The diminished radix complement for radix-r is called (r-1)&#8217;s complement. We get it by subtracting every digit from (r-1)
 
 <!--more-->
 

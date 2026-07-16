@@ -22,7 +22,7 @@ Once you gain root access, type:
 <pre>adduser <em>username</em><em>
 </em></pre>
 
-It&#8217;d ask you to _enter new UNIX password. _type one, and retype when it asks you to
+It&#8217;d ask you to _enter new UNIX password._ type one, and retype when it asks you to
 
 That&#8217;s it. Now it would prompt you for a few more details regarding the new user, but they arent important, just press enter, and soon, it&#8217;d  prompt you to confirm if the information is correct. Type y and enter. That&#8217;s it. Your new user account is up and running. To delete it via terminal, type the following command when root:
 

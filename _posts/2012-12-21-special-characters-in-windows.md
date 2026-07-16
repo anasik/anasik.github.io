@@ -11,7 +11,7 @@ categories:
   - Tech
   - Windows
 ---
-You might have noticed people making strange characters like &#8220;☺☻♥&#8221; on facebook e.t.c. Some of these, take the heart for example, can be _**Triggered** _using special codes, in this case, &#8220;<3&#8221;. But not every single one of them has codes known to public.
+You might have noticed people making strange characters like &#8220;☺☻♥&#8221; on facebook e.t.c. Some of these, take the heart for example, can be _**Triggered**_ using special codes, in this case, &#8220;<3&#8221;. But not every single one of them has codes known to public.
 
 Anyways, these characters can be added by pressing Alt + (any key from the num-pad).
 

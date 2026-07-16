@@ -17,4 +17,4 @@ I am a student, and every now and then I come across a term too complex for me t
 
 Wordo is free from all this. The interface is really clean and only that which is required is on the page. No ads, no popups, no surveys nothing to distract you, instead a huge mature font to provide maximum readability. Apart from that, the simplicity of the interface also ensures minimum lag.
 
-To sum it all up in a single sentence, Wordo is a _true _dictionary, on which, the user&#8217;s activity does not extend beyond anything that he isn&#8217;t willing to do. [Give it a try](http://wordo.co) and you&#8217;d know&#8230;
+To sum it all up in a single sentence, Wordo is a _true_ dictionary, on which, the user&#8217;s activity does not extend beyond anything that he isn&#8217;t willing to do. [Give it a try](http://wordo.co) and you&#8217;d know&#8230;
