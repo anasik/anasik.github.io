@@ -12,7 +12,7 @@ categories:
   - Juvenile
   - Essays
 ---
-<!--more-->I&#8217;ve been part of this Pottermore fb group, for a long now, that&#8217;s primarily dominated by Indians. The average member of that group is a fairly intellectual fan-girl with a lot of emotion. Now the thing about that emotion is that it shows the most when someone challenges your belief about the characters by lashing at the ones you love and praising the ones you hate.
+I&#8217;ve been part of this Pottermore fb group, for a long now, that&#8217;s primarily dominated by Indians. The average member of that group is a fairly intellectual fan-girl with a lot of emotion. Now the thing about that emotion is that it shows the most when someone challenges your belief about the characters by lashing at the ones you love and praising the ones you hate.
 
 A while ago, under a post about Ron, this girl posted the following comment:
 
@@ -24,7 +24,7 @@ Because she was known for being a Ron fangirl, people mostly found this funny an
 > 
 > P.S. James Potter was an asshole and deserved far worse than he got.
 
-And I turned off commenting. As intended, this pissed off a lot of people including that girl whose comment was attached to the post. She actually created a new post with a screenshot of my post and wrote something along the lines of:
+And I turned off commenting.<!--more--> As intended, this pissed off a lot of people including that girl whose comment was attached to the post. She actually created a new post with a screenshot of my post and wrote something along the lines of:
 
 > Guys, if you want to talk about that post, do it here.
 
