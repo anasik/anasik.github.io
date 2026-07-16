@@ -15,7 +15,7 @@ During lunch, I was reflecting on that day when my programming teacher asked me 
 
 As I began my search for the answer, I pinged Vladislav Zorov, my mentor and friend, and asked him. He said that compilers mostly just subtract the memory addresses of the two objects being compared and returns true if the difference is zero i.e. if they are literally the same object. I couldn&#8217;t agree with this so I argued against it. I said that it is possible for two variables to point to identical objects without pointing to the same object and so I set out to prove it.
 
-I wrote a very simple program:
+I wrote a very simple program:<!--more-->
 
 ```
 import java.util.Scanner;  
