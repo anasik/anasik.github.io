@@ -32,7 +32,7 @@ To replicate this process, all you need to do:
 
   * Fire  up a terminal
   * sudo nano /etc/default/grub
-  * At the very end of the string `GRUB\_CMDLINE\_LINUX_DEFAULT`, (which in my case was &#8220;quiet splash,&#8221;) add `acpi_backlight=native.`  
+  * At the very end of the string `GRUB_CMDLINE_LINUX_DEFAULT`, (which in my case was &#8220;quiet splash,&#8221;) add `acpi_backlight=native.`  
     The final string, in my case, looks like &#8220;`quiet splash acpi_backlight=native`&#8220;
   * Close and save the file, and run `sudo update-grub` and then reboot.
 

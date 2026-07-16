@@ -35,25 +35,25 @@ As a bonus, I will add below all the code you need to make this work.
 
 ```
 <?php
-$page = $\_SERVER[&#8216;REQUEST\_URI&#8217;];  
-$page = str_replace(&#8220;?&#8221;,&#8221;&#8221;,$page);  
-$page = str_replace(&#8220;/&#8221;,&#8221;&#8221;,$page);  
-$page = str_replace(&#8220;.php&#8221;,&#8221;&#8221;,$page);  
-$page = $page ? $page : &#8220;home&#8221;; 
+$page = $_SERVER['REQUEST_URI'];
+$page = str_replace("?","",$page);
+$page = str_replace("/","",$page);
+$page = str_replace(".php","",$page);
+$page = $page ? $page : "home";
 ?>
 ```
 
 Add this PHP at the very top of the header file.. before _everything, _and then, anywhere below below the nav markup, add this JS script:
 
 ```
-<script>  
-nav = document.getElementsByClassName(&#8220;nav&#8221;)[0];  
-nav = nav.getElementsByTagName(&#8220;a&#8221;);  
-for(i=0;i<nav.length;i++){  
-  if(nav[i].getAttribute(&#8220;title&#8221;).toLowerCase() == &#8220;<?php echo strtolower($page);?>&#8221;){  
-    nav[i].setAttribute(&#8220;class&#8221;,&#8221;current&#8221;);  
+<script>
+nav = document.getElementsByClassName("nav")[0];
+nav = nav.getElementsByTagName("a");
+for(i=0;i<nav.length;i++){
+  if(nav[i].getAttribute("title").toLowerCase() == "<?php echo strtolower($page);?>"){
+    nav[i].setAttribute("class","current");
   }
-}  
+}
 </script>
 ```
 

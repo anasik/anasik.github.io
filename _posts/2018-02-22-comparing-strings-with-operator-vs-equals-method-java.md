@@ -22,9 +22,9 @@ import java.util.Scanner;
 public class HelloWorld {  
   public static void main(String []args){  
     // Created two strings using the same literal and an array with the second index set using that literal.  
-    String x = &#8220;abcd&#8221;;  
-    String y = &#8220;abcd&#8221;;  
-    String[] z = {&#8220;asafaf&#8221;,&#8221;abcd&#8221;};
+    String x = "abcd";  
+    String y = "abcd";  
+    String[] z = {"asafaf","abcd"};
 
     // Printing addresses of all 3.  
     System.out.println(Integer.toHexString(x.hashCode()));  
@@ -33,11 +33,11 @@ public class HelloWorld {
 
     // Checking to see if the equality symbol works on these  
     if(x == z[1] && x==y && y==z[1])  
-      System.out.println(&#8220;== works on the 3&#8221;);
+      System.out.println("== works on the 3");
 
     // Comparing the 3 using the equals method which will, obviously, work.  
     if(x.equals(z[1]) && x.equals(y) && y.equals(z[1]))  
-      System.out.println(&#8220;equals method works on the 3&#8221;);
+      System.out.println("equals method works on the 3");
 
     // Creating Scanner object to read from stdin.  
     Scanner input = new Scanner(System.in);
@@ -45,7 +45,7 @@ public class HelloWorld {
     // Taking two strings as input. Will test with  
     // 1. Two different strings  
     // 2. Identical strings  
-    // 3. &#8220;abcd&#8221; for both  
+    // 3. "abcd" for both  
     String j = input.next();  
     String k = input.next();
 
@@ -55,18 +55,18 @@ public class HelloWorld {
 
     // Testing both comparisons  
     if(j==k)  
-      System.out.println(&#8220;== working on input strings&#8221;);  
+      System.out.println("== working on input strings");  
     if(k.equals(j))  
-      System.out.println(&#8220;equals working on input strings&#8221;);
+      System.out.println("equals working on input strings");
 
     // Initializing a string identical to x,y,z[1] but with the new keyword  
-    String a = new String(&#8220;abcd&#8221;);  
+    String a = new String("abcd");  
     // Printing its address  
     System.out.println(Integer.toHexString(a.hashCode()));  
     if(a==x || a==y || a== z[1])  
-      System.out.println(&#8220;== working with new keyword&#8221;);  
+      System.out.println("== working with new keyword");  
     if(a.equals(x))  
-      System.out.println(&#8220;equals method working with new keyword&#8221;);  
+      System.out.println("equals method working with new keyword");  
   }  
 }
 ```
