@@ -12,6 +12,10 @@ title: All Posts
     {%- endfor -%}
 </div>
 
+<p id="filter-sentence" class="filter-sentence" style="display:none;"><span class="filter-sentence-text"><span class="ftoggle ftoggle--switch-merged" id="action-toggle" role="switch" aria-checked="false" tabindex="0" title="Click to flip between showing and hiding these categories"><span class="ftoggle-track"><span class="ftoggle-thumb"></span></span><span class="ftoggle-label" id="action-label">Showing</span></span> posts tagged with <span class="ftoggle ftoggle--switch-merged" id="mode-toggle" style="display:none;" role="switch" aria-checked="false" tabindex="0" title="Click to flip between matching any or all of the selected categories"><span class="ftoggle-track"><span class="ftoggle-thumb"></span></span><span class="ftoggle-label" id="mode-label">any</span></span><span id="filter-connector"></span><span id="filter-sentence-ref"></span><span class="only-sep"></span> <span class="ftoggle ftoggle--switch-merged" id="only-toggle" role="switch" aria-checked="false" tabindex="0" title="Click to also require that these posts have no categories outside this selection"><span class="ftoggle-track"><span class="ftoggle-thumb"></span></span><span class="ftoggle-label">and nothing else</span></span><span class="only-end"></span></span><span id="filter-result-count-inline" class="filter-result-count-inline"></span></p>
+
+<p id="filter-result-count" class="filter-result-count"></p>
+
 <div class="posts-container" id="filterable-posts">
     {% for post in site.posts %}
     <div class="post head-only filter-item" data-categories="{{ post.categories | join: '|' | escape }}">
@@ -46,23 +50,117 @@ title: All Posts
   var chips = Array.prototype.slice.call(bar.querySelectorAll('.filter-chip'));
   var items = Array.prototype.slice.call(document.querySelectorAll('#filterable-posts .filter-item'));
   var emptyMsg = document.getElementById('filter-empty');
+  var resultCount = document.getElementById('filter-result-count');
+  var resultCountInline = document.getElementById('filter-result-count-inline');
   var active = new Set();
+  var mode = 'any';
+  var action = 'show';
+  var onlyFlag = false;
+
+  var sentence = document.getElementById('filter-sentence');
+  var actionToggle = document.getElementById('action-toggle');
+  var actionLabel = document.getElementById('action-label');
+  var modeToggle = document.getElementById('mode-toggle');
+  var modeLabel = document.getElementById('mode-label');
+  var connector = document.getElementById('filter-connector');
+  var refSpan = document.getElementById('filter-sentence-ref');
+  var onlyToggle = document.getElementById('only-toggle');
+  var onlySep = onlyToggle.previousElementSibling;
+  var onlyEnd = onlyToggle.nextElementSibling;
+  var onlyLabel = onlyToggle.querySelector('.ftoggle-label');
+
+  function bindSwitch(el, onActivate) {
+    el.addEventListener('click', onActivate);
+    el.addEventListener('keydown', function (e) {
+      if (e.key === 'Enter' || e.key === ' ') {
+        e.preventDefault();
+        onActivate();
+      }
+    });
+  }
+
+  function setSwitch(el, on) {
+    el.classList.toggle('on', on);
+    el.setAttribute('aria-checked', on ? 'true' : 'false');
+  }
+
+  // "any"/"all" pick the base match; "only" is an independent modifier that
+  // ANDs on top -- e.g. All + Only means the post's categories are EXACTLY
+  // the selection (no more, no less), not just "contains all of them".
+  function matchesSelection(cats, activeList) {
+    var base;
+    if (activeList.length > 1 && mode === 'all') {
+      base = activeList.every(function (c) { return cats.indexOf(c) !== -1; });
+    } else {
+      base = cats.some(function (c) { return active.has(c); });
+    }
+    if (onlyFlag) {
+      base = base && cats.length > 0 && cats.every(function (c) { return active.has(c); });
+    }
+    return base;
+  }
+
+  function updateSentence() {
+    if (active.size === 0) {
+      sentence.style.display = 'none';
+      return;
+    }
+    sentence.style.display = '';
+    actionLabel.textContent = action === 'hide' ? 'Hiding' : 'Showing';
+    setSwitch(actionToggle, action === 'hide');
+
+    if (active.size > 1) {
+      modeToggle.style.display = '';
+      modeLabel.textContent = mode;
+      setSwitch(modeToggle, mode === 'all');
+      connector.textContent = ' of ';
+      refSpan.textContent = 'these';
+    } else {
+      modeToggle.style.display = 'none';
+      connector.textContent = ' ';
+      refSpan.textContent = 'this';
+    }
+    setSwitch(onlyToggle, onlyFlag);
+    // The restriction is off by default -- struck-through label, and the
+    // sentence reads as already ended ("...these.") rather than continuing
+    // into a clause that isn't actually applied ("...these, and nothing else.").
+    onlySep.textContent = onlyFlag ? ',' : '.';
+    onlyEnd.textContent = onlyFlag ? '.' : '';
+    onlyLabel.classList.toggle('struck', !onlyFlag);
+  }
 
   function render() {
     var showAll = active.size === 0;
+    var activeList = Array.from(active);
     var visible = 0;
     items.forEach(function (item) {
       var cats = (item.getAttribute('data-categories') || '').split('|').filter(Boolean);
-      var match = showAll || cats.some(function (c) { return active.has(c); });
+      var match;
+      if (showAll) {
+        match = true;
+      } else {
+        var selected = matchesSelection(cats, activeList);
+        match = action === 'hide' ? !selected : selected;
+      }
       item.style.display = match ? '' : 'none';
       if (match) visible++;
     });
     emptyMsg.style.display = visible === 0 ? 'block' : 'none';
-    allChip.classList.toggle('active', showAll);
+    var countText = visible + (visible === 1 ? ' post' : ' posts');
+    // The count lives inside the sentence pill (far right) when it's showing,
+    // and on its own line when there's no active filter to show a sentence for.
+    resultCount.textContent = countText;
+    resultCount.style.display = showAll ? '' : 'none';
+    resultCountInline.textContent = countText;
+    var fullySelected = !showAll && chips.every(function (chip) {
+      return chip === allChip || active.has(chip.getAttribute('data-filter'));
+    });
+    allChip.classList.toggle('active', showAll || fullySelected);
     chips.forEach(function (chip) {
       if (chip === allChip) return;
       chip.classList.toggle('active', active.has(chip.getAttribute('data-filter')));
     });
+    updateSentence();
   }
 
   function toggle(key) {
@@ -75,7 +173,25 @@ title: All Posts
   }
 
   allChip.addEventListener('click', function () {
+    var wasFullySelected = chips.every(function (chip) {
+      return chip === allChip || active.has(chip.getAttribute('data-filter'));
+    });
     active.clear();
+    action = 'show';
+    if (!wasFullySelected) {
+      chips.forEach(function (chip) {
+        if (chip === allChip) return;
+        active.add(chip.getAttribute('data-filter'));
+      });
+      // Selecting everything is only useful for narrowing down if unchecking a
+      // category actually excludes posts that carry it -- that needs Any+Only
+      // (posts whose categories are entirely within what's still selected).
+      mode = 'any';
+      onlyFlag = true;
+    } else {
+      mode = 'any';
+      onlyFlag = false;
+    }
     render();
   });
 
@@ -86,11 +202,29 @@ title: All Posts
     });
   });
 
+  bindSwitch(actionToggle, function () {
+    action = action === 'show' ? 'hide' : 'show';
+    render();
+  });
+
+  bindSwitch(modeToggle, function () {
+    mode = mode === 'any' ? 'all' : 'any';
+    render();
+  });
+
+  bindSwitch(onlyToggle, function () {
+    onlyFlag = !onlyFlag;
+    render();
+  });
+
   var postBadges = Array.prototype.slice.call(document.querySelectorAll('.post-cat-badge'));
   postBadges.forEach(function (badge) {
     badge.addEventListener('click', function () {
       active.clear();
       active.add(badge.getAttribute('data-filter'));
+      mode = 'any';
+      action = 'show';
+      onlyFlag = false;
       render();
       window.scrollTo({ top: 0, behavior: 'smooth' });
     });

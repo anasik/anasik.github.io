@@ -815,7 +815,7 @@ button.category-badge-static:hover {
     flex-wrap: wrap;
     gap: 8px;
     padding: 15px;
-    margin-bottom: 30px;
+    margin-bottom: 12px;
     background: aliceblue;
 }
 
@@ -844,6 +844,213 @@ button.category-badge-static:hover {
 .filter-chip .filter-count {
     opacity: 0.7;
     font-size: 12px;
+}
+
+.filter-sentence {
+    display: flex;
+    align-items: baseline;
+    flex-wrap: wrap;
+    gap: 8px 16px;
+    background: aliceblue;
+    border-radius: 8px;
+    padding: 12px 18px;
+    margin: 0 0 30px 0;
+    font-size: 15px;
+    color: #444;
+    line-height: 1.6;
+}
+
+.filter-sentence-text {
+    flex: 1 1 auto;
+}
+
+.filter-result-count-inline {
+    flex-shrink: 0;
+    margin-left: auto;
+    color: #828282;
+    font-size: 0.85rem;
+    white-space: nowrap;
+}
+
+/* ==========================================================================
+   filter-sentence live toggles
+
+   Each toggle is the same markup everywhere:
+     <span class="ftoggle ftoggle--STYLE" data-role="...">
+       <span class="ftoggle-track"><span class="ftoggle-thumb"></span></span>
+       <span class="ftoggle-label">...</span>
+     </span>
+   Swapping which style renders is just swapping the ftoggle--* modifier
+   class on that one element -- pick from:
+     ftoggle--switch-merged  (default) knob visible, label lives in the track
+     ftoggle--switch-beside  switch with its label beside it
+     ftoggle--switch-below   switch with its label caption underneath
+     ftoggle--pill           no separate switch, solid pill with label inside
+   ========================================================================== */
+
+.ftoggle {
+    display: inline-flex;
+    cursor: pointer;
+    vertical-align: middle;
+}
+
+.ftoggle .ftoggle-label {
+    font-weight: 700;
+    transition: color 0.15s ease-in, padding 0.15s ease-in;
+}
+
+.ftoggle .ftoggle-track {
+    position: relative;
+    border-radius: 999px;
+    transition: background 0.15s ease-in;
+    flex-shrink: 0;
+}
+
+.ftoggle .ftoggle-thumb {
+    position: absolute;
+    border-radius: 50%;
+    background: white;
+    transition: left 0.15s ease-in;
+}
+
+/* the "only" toggle's label when that restriction isn't applied */
+.struck {
+    text-decoration: line-through;
+    opacity: 0.8;
+}
+
+/* ---- switch-beside: switch, then label next to it ---- */
+.ftoggle--switch-beside {
+    align-items: center;
+    gap: 6px;
+    margin: 0 2px;
+}
+.ftoggle--switch-beside .ftoggle-track {
+    width: 32px;
+    height: 18px;
+    background: #b7bec5;
+    box-shadow: inset 0 1px 2px rgba(0, 0, 0, 0.15);
+}
+.ftoggle--switch-beside .ftoggle-thumb {
+    top: 2px;
+    left: 2px;
+    width: 14px;
+    height: 14px;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.3);
+}
+.ftoggle--switch-beside.on .ftoggle-track { background: steelblue; }
+.ftoggle--switch-beside.on .ftoggle-thumb { left: 16px; }
+.ftoggle--switch-beside:hover .ftoggle-track { filter: brightness(0.94); }
+.ftoggle--switch-beside .ftoggle-label {
+    font-size: 0.92em;
+    color: #767b85;
+}
+.ftoggle--switch-beside.on .ftoggle-label { color: steelblue; }
+
+/* ---- switch-below: switch on top, label caption underneath, both as one unit ---- */
+.ftoggle--switch-below {
+    flex-direction: column;
+    align-items: center;
+    gap: 3px;
+    margin: 0 4px;
+    padding: 4px 8px;
+    border-radius: 8px;
+    transition: background 0.15s ease-in;
+}
+.ftoggle--switch-below:hover { background: rgba(70, 130, 180, 0.08); }
+.ftoggle--switch-below .ftoggle-track {
+    width: 32px;
+    height: 18px;
+    background: #b7bec5;
+    box-shadow: inset 0 1px 2px rgba(0, 0, 0, 0.15);
+}
+.ftoggle--switch-below .ftoggle-thumb {
+    top: 2px;
+    left: 2px;
+    width: 14px;
+    height: 14px;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.3);
+}
+.ftoggle--switch-below.on .ftoggle-track { background: steelblue; }
+.ftoggle--switch-below.on .ftoggle-thumb { left: 16px; }
+.ftoggle--switch-below .ftoggle-label {
+    font-size: 0.7em;
+    letter-spacing: 0.03em;
+    color: #767b85;
+    line-height: 1;
+    text-transform: uppercase;
+}
+.ftoggle--switch-below.on .ftoggle-label { color: steelblue; }
+
+/* ---- pill: no separate switch, solid pill with the label inside it ---- */
+.ftoggle--pill {
+    align-items: center;
+    justify-content: center;
+    margin: 0 3px;
+    min-width: 84px;
+    height: 24px;
+    padding: 0 8px;
+    border-radius: 999px;
+    background: #d6dce2;
+    box-shadow: inset 0 1px 2px rgba(0, 0, 0, 0.12);
+    transition: background 0.15s ease-in;
+}
+.ftoggle--pill.on {
+    background: steelblue;
+    box-shadow: 0 1px 3px rgba(70, 130, 180, 0.4);
+}
+.ftoggle--pill:hover { filter: brightness(0.95); }
+.ftoggle--pill .ftoggle-track { display: none; }
+.ftoggle--pill .ftoggle-label {
+    font-size: 0.78em;
+    color: #5b626a;
+}
+.ftoggle--pill.on .ftoggle-label { color: aliceblue; }
+
+/* ---- switch-merged: knob stays visible, label lives in the track and
+   shifts to whichever side the knob isn't currently on ---- */
+.ftoggle--switch-merged {
+    position: relative;
+    align-items: center;
+    height: 24px;
+    border-radius: 999px;
+    background: #838d98;
+    overflow: hidden;
+    margin: 0 3px;
+}
+.ftoggle--switch-merged.on { background: steelblue; }
+.ftoggle--switch-merged .ftoggle-track {
+    position: absolute;
+    inset: 0;
+    background: none;
+}
+.ftoggle--switch-merged .ftoggle-thumb {
+    top: 3px;
+    left: 3px;
+    width: 18px;
+    height: 18px;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.35);
+    z-index: 2;
+}
+.ftoggle--switch-merged.on .ftoggle-thumb { left: calc(100% - 21px); }
+.ftoggle--switch-merged .ftoggle-label {
+    font-size: 0.78em;
+    color: white;
+    white-space: nowrap;
+    padding-left: 24px;
+    padding-right: 8px;
+    text-align: left;
+}
+.ftoggle--switch-merged.on .ftoggle-label {
+    padding-left: 8px;
+    padding-right: 24px;
+    text-align: right;
+}
+
+.filter-result-count {
+    color: #828282;
+    font-size: 0.85rem;
+    margin: 0 0 20px 4px;
 }
 
 .filter-empty {
@@ -962,6 +1169,71 @@ header .social-media-list li .username {
 
     .filter-chip .filter-count {
         font-size: 9px;
+    }
+
+    .filter-sentence {
+        font-size: 12px;
+        padding: 10px 12px;
+        margin-bottom: 15px;
+        line-height: 2.2;
+    }
+
+    .ftoggle--switch-beside .ftoggle-track,
+    .ftoggle--switch-below .ftoggle-track {
+        width: 26px;
+        height: 15px;
+    }
+
+    .ftoggle--switch-beside .ftoggle-thumb,
+    .ftoggle--switch-below .ftoggle-thumb {
+        width: 11px;
+        height: 11px;
+    }
+
+    .ftoggle--switch-beside.on .ftoggle-thumb,
+    .ftoggle--switch-below.on .ftoggle-thumb {
+        left: 13px;
+    }
+
+    .ftoggle--switch-merged {
+        height: 18px;
+    }
+
+    .ftoggle--switch-merged .ftoggle-thumb {
+        top: 3px;
+        left: 3px;
+        width: 12px;
+        height: 12px;
+    }
+
+    .ftoggle--switch-merged.on .ftoggle-thumb {
+        left: calc(100% - 15px);
+    }
+
+    .ftoggle--switch-merged .ftoggle-label {
+        font-size: 9px;
+        padding-left: 18px;
+        padding-right: 6px;
+    }
+
+    .ftoggle--switch-merged.on .ftoggle-label {
+        padding-left: 6px;
+        padding-right: 18px;
+    }
+
+    .ftoggle--pill {
+        height: 18px;
+        min-width: 60px;
+        padding: 0 6px;
+    }
+
+    .ftoggle--pill .ftoggle-label {
+        font-size: 9px;
+    }
+
+    .filter-result-count-inline,
+    .filter-result-count {
+        font-size: 10px;
     }
 
     .post-categories {
