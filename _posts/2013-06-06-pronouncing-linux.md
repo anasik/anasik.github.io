@@ -24,4 +24,4 @@ Though, ive always pronounced it as the latter, I realized that Linux has been n
 
 I actually researched on the subject, and on the internet, i came across this recording of Linus Torwalds himself, pronouncing the word as Linus.
 
-Here, [give it a &#8220;](http://www.paul.sladen.org/pronunciation/torvalds-says-linux.mp3)_[hear.&#8221;](http://www.paul.sladen.org/pronunciation/torvalds-says-linux.mp3)__   _😀 😉
+Here, [give it a &#8220;](http://www.paul.sladen.org/pronunciation/torvalds-says-linux.mp3)_[hear.&#8221;](http://www.paul.sladen.org/pronunciation/torvalds-says-linux.mp3)_   😀 😉

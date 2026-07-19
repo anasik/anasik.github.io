@@ -11,10 +11,9 @@ categories:
   - Tech
   - Tutorials
 ---
-Ubuntu&#8217;s Unity interface greatly resembles that of MacOSX, and that includes _T__he Global menu_, AKA _The Mac Menu, _which shows the _Application menu(File, View, Edit, e.t.c.) _ in the _top bar. _  
-__
+Ubuntu&#8217;s Unity interface greatly resembles that of MacOSX, and that includes _The Global menu_, AKA _The Mac Menu,_ which shows the _Application menu(File, View, Edit, e.t.c.)_ in the _top bar._  
 
-Macbuntu, an _Ubuntu to MacOSX Transformation pack, _which i was so tempted to try, didnt work too well for me, and thus I uninstalled it. Yet, it left the scars; in this case, by permanently messing up the _global menu. _
+Macbuntu, an _Ubuntu to MacOSX Transformation pack,_ which i was so tempted to try, didnt work too well for me, and thus I uninstalled it. Yet, it left the scars; in this case, by permanently messing up the _global menu._
 
 This is how i fixed it. (terminal):
 

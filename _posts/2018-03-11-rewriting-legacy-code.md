@@ -13,7 +13,7 @@ categories:
 ---
 I once wrote an answer on Quora about the improbability of a programming language to completely die out once it has gained popularity. The idea, not so original, was that there are two factors preventing a language from dying:
 
-  1. A significant amount of code is written in it and a significant amount of people or _other __code _depend strongly on it. An example is Linux. Now Linux has always been C and always will be. As long as Linux exists, it would be impossible for C to die out.
+  1. A significant amount of code is written in it and a significant amount of people or _other code_ depend strongly on it. An example is Linux. Now Linux has always been C and always will be. As long as Linux exists, it would be impossible for C to die out.
   2. Everyone knows about it. The problem with a programming language being popular enough for it&#8217;s existence to be common knowledge is that there will always be people who&#8217;ll be fond of it and would want it to never die out. The best example would be Richard Eng, the smalltalk evangelist who has grown more popular than the language itself and likes to call himself Mr. Smalltalk.
 
 This post is about the first reason. C, PHP and JavaScript are three of the most popular and most hated languages that are getting closer and closer to being about as old as time itself. For my own reasons, I both like and dislike the 3 and also rely a lot on them. Let&#8217;s assume everyone agrees to killing all 3 of them. Now the problem is that C is:
@@ -24,7 +24,7 @@ This post is about the first reason. C, PHP and JavaScript are three of the most
 
 <!--more-->
 
-Similarly, JavaScript and PHP are easily the languages that together make up the largest percentage of all the code on the web. JavaScript, being _the _language for client-side programming, is obviously inevitable in all but the most static of web-pages whereas PHP powers WordPress which powers more than 50% of all the blogs on the web and it&#8217;s one of the oldest, easiest, quickest-to-deploy, and the most practical, if not the best, language for server-side scripting.
+Similarly, JavaScript and PHP are easily the languages that together make up the largest percentage of all the code on the web. JavaScript, being _the_ language for client-side programming, is obviously inevitable in all but the most static of web-pages whereas PHP powers WordPress which powers more than 50% of all the blogs on the web and it&#8217;s one of the oldest, easiest, quickest-to-deploy, and the most practical, if not the best, language for server-side scripting.
 
 If we kill them, the following things might happen:
 
@@ -40,4 +40,4 @@ But why? Let&#8217;s take a look at the events again. The reaction was fairly de
 
 How do we do that? By setting up an international body of standardized coding and to grant them the responsibility of rewriting all to-be-legacy code before killing a language.
 
-Imagine a Linux Kernel and the whole GNU toolkit redone in Rust or Node.JS based Facebook. I like to call this _The Great Rewrite, _a historical moment in the timeline of computer-science progress when all developers puts aside their ego and pride and preferences and agree to do what&#8217;s best for everyone in order to ensure a better future of coding.
+Imagine a Linux Kernel and the whole GNU toolkit redone in Rust or Node.JS based Facebook. I like to call this _The Great Rewrite,_ a historical moment in the timeline of computer-science progress when all developers puts aside their ego and pride and preferences and agree to do what&#8217;s best for everyone in order to ensure a better future of coding.

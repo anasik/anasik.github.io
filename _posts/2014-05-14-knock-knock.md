@@ -12,4 +12,4 @@ categories:
 ---
 > _*_
 
-> _Rings a bell*_
+> _Rings a bell_

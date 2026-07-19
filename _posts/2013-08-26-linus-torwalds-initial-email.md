@@ -39,5 +39,4 @@ From: mailto: <a href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=torv
 </p>
 ```
 
-> **Credits: _[www.linux.com/news/software/linux-kernel/734956-linuss-famous-email](https://www.linux.com/news/software/linux-kernel/734956-linuss-famous-email)_  
->**
+> **Credits: _[www.linux.com/news/software/linux-kernel/734956-linuss-famous-email](https://www.linux.com/news/software/linux-kernel/734956-linuss-famous-email)_**
