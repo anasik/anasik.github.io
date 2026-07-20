@@ -1,11 +1,67 @@
 <header class="site-header" role="banner">
   <h1 class="site-title-main"><a href={{site.url}}>{{ site.title }}</a></h1>
   {%- include social.html -%}
-  <div style="display: flex; gap: 5px;">
+  <div style="display: flex; gap: 5px; align-items: center;">
     <div class="poor-mans-menu-button"><a href="/about">About Me</a></div>
     <div class="poor-mans-menu-button"><a href="/list">All Posts</a></div>
+    <!-- <div class="poor-mans-menu-button"><a href="/categories">Categories</a></div> -->
   </div>
 </header>
+
+<div class="theme-toggle" id="theme-toggle" role="group" aria-label="Theme">
+  <button type="button" class="theme-option" data-theme-choice="light" title="Light" aria-label="Light theme">
+    <svg viewBox="0 0 24 24" width="16" height="16" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="4"></circle><line x1="12" y1="2" x2="12" y2="4"></line><line x1="12" y1="20" x2="12" y2="22"></line><line x1="4.93" y1="4.93" x2="6.34" y2="6.34"></line><line x1="17.66" y1="17.66" x2="19.07" y2="19.07"></line><line x1="2" y1="12" x2="4" y2="12"></line><line x1="20" y1="12" x2="22" y2="12"></line><line x1="4.93" y1="19.07" x2="6.34" y2="17.66"></line><line x1="17.66" y1="6.34" x2="19.07" y2="4.93"></line></svg>
+  </button>
+  <button type="button" class="theme-option" data-theme-choice="dark" title="Dark" aria-label="Dark theme">
+    <svg viewBox="0 0 24 24" width="16" height="16" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"></path></svg>
+  </button>
+  <button type="button" class="theme-option" data-theme-choice="system" title="System" aria-label="Match your system setting">
+    <svg viewBox="0 0 24 24" width="16" height="16" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="2" y="3" width="20" height="14" rx="2" ry="2"></rect><line x1="8" y1="21" x2="16" y2="21"></line><line x1="12" y1="17" x2="12" y2="21"></line></svg>
+  </button>
+</div>
+
+<script>
+(function () {
+  var STORAGE_KEY = 'theme-preference';
+  var root = document.documentElement;
+  var toggle = document.getElementById('theme-toggle');
+  if (!toggle) return;
+  var buttons = Array.prototype.slice.call(toggle.querySelectorAll('.theme-option'));
+
+  function apply(choice) {
+    if (choice === 'light' || choice === 'dark') {
+      root.setAttribute('data-theme', choice);
+    } else {
+      root.removeAttribute('data-theme');
+      choice = 'system';
+    }
+    buttons.forEach(function (btn) {
+      btn.classList.toggle('active', btn.getAttribute('data-theme-choice') === choice);
+    });
+  }
+
+  function setChoice(choice) {
+    try {
+      if (choice === 'system') {
+        localStorage.removeItem(STORAGE_KEY);
+      } else {
+        localStorage.setItem(STORAGE_KEY, choice);
+      }
+    } catch (e) {}
+    apply(choice);
+  }
+
+  buttons.forEach(function (btn) {
+    btn.addEventListener('click', function () {
+      setChoice(btn.getAttribute('data-theme-choice'));
+    });
+  });
+
+  var stored = null;
+  try { stored = localStorage.getItem(STORAGE_KEY); } catch (e) {}
+  apply(stored);
+})();
+</script>
 <!--
 
   <div class="wrapper">
