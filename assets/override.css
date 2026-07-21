@@ -126,6 +126,7 @@ body {
     display: flex;
     min-height: 100vh;
     flex-direction: column;
+    overflow-x: hidden;
     /* background: #eee;
     text-shadow: 1px 1px white; */
 }
@@ -1216,6 +1217,7 @@ button.category-badge-static:hover {
 .post-body,
 article {
     color: var(--text-body);
+    overflow-wrap: break-word;
 }
 
 .post-meta {
@@ -1228,20 +1230,83 @@ h1.site-title-main a {
     text-transform: uppercase;
     font-weight: 800;
     display: block;
+    margin-bottom: 8px;
 }
 
 .site-header {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
     text-align: center;
-    margin: 40px 0;
+    padding: 22px 0 14px;
+    margin: 0;
 }
 
-.poor-mans-menu-button a {
+/* The generic `ul { margin-bottom: 15px }` reset rule is meant for lists
+   inside body copy -- it isn't relevant here, since spacing between the
+   title and the icon row is handled by .site-header's own `gap` instead. */
+.site-header .social-media-list {
+    margin: 0;
+}
+
+/* One continuous segmented pill -- the container clips corners via
+   overflow:hidden and its own border-radius; the links inside are flush
+   rectangles with no radius or gap of their own, so they read as one shape
+   divided by state rather than several small pills floating apart. */
+.site-nav-corner {
+    position: fixed;
+    top: 15px;
+    left: 15px;
+    z-index: 100;
+    display: inline-flex;
     background: var(--bg-card);
-    padding: 20px;
-    display: block;
+    border-radius: 999px;
+    overflow: hidden;
+    box-shadow: 0 1px 8px var(--shadow);
+}
+
+.nav-corner-link {
+    display: inline-flex;
+    align-items: center;
+    padding: 8px 16px;
+    color: var(--text-muted) !important;
+    font-size: 13px;
+    font-weight: 600;
+    transition: all 0.15s ease-in;
+}
+
+.nav-corner-link + .nav-corner-link {
+    border-left: 1px solid var(--border);
+}
+
+.nav-corner-icon {
+    padding-left: 12px;
+    padding-right: 12px;
+}
+
+.nav-corner-link:hover {
+    background: var(--accent);
+    color: var(--accent-ink) !important;
+}
+
+.nav-corner-link.active {
+    background: var(--accent);
+    color: var(--accent-ink) !important;
+    cursor: default;
+}
+
+@media screen and (max-width: 600px) {
+    .site-nav-corner {
+        top: 8px;
+        left: 8px;
+    }
+
+    .nav-corner-link {
+        font-size: 11px;
+        padding: 6px 12px;
+    }
+
+    .nav-corner-icon {
+        padding-left: 9px;
+        padding-right: 9px;
+    }
 }
 
 .theme-toggle {
@@ -1295,6 +1360,55 @@ h1.site-title-main a {
     .theme-option svg {
         width: 13px;
         height: 13px;
+    }
+}
+
+/* Hidden until you've actually scrolled down, so it doesn't clutter the
+   corner on short pages or before there's anywhere useful to jump back to. */
+.scroll-top-btn {
+    position: fixed;
+    bottom: 15px;
+    right: 15px;
+    z-index: 100;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 42px;
+    height: 42px;
+    border: none;
+    border-radius: 50%;
+    background: var(--bg-card);
+    color: var(--text-muted);
+    box-shadow: 0 1px 8px var(--shadow);
+    cursor: pointer;
+    opacity: 0;
+    transform: translateY(8px);
+    pointer-events: none;
+    transition: opacity 0.2s ease-in, transform 0.2s ease-in, background 0.15s ease-in, color 0.15s ease-in;
+}
+
+.scroll-top-btn.visible {
+    opacity: 1;
+    transform: translateY(0);
+    pointer-events: auto;
+}
+
+.scroll-top-btn:hover {
+    background: var(--accent);
+    color: var(--accent-ink);
+}
+
+@media screen and (max-width: 600px) {
+    .scroll-top-btn {
+        bottom: 8px;
+        right: 8px;
+        width: 34px;
+        height: 34px;
+    }
+
+    .scroll-top-btn svg {
+        width: 15px;
+        height: 15px;
     }
 }
 
