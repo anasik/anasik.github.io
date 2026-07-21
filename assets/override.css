@@ -1258,6 +1258,7 @@ h1.site-title-main a {
     display: inline-flex;
     background: var(--bg-card);
     border-radius: 999px;
+    padding: 4px;
     overflow: hidden;
     box-shadow: 0 1px 8px var(--shadow);
 }
@@ -1265,7 +1266,7 @@ h1.site-title-main a {
 .nav-corner-link {
     display: inline-flex;
     align-items: center;
-    padding: 8px 16px;
+    padding: 5px 16px;
     color: var(--text-muted) !important;
     font-size: 13px;
     font-weight: 600;
@@ -1274,6 +1275,16 @@ h1.site-title-main a {
 
 .nav-corner-link + .nav-corner-link {
     border-left: 1px solid var(--border);
+}
+
+.nav-corner-link:first-child {
+    border-top-left-radius: 999px;
+    border-bottom-left-radius: 999px;
+}
+
+.nav-corner-link:last-child {
+    border-top-right-radius: 999px;
+    border-bottom-right-radius: 999px;
 }
 
 .nav-corner-icon {
@@ -1296,11 +1307,12 @@ h1.site-title-main a {
     .site-nav-corner {
         top: 8px;
         left: 8px;
+        padding: 3px;
     }
 
     .nav-corner-link {
         font-size: 11px;
-        padding: 6px 12px;
+        padding: 4px 12px;
     }
 
     .nav-corner-icon {
