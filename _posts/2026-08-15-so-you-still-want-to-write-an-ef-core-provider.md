@@ -5,8 +5,8 @@ called *"So you want to write an EF Core provider."* The post says right at the 
 November 11th, 2016."* It was written against EF Core 1.1, and almost none of the specific types it names still exist.
 
 Last year, when I wanted to write a provider for Azure Database Explorer AKA Kusto, I found myself reading that post
-and struggling to fill in the gaps. So when I actually finished writing [my provider](https://github.com/anasik/EFCore.Kusto) and (the introductory blog post about
-it)[https://anasismail.com/i-wrote-an-ef-core-provider/], I made a note to write a spiritual successor to Arthur's post, explaining what has changed in the last ten years. This is that post.
+and struggling to fill in the gaps. So when I actually finished writing [my provider](https://github.com/anasik/EFCore.Kusto) and [the introductory blog post about
+it](https://anasismail.com/i-wrote-an-ef-core-provider/), I made a note to write a spiritual successor to Arthur's post, explaining what has changed in the last ten years. This is that post.
 
 This post tries to follow the roadmap of the orignal post as closely as possible but it deviates where necessary to better match the natural order of implementation today. This post also highlights the differences
 between the original post and the current state of EF Core, so you can see what has changed and what has stayed the same
@@ -85,7 +85,7 @@ public sealed class MyProviderUpdateSqlGenerator : IUpdateSqlGenerator
         StringBuilder commandStringBuilder, IReadOnlyModificationCommand command, int commandPosition, out bool requiresTransaction)
         => throw new NotImplementedException();
 
-    // Same shape for the other nine members listed below.
+    // The other nine members follow the same pattern:
     // GenerateNextSequenceValueOperation
     // AppendNextSequenceValueOperation
     // GenerateObtainNextSequenceValueOperation
@@ -252,8 +252,6 @@ public sealed class MyProviderDbDataReader(List<Dictionary<string, object?>> row
     public override object this[int ordinal] => GetValue(ordinal);
     public override object this[string name] => GetValue(GetOrdinal(name));
 
-    // Streaming/schema APIs a simple provider never hits: GetBytes, GetChars, GetValues,
-    // GetFieldType, GetDataTypeName. Throw if you never call them yourself.
     public override int GetValues(object[] values) => throw new NotSupportedException();
     public override long GetBytes(int ordinal, long dataOffset, byte[]? buffer, int bufferOffset, int length) => throw new NotSupportedException();
     public override long GetChars(int ordinal, long dataOffset, char[]? buffer, int bufferOffset, int length) => throw new NotSupportedException();
@@ -326,7 +324,7 @@ public sealed class MyProviderOptionsExtension : RelationalOptionsExtension
 
 ### Create a 'Use...' method
 
-Largely unchanged from the 2016 post because this is just convention and not a service implementation. This is the method that users call in their `DbContext.OnConfiguring`. There can and should be multiple overloads of this. The simplest one takes a connection string.
+This part is just convention rather than a service implementation, so it's largely unchanged from the 2016 post. Users call this method in their `DbContext.OnConfiguring`. There can and should be multiple overloads of it. The simplest one takes a connection string.
 
 ```csharp
 public static class MyProviderDbContextOptionsBuilderExtensions
