@@ -25,7 +25,7 @@ public sealed class MyProviderDatabaseProvider : IDatabaseProvider
     public bool IsConfigured(IDbContextOptions options)
         => options.FindExtension<MyProviderOptionsExtension>() != null;
 }
-```
+```<!--more-->
 
 Then we have `IRelationalTypeMappingSource` which maps CLR types to your database's column types.
 
