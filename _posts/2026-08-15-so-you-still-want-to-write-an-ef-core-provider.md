@@ -1,5 +1,3 @@
-# So You (Still) Want to Write an EF Core Provider
-
 In 2016, [Arthur Vickers wrote a post](https://blog.oneunicorn.com/2016/11/11/so-you-want-to-write-an-ef-core-provider/)
 called *"So you want to write an EF Core provider."* The post says right at the bottom that it's *"up-to-date as of
 November 11th, 2016."* It was written against EF Core 1.1, and almost none of the specific types it names still exist.
