@@ -117,101 +117,59 @@ public sealed class MyProviderConnection(RelationalConnectionDependencies depend
 <details markdown="1">
 <summary>Click here to expand detailed instructions if your database's client SDK doesn't use ADO.NET at all.</summary>
 
+If your client SDK doesn't use ADO.NET at all, you have to subclass another whole bunch of classes, starting with `DbParameter`
+
 ```csharp
-public sealed class MyProviderConnection(RelationalConnectionDependencies dependencies) : RelationalConnection(dependencies)
+private sealed class MyProviderDbParameter : DbParameter
 {
-    protected override DbConnection CreateDbConnection() => new MyProviderDbConnection(ConnectionString);
+    public override DbType DbType { get; set; }
+    public override ParameterDirection Direction { get; set; } = ParameterDirection.Input;
+    public override bool IsNullable { get; set; }
+    public override string ParameterName { get; set; } = "";
+    public override int Size { get; set; }
+    public override string SourceColumn { get; set; } = "";
+    public override bool SourceColumnNullMapping { get; set; }
+    public override object? Value { get; set; }
+    public override void ResetDbType() { }
+}
+```
 
-    private sealed class MyProviderDbConnection(string connectionString) : DbConnection
+Next, we have `DbParameterCollection` that implements `IList`. We can just wrap a `List<MyProviderDbParameter>`.
+
+```csharp
+private sealed class MyProviderDbParameterCollection : DbParameterCollection
+{
+    private readonly List<MyProviderDbParameter> _parameters = new();
+    public override int Count => _parameters.Count;
+    public override object SyncRoot => _parameters;
+
+    public override int Add(object value)
     {
-        public override string ConnectionString { get; set; } = connectionString;
-        public override string Database => "";
-        public override string DataSource => "";
-        public override string ServerVersion => "MyProvider";
-        public override ConnectionState State => ConnectionState.Open;
-
-        public override void Open() { }
-        public override void Close() { }
-        public override void ChangeDatabase(string databaseName) { }
-
-        protected override DbTransaction BeginDbTransaction(IsolationLevel isolationLevel)
-            => throw new NotSupportedException();
-
-        protected override DbCommand CreateDbCommand() => new MyProviderDbCommand { Connection = this };
+        _parameters.Add((MyProviderDbParameter)value);
+        return _parameters.Count - 1;
     }
 
-    private sealed class MyProviderDbCommand : DbCommand
+    public override void AddRange(Array values)
     {
-        public override string CommandText { get; set; } = "";
-        public override int CommandTimeout { get; set; }
-        public override CommandType CommandType { get; set; } = CommandType.Text;
-        public override bool DesignTimeVisible { get; set; }
-        public override UpdateRowSource UpdatedRowSource { get; set; }
-        protected override DbConnection? DbConnection { get; set; }
-        protected override DbParameterCollection DbParameterCollection { get; } = new MyProviderDbParameterCollection();
-        protected override DbTransaction? DbTransaction { get; set; }
+        foreach (var value in values) Add(value!);
+    }
 
-        public override void Cancel() { }
-        public override void Prepare() { }
-        protected override DbParameter CreateDbParameter() => new MyProviderDbParameter();
-        public override int ExecuteNonQuery() => throw new NotSupportedException();
-        public override object? ExecuteScalar() => throw new NotSupportedException();
+    public override void Clear() => _parameters.Clear();
+    public override bool Contains(object value) => _parameters.Contains((MyProviderDbParameter)value);
+    public override bool Contains(string value) => IndexOf(value) >= 0;
+    public override void CopyTo(Array array, int index) => ((IList)_parameters).CopyTo(array, index);
+    public override IEnumerator GetEnumerator() => _parameters.GetEnumerator();
+    public override int IndexOf(object value) => _parameters.IndexOf((MyProviderDbParameter)value);
+    public override int IndexOf(string parameterName) => _parameters.FindIndex(p => p.ParameterName == parameterName);
+    public override void Insert(int index, object value) => _parameters.Insert(index, (MyProviderDbParameter)value);
+    public override void Remove(object value) => _parameters.Remove((MyProviderDbParameter)value);
+    public override void RemoveAt(int index) => _parameters.RemoveAt(index);
+    public override void RemoveAt(string parameterName) => RemoveAt(IndexOf(parameterName));
 
-        protected override DbDataReader ExecuteDbDataReader(CommandBehavior behavior)
-        {
-            var rows = YourRealClient.Execute(CommandText, Parameters); // This is where you actually call your client SDK
-            return new MyProviderDbDataReader(rows);
-        }
-    }
-    
-    private sealed class MyProviderDbParameter : DbParameter
-    {
-        public override DbType DbType { get; set; }
-        public override ParameterDirection Direction { get; set; } = ParameterDirection.Input;
-        public override bool IsNullable { get; set; }
-        public override string ParameterName { get; set; } = "";
-        public override int Size { get; set; }
-        public override string SourceColumn { get; set; } = "";
-        public override bool SourceColumnNullMapping { get; set; }
-        public override object? Value { get; set; }
-        public override void ResetDbType() { }
-    }
-    
-    // DbParameterCollection is an abstract class that implements IList. We can just wrap a List<T> and implement the abstract members.
-    private sealed class MyProviderDbParameterCollection : DbParameterCollection
-    {
-        private readonly List<MyProviderDbParameter> _parameters = new();
-        public override int Count => _parameters.Count;
-        public override object SyncRoot => _parameters;
-    
-        public override int Add(object value)
-        {
-            _parameters.Add((MyProviderDbParameter)value);
-            return _parameters.Count - 1;
-        }
-    
-        public override void AddRange(Array values)
-        {
-            foreach (var value in values) Add(value!);
-        }
-    
-        public override void Clear() => _parameters.Clear();
-        public override bool Contains(object value) => _parameters.Contains((MyProviderDbParameter)value);
-        public override bool Contains(string value) => IndexOf(value) >= 0;
-        public override void CopyTo(Array array, int index) => ((IList)_parameters).CopyTo(array, index);
-        public override IEnumerator GetEnumerator() => _parameters.GetEnumerator();
-        public override int IndexOf(object value) => _parameters.IndexOf((MyProviderDbParameter)value);
-        public override int IndexOf(string parameterName) => _parameters.FindIndex(p => p.ParameterName == parameterName);
-        public override void Insert(int index, object value) => _parameters.Insert(index, (MyProviderDbParameter)value);
-        public override void Remove(object value) => _parameters.Remove((MyProviderDbParameter)value);
-        public override void RemoveAt(int index) => _parameters.RemoveAt(index);
-        public override void RemoveAt(string parameterName) => RemoveAt(IndexOf(parameterName));
-    
-        protected override DbParameter GetParameter(int index) => _parameters[index];
-        protected override DbParameter GetParameter(string parameterName) => _parameters[IndexOf(parameterName)];
-        protected override void SetParameter(int index, DbParameter value) => _parameters[index] = (MyProviderDbParameter)value;
-        protected override void SetParameter(string parameterName, DbParameter value) => _parameters[IndexOf(parameterName)] = (MyProviderDbParameter)value;
-    }
+    protected override DbParameter GetParameter(int index) => _parameters[index];
+    protected override DbParameter GetParameter(string parameterName) => _parameters[IndexOf(parameterName)];
+    protected override void SetParameter(int index, DbParameter value) => _parameters[index] = (MyProviderDbParameter)value;
+    protected override void SetParameter(string parameterName, DbParameter value) => _parameters[IndexOf(parameterName)] = (MyProviderDbParameter)value;
 }
 ```
 
@@ -261,6 +219,66 @@ public sealed class MyProviderDbDataReader(List<Dictionary<string, object?>> row
     public override long GetChars(int ordinal, long dataOffset, char[]? buffer, int bufferOffset, int length) => throw new NotSupportedException();
     public override Type GetFieldType(int ordinal) => throw new NotSupportedException();
     public override string GetDataTypeName(int ordinal) => throw new NotSupportedException();
+}
+```
+
+`DbCommand` ties it all together.
+
+```csharp
+private sealed class MyProviderDbCommand : DbCommand
+{
+    public override string CommandText { get; set; } = "";
+    public override int CommandTimeout { get; set; }
+    public override CommandType CommandType { get; set; } = CommandType.Text;
+    public override bool DesignTimeVisible { get; set; }
+    public override UpdateRowSource UpdatedRowSource { get; set; }
+    protected override DbConnection? DbConnection { get; set; }
+    protected override DbParameterCollection DbParameterCollection { get; } = new MyProviderDbParameterCollection();
+    protected override DbTransaction? DbTransaction { get; set; }
+
+    public override void Cancel() { }
+    public override void Prepare() { }
+    protected override DbParameter CreateDbParameter() => new MyProviderDbParameter();
+    public override int ExecuteNonQuery() => throw new NotSupportedException();
+    public override object? ExecuteScalar() => throw new NotSupportedException();
+
+    protected override DbDataReader ExecuteDbDataReader(CommandBehavior behavior)
+    {
+        var rows = YourRealClient.Execute(CommandText, Parameters);
+        return new MyProviderDbDataReader(rows);
+    }
+}
+```
+
+`DbConnection`'s only real job here is handing out commands via `CreateDbCommand`.
+
+```csharp
+private sealed class MyProviderDbConnection(string connectionString) : DbConnection
+{
+    public override string ConnectionString { get; set; } = connectionString;
+    public override string Database => "";
+    public override string DataSource => "";
+    public override string ServerVersion => "MyProvider";
+    public override ConnectionState State => ConnectionState.Open;
+
+    public override void Open() { }
+    public override void Close() { }
+    public override void ChangeDatabase(string databaseName) { }
+
+    protected override DbTransaction BeginDbTransaction(IsolationLevel isolationLevel)
+        => throw new NotSupportedException();
+
+    protected override DbCommand CreateDbCommand() => new MyProviderDbCommand { Connection = this };
+}
+```
+
+Finally, back in `MyProviderConnection`, `CreateDbConnection` returns our fake connection instead of a real ADO.NET
+one:
+
+```csharp
+public sealed class MyProviderConnection(RelationalConnectionDependencies dependencies) : RelationalConnection(dependencies)
+{
+    protected override DbConnection CreateDbConnection() => new MyProviderDbConnection(ConnectionString);
 }
 ```
 
