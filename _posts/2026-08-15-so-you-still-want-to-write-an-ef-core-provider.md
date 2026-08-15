@@ -98,7 +98,7 @@ public sealed class MyProviderConnection(RelationalConnectionDependencies depend
 }
 ```
 
-<details>
+<details markdown="1">
 <summary>Click here to expand detailed instructions if your database's client SDK doesn't use ADO.NET at all.</summary>
 
 ```csharp
