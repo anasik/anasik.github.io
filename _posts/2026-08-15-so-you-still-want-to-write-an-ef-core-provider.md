@@ -16,10 +16,7 @@ but it doesn't require you to read the original post to understand this one.
 
 ### Implement the services
 
-The 2016 post has you subclass one big `DatabaseProviderServices` class. Today, each service is its own class,
-registered individually.
-
-Let's start with `IDatabaseProvider`, our "Hello World!" moment. This interface was mentioned in the old post but was
+The 2016 post has you subclass one big `DatabaseProviderServices` class. Today, each service is its own class, registered individually. Let's start with `IDatabaseProvider`, our "Hello World!" moment. This interface was mentioned in the old post but was
 used very differently.
 
 ```csharp
@@ -71,10 +68,6 @@ public sealed class MyProviderModificationCommandBatchFactory(ModificationComman
     public ModificationCommandBatch Create() => new SingularModificationCommandBatch(dependencies);
 }
 ```
-
-If you want to implement batching, subclass `AffectedCountModificationCommandBatch` instead and return that from
-`Create()`.
-
 `IUpdateSqlGenerator` is pretty self-explanatory. This is where you generate the SQL for inserts, updates, and deletes.
 For now, we can just throw `NotImplementedException` for all of the methods.
 
