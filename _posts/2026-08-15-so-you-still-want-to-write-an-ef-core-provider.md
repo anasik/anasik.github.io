@@ -215,10 +215,7 @@ public sealed class MyProviderConnection(RelationalConnectionDependencies depend
 }
 ```
 
-`MyProviderDbDataReader` is what actually reads the rows returned by your client SDK. Here, we assume that the client
-SDK returns a `List<Dictionary<string, object?>>`, one dictionary per row. Each dictionary maps column names to values.
-Your actual client dictates this: if it gives you positional arrays instead, take those; if it gives you its own row
-type, take that. Shape the constructor around whatever your SDK actually returns, not around this example.
+`MyProviderDbDataReader` is what actually reads the rows returned by your client SDK. This example assumes that the client SDK returns a `List<Dictionary<string, object?>>` per row which maps column names to values. Your actual SDK might return a completely different shape altogether. Shape the constructor around whatever your SDK actually returns, not around this example.
 
 ```csharp
 public sealed class MyProviderDbDataReader(List<Dictionary<string, object?>> rows) : DbDataReader
@@ -407,4 +404,4 @@ public static class MyProviderEntityTypeBuilderExtensions
 - **Migrations.** `IMigrationsSqlGenerator` and `IHistoryRepository` are what `dotnet ef migrations add` and
   `Database.Migrate()` need.
 
-  When I wrote my provider, I wanted to quickly get to a point where it can succesfully read rows from the database. That's where my idea of a minimal provider, that this post promised, comes from. Nevertheless, the entry points for implementing mutations and batching are shown clearly in the post. Migrations, however were never in the scope for this post.
+  When I wrote my provider, I wanted to quickly get to a point where it can succesfully read rows from the database. That's where my idea of a minimal provider, that this post promised, comes from. Nevertheless, the entry points for implementing mutations and batching are shown clearly in the post. Migrations, however were never in the scope.
