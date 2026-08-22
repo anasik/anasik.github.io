@@ -1,6 +1,9 @@
+/* Used as the site's logotype (site title only) -- distinctive chunky
+   display face instead of just bolding the body font for the masthead. */
 @font-face {
     font-family: 'None Away';
-    src: url("../assets/NoneAwayFromTheMoon-OjK3.ttf") format("truetype")
+    src: url("../assets/NoneAwayFromTheMoon-OjK3.ttf") format("truetype");
+    font-display: swap;
 }
 
 /* ==========================================================================
