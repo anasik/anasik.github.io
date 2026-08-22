@@ -1371,7 +1371,24 @@ h1.site-title-main a {
     text-transform: uppercase;
     font-weight: 800;
     display: block;
-    margin-bottom: 8px;
+    margin: 0 auto;
+    width: fit-content;
+}
+
+/* A deliberate three-step scale (28 / 46 / 54, roughly a 1.65x / 1.17x
+   progression) instead of the old 30/50/60px-with-!important patchwork. */
+@media screen and (max-width: 480px) {
+    h1.site-title-main a {
+        font-size: 28px;
+        margin-bottom: 6px;
+    }
+}
+
+@media screen and (min-width: 1000px) {
+    h1.site-title-main a {
+        font-size: 60px;
+        font-weight: 900;
+    }
 }
 
 .site-header {
