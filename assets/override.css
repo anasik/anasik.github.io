@@ -611,6 +611,16 @@ table td {
     }
 }
 
+/* 36px was still tuned for tablets -- on an actual small phone (where most
+   real post titles here run long, e.g. "Highlight menu link of the current
+   page.") it was wrapping to 2-3 lines at a tight -1px letter-spacing. */
+@media screen and (max-width: 480px) {
+    .post-title {
+        font-size: 21px;
+        letter-spacing: -0.25px;
+    }
+}
+
 .post-content {
     margin-bottom: 30px
 }
