@@ -1384,6 +1384,28 @@ h1.site-title-main a {
     margin: 0;
 }
 
+/* The corner nav and theme toggle are `position: fixed` at top:8px with
+   ~30px height (bottom edge ~38px) on mobile -- give the title enough
+   top clearance that its centered text never sits underneath them. The
+   rest of the header shrinks down too, to match the now much smaller
+   corner UI instead of feeling oversized next to it. */
+@media screen and (max-width: 800px) {
+    .site-header {
+        padding: 42px 0 8px;
+    }
+}
+    
+@media screen and (max-width: 600px) {
+    /* Sized for the original 50px title -- now that the title is 30px on
+       small screens, these stayed fixed and started looking oversized
+       next to it. */
+    header .svg-icon {
+        width: 12px;
+        height: 12px;
+        padding-right: 3px;
+    }
+}
+
 /* The generic `ul { margin-bottom: 15px }` reset rule is meant for lists
    inside body copy -- it isn't relevant here, since spacing between the
    title and the icon row is handled by .site-header's own `gap` instead. */
