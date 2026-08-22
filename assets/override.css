@@ -277,7 +277,24 @@ code {
 
 pre {
     padding: 8px 12px;
-    overflow-x: auto
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
+}
+
+/* Mobile/touch browsers hide scrollbars until mid-scroll, so a long code
+   line just looks cut off instead of scrollable. Force a slim, always-visible
+   one as a scroll affordance. */
+pre::-webkit-scrollbar {
+    height: 6px;
+}
+
+pre::-webkit-scrollbar-track {
+    background: transparent;
+}
+
+pre::-webkit-scrollbar-thumb {
+    background: var(--border-strong);
+    border-radius: 3px;
 }
 
 pre>code {
