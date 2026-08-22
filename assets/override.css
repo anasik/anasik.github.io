@@ -1291,8 +1291,82 @@ article {
     overflow-wrap: break-word;
 }
 
-.post-meta {
+/* Chronological "keep reading" nav at the foot of every post -- the single
+   biggest lever for getting a reader from one post to another instead of
+   bouncing after just the one they landed on. */
+.post-nav {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 12px;
+    margin: 48px 0 8px;
+}
+
+.post-nav-link {
+    display: flex;
+    flex-direction: column;
+    gap: 4px;
+    padding: 14px 0;
+    border-top: 1px solid var(--border);
+    color: var(--text-body) !important;
+    text-decoration: none !important;
+    transition: border-color 0.15s ease-in;
+    min-width: 0;
+}
+
+.post-nav-link:hover {
+    border-color: var(--accent);
+}
+
+.post-nav-link:hover .post-nav-title {
     color: var(--accent);
+}
+
+.post-nav-label {
+    font-size: 11px;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.04em;
+    color: var(--text-muted);
+}
+
+.post-nav-title {
+    font-size: 16px;
+    font-weight: 600;
+    color: var(--heading);
+    line-height: 1.4;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    transition: color 0.15s ease-in;
+}
+
+.post-nav-next {
+    grid-column: 2;
+    text-align: right;
+    align-items: flex-end;
+    padding-left: 24px;
+    border-left: 1px solid var(--border);
+}
+
+.post-nav-prev:only-child {
+    grid-column: 1 / -1;
+}
+
+@media screen and (max-width: 600px) {
+    .post-nav {
+        grid-template-columns: 1fr;
+        margin: 36px 0 4px;
+    }
+
+    .post-nav-next {
+        grid-column: 1;
+        text-align: left;
+        align-items: flex-start;
+        padding-left: 0;
+        border-left: none;
+    }
 }
 
 h1.site-title-main a {
