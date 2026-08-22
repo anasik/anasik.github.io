@@ -1674,7 +1674,7 @@ header .social-media-list li .username {
     }
 
     .filter-chip .filter-count {
-        font-size: 9px;
+        font-size: 10px;
     }
 
     .filter-sentence {
@@ -1717,7 +1717,7 @@ header .social-media-list li .username {
     }
 
     .ftoggle--switch-merged .ftoggle-label {
-        font-size: 9px;
+        font-size: 10px;
         padding-left: 18px;
         padding-right: 6px;
     }
@@ -1734,7 +1734,7 @@ header .social-media-list li .username {
     }
 
     .ftoggle--pill .ftoggle-label {
-        font-size: 9px;
+        font-size: 10px;
     }
 
     .filter-result-count-inline,
@@ -1749,7 +1749,7 @@ header .social-media-list li .username {
 
     .category-badge,
     .category-badge-static {
-        font-size: 9px;
+        font-size: 10px;
         line-height: 1.3;
         padding: 0 5px;
         letter-spacing: 0;
