@@ -95,6 +95,51 @@ html {
     transition: background 0.15s ease-in;
 }
 
+/* Consistent, visible, on-brand keyboard-focus indicator. A lot of the
+   custom controls on this site (chips, toggles, badges) reset default
+   button styling, which can also strip out the browser's default focus
+   ring in some engines -- this guarantees one is always there instead. */
+:focus-visible {
+    outline: 2px solid var(--accent);
+    outline-offset: 2px;
+}
+
+/* Respect the OS-level "reduce motion" setting: every transition/animation
+   on the site collapses to effectively instant rather than being removed
+   outright, so state changes (theme swap, toggle flip, hover) still happen,
+   they just don't animate. */
+@media (prefers-reduced-motion: reduce) {
+    *,
+    *::before,
+    *::after {
+        animation-duration: 0.01ms !important;
+        animation-iteration-count: 1 !important;
+        transition-duration: 0.01ms !important;
+        scroll-behavior: auto !important;
+    }
+}
+
+/* Off-screen until keyboard-focused, then drops into the top-left corner
+   above the fixed nav so keyboard users can jump past header/nav clutter. */
+.skip-link {
+    position: absolute;
+    top: -100px;
+    left: 8px;
+    z-index: 1000;
+    background: var(--accent);
+    color: var(--accent-ink);
+    padding: 8px 16px;
+    border-radius: 6px;
+    font-size: 14px;
+    font-weight: 600;
+    text-decoration: none;
+    transition: top 0.15s ease-in;
+}
+
+.skip-link:focus {
+    top: 8px;
+}
+
 body,
 h1,
 h2,
