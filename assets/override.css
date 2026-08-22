@@ -1285,10 +1285,6 @@ button.category-badge-static:hover {
     color: var(--heading);
 }
 
-.post-body a {
-    word-break: break-all;
-}
-
 .post-body,
 article {
     color: var(--text-body);
