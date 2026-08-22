@@ -332,10 +332,6 @@ pre>code {
         font-weight: 500;
     }
 
-    h1.site-title-main a {
-        font-weight: 900 !important;
-        font-size: 60px !important;
-    }
 }
 
 @media screen and (max-width: 800px) {
