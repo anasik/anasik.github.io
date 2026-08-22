@@ -6,9 +6,9 @@ title: All Posts
 {%- assign cat_pairs = site.categories | sort -%}
 
 <div class="filter-bar" id="filter-bar">
-    <button type="button" class="filter-chip filter-all active" data-filter="__all__">All <span class="filter-count">{{ site.posts | size }}</span></button>
+    <button type="button" class="filter-chip filter-all active" data-filter="__all__" aria-pressed="true">All <span class="filter-count">{{ site.posts | size }}</span></button>
     {%- for pair in cat_pairs -%}
-    <button type="button" class="filter-chip" data-filter="{{ pair[0] | escape }}">{{ pair[0] }} <span class="filter-count">{{ pair[1] | size }}</span></button>
+    <button type="button" class="filter-chip" data-filter="{{ pair[0] | escape }}" aria-pressed="false">{{ pair[0] }} <span class="filter-count">{{ pair[1] | size }}</span></button>
     {%- endfor -%}
 </div>
 
@@ -26,7 +26,7 @@ title: All Posts
             {%- if post.categories.size > 0 -%}
             <span class="post-categories">
                 {%- for cat in post.categories -%}
-                <button type="button" class="category-badge category-badge-static post-cat-badge" data-filter="{{ cat | escape }}">{{ cat }}</button>
+                <button type="button" class="category-badge category-badge-static post-cat-badge" data-filter="{{ cat | escape }}" aria-label="Filter by {{ cat | escape }}">{{ cat }}</button>
                 {%- endfor -%}
             </span>
             {%- endif -%}
@@ -155,10 +155,14 @@ title: All Posts
     var fullySelected = !showAll && chips.every(function (chip) {
       return chip === allChip || active.has(chip.getAttribute('data-filter'));
     });
-    allChip.classList.toggle('active', showAll || fullySelected);
+    var allActive = showAll || fullySelected;
+    allChip.classList.toggle('active', allActive);
+    allChip.setAttribute('aria-pressed', allActive ? 'true' : 'false');
     chips.forEach(function (chip) {
       if (chip === allChip) return;
-      chip.classList.toggle('active', active.has(chip.getAttribute('data-filter')));
+      var chipActive = active.has(chip.getAttribute('data-filter'));
+      chip.classList.toggle('active', chipActive);
+      chip.setAttribute('aria-pressed', chipActive ? 'true' : 'false');
     });
     updateSentence();
   }
