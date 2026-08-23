@@ -557,7 +557,7 @@ table td {
     .post-body,
     .post-content {
         text-align: justify;
-hyphens: auto;
+        hyphens: auto;
         -webkit-hyphens: auto;
     }
 
